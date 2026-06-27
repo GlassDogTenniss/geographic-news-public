@@ -12,21 +12,67 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Write map page files
+      - name: Write public map page
         shell: python
         run: |
-          import base64
-          files = {
-              "index.html": "PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImphIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0idXRmLTgiPgogIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MSI+CiAgPHRpdGxlPmdlb2dyYXBoaWMtbmV3czwvdGl0bGU+CiAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSJodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvbnBtL2xlYWZsZXRAMS45LjQvZGlzdC9sZWFmbGV0LmNzcyI+CiAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSIuL3N0eWxlLmNzcyI+CjwvaGVhZD4KPGJvZHk+CiAgPGRpdiBpZD0ibWFwIj48L2Rpdj4KICA8YXNpZGUgY2xhc3M9InBhbmVsIj4KICAgIDxoMT5nZW9ncmFwaGljLW5ld3M8L2gxPgogICAgPGRpdiBpZD0ic3RhdHVzIiBjbGFzcz0ibXV0ZWQiPmxhdGVzdC5nZW9qc29uIOOCkuiqreOBv+i+vOOBv+S4rS4uLjwvZGl2PgogICAgPGRpdiBpZD0idG9waWNMaXN0IiBjbGFzcz0idG9waWMtbGlzdCI+PC9kaXY+CiAgPC9hc2lkZT4KICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS9sZWFmbGV0QDEuOS40L2Rpc3QvbGVhZmxldC5qcyI+PC9zY3JpcHQ+CiAgPHNjcmlwdCBzcmM9Ii4vYXBwLmpzIj48L3NjcmlwdD4KPC9ib2R5Pgo8L2h0bWw+Cg==",
-              "style.css": "aHRtbCwgYm9keSwgI21hcCB7CiAgaGVpZ2h0OiAxMDAlOwogIG1hcmdpbjogMDsKfQoKYm9keSB7CiAgb3ZlcmZsb3c6IGhpZGRlbjsKfQoKI21hcCB7CiAgd2lkdGg6IDEwMCU7CiAgcG9zaXRpb246IHJlbGF0aXZlOwp9CgpwYW5lbCB7CiAgcG9zaXRpb246IGFic29sdXRlOwogIHotaW5kZXg6IDEwMDA7CiAgdG9wOiAxMnB4OwogIGxlZnQ6IDEycHg7CiAgd2lkdGg6IG1pbigzNjBweCwgY2FsYygxMDB2dyAtIDI0cHgpKTsKICBtYXgtaGVpZ2h0OiBjYWxjKDEwMHZoIC0gMjRweCk7CiAgb3ZlcmZsb3c6IGF1dG87CiAgYmFja2dyb3VuZDogcmdiYSgyNTUsIDI1NSwgMjU1LCAwLjk0KTsKICBib3JkZXItcmFkaXVzOiAxMHB4OwogIHBhZGRpbmc6IDEycHggMTRweDsKICBib3gtc2hhZG93OiAwIDJweCAxMnB4IHJnYmEoMCwgMCwgMCwgMC4xOCk7CiAgZm9udC1mYW1pbHk6IHN5c3RlbS11aSwgLWFwcGxlLXN5c3RlbSwgQmxpbmtNYWNTeXN0ZW1Gb250LCAiU2Vnb2UgVUkiLCBzYW5zLXNlcmlmOwogIGZvbnQtc2l6ZTogMTRweDsKICBsaW5lLWhlaWdodDogMS41Owp9CgpwYW5lbCBoMSB7CiAgZm9udC1zaXplOiAxNnB4OwogIG1hcmdpbjogMCAwIDRweDsKfQoKLm11dGVkIHsKICBjb2xvcjogIzY2NjsKICBmb250LXNpemU6IDEycHg7Cn0KCi50b3BpYy1saXN0IHsKICBtYXJnaW4tdG9wOiAxMHB4OwogIGRpc3BsYXk6IGdyaWQ7CiAgZ2FwOiA4cHg7Cn0KCi50b3BpYy1pdGVtIHsKICBib3JkZXItdG9wOiAxcHggc29saWQgI2RkZDsKICBwYWRkaW5nLXRvcDogOHB4OwogIGN1cnNvcjogcG9pbnRlcjsKfQoKLnRvcGljLXRpdGxlIHsKICBmb250LXdlaWdodDogNjUwOwp9CgoudG9waWMtbWV0YSB7CiAgY29sb3I6ICM1NTU7CiAgZm9udC1zaXplOiAxMnB4OwogIG1hcmdpbi10b3A6IDJweDsKfQoKYSB7CiAgY29sb3I6ICMxMTU1Y2M7Cn0K",
-              "app.js": "Y29uc3QgbWFwID0gTC5tYXAoJ21hcCcpLnNldFZpZXcoWzM2LjIsIDEzOC4yXSwgNSk7CgpMLnRpbGVMYXllcignaHR0cHM6Ly97c30udGlsZS5vcGVuc3RyZWV0bWFwLm9yZy97en0ve3h9L3t5fS5wbmcnLCB7CiAgbWF4Wm9vbTogMTksCiAgYXR0cmlidXRpb246ICcmY29weTsgT3BlblN0cmVldE1hcCBjb250cmlidXRvcnMnCn0pLmFkZFRvKG1hcCk7CgpkZWxldGUgTC5JY29uLkRlZmF1bHQucHJvdG90eXBlLl9nZXRJY29uVXJsOwpMLkljb24uRGVmYXVsdC5tZXJnZU9wdGlvbnMoewogIGljb25SZXRpbmFVcmw6ICdodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvbnBtL2xlYWZsZXRAMS45LjQvZGlzdC9pbWFnZXMvbWFya2VyLWljb24tMngu cG5nJywKICBpY29uVXJsOiAnaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS9sZWFmbGV0QDEuOS40L2Rpc3QvaW1hZ2VzL21hcmtlci1pY29uLnBuZycsCiAgc2hhZG93VXJsOiAnaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS9sZWFmbGV0QDEuOS40L2Rpc3QvaW1hZ2VzL21hcmtlci1zaGFkb3cucG5nJwp9KTsKCmNvbnN0IHN0YXR1c0VsID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3N0YXR1cycpOwpjb25zdCB0b3BpY0xpc3RFbCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd0b3BpY0xpc3QnKTsKY29uc3QgbWFya2VycyA9IFtdOwoKZnVuY3Rpb24gZXNjYXBlSHRtbCh2YWx1ZSkgewogIHJldHVybiBTdHJpbmcodmFsdWUgPz8gJycpCiAgICAucmVwbGFjZUFsbCgnJicsICcmYW1wOycpCiAgICAucmVwbGFjZUFsbCgnPCcsICcmbHQ7JykKICAgIC5yZXBsYWNlQWxsKCc+JywgJyZndDsnKQogICAgLnJlcGxhY2VBbGwoJyInLCAnJnF1b3Q7JykKICAgIC5yZXBsYWNlQWxsKCInIiwgJyYjMDM5OycpOwp9CgpmdW5jdGlvbiBwb3B1cEh0bWwocHJvcGVydGllcykgewogIGNvbnN0IHRpdGxlID0gZXNjYXBlSHRtbChwcm9wZXJ0aWVzLnRpdGxlKTsKICBjb25zdCBwbGFjZSA9IGVzY2FwZUh0bWwocHJvcGVydGllcy5yZXByZXNlbnRhdGl2ZV9wbGFjZSk7CiAgY29uc3QgdHlwZSA9IGVzY2FwZUh0bWwocHJvcGVydGllcy5wbGFjZV90eXBlKTsKICBjb25zdCByZWFzb24gPSBlc2NhcGVIdG1sKHByb3BlcnRpZXMucGxhY2VfcmVhc29uKTsKICBjb25zdCBzb3VyY2UgPSBlc2NhcGVIdG1sKHByb3BlcnRpZXMuc291cmNlKTsKICBjb25zdCBsaW5rID0gZXNjYXBlSHRtbChwcm9wZXJ0aWVzLmxpbmspOwogIHJldHVybiBgCiAgICA8c3Ryb25nPiR7dGl0bGV9PC9zdHJvbmc+PGJyPgogICAgPHNwYW4+JHtwbGFjZX08L3NwYW4+PGJyPgogICAgPHNtYWxsPiR7dHlwZX08L3NtYWxsPjxicj4KICAgIDxwPiR7cmVhc29ufTwvcD4KICAgICR7bGluayA/IGA8YSBocmVmPSIke2xpbmt9IiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciBub3JlZmVycmVyIj4ke3NvdXJjZSB8fCAnc291cmNlJ308L2E+YCA6ICcnfQogIGA7Cn0KCmZ1bmN0aW9uIGFkZFRvcGljTGlzdEl0ZW0oZmVhdHVyZSwgbWFya2VyKSB7CiAgY29uc3QgcCA9IGZlYXR1cmUucHJvcGVydGllcyB8fCB7fTsKICBjb25zdCBpdGVtID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2Jyk7CiAgaXRlbS5jbGFzc05hbWUgPSAndG9waWMtaXRlbSc7CiAgaXRlbS5pbm5lckhUTUwgPSBgCiAgICA8ZGl2IGNsYXNzPSJ0b3BpYy10aXRsZSI+JHtlc2NhcGVIdG1sKHAudGl0bGUpfTwvZGl2PgogICAgPGRpdiBjbGFzcz0idG9waWMtbWV0YSI+JHtlc2NhcGVIdG1sKHAucmVwcmVzZW50YXRpdmVfcGxhY2UpfSAvICR7ZXNjYXBlSHRtbChwLnBsYWNlX3R5cGUpfTwvZGl2PgogIGA7CiAgaXRlbS5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsICgpID0+IHsKICAgIG1hcmtlci5vcGVuUG9wdXAoKTsKICAgIG1hcC5zZXRWaWV3KG1hcmtlci5nZXRMYXRMbmcoKSwgTWF0aC5tYXgobWFwLmdldFpvb20oKSwgMTIpKTsKICB9KTsKICB0b3BpY0xpc3RFbC5hcHBlbmRDaGlsZChpdGVtKTsKfQoKZmV0Y2goJy4vbGF0ZXN0Lmdlb2pzb24nLCB7IGNhY2hlOiAnbm8tc3RvcmUnIH0pCiAgLnRoZW4oKHJlc3BvbnNlKSA9PiB7CiAgICBpZiAoIXJlc3BvbnNlLm9rKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcihgSFRUUCAke3Jlc3BvbnNlLnN0YXR1c31gKTsKICAgIH0KICAgIHJldHVybiByZXNwb25zZS5qc29uKCk7CiAgfSkKICAudGhlbigoZ2VvanNvbikgPT4gewogICAgY29uc3QgZmVhdHVycyA9IGdlb2pzb24uZmVhdHVyZXMgfHwgW107CiAgICBmZWF0dXJlcy5mb3JFYWNoKChmZWF0dXJlKSA9PiB7CiAgICAgIGNvbnN0IGNvb3JkcyA9IGZlYXR1cmUuZ2VvbWV0cnkgJiYgZmVhdHVyZS5nZW9tZXRyeS5jb29yZGluYXRlczsKICAgICAgaWYgKCFjb29yZHMgfHwgY29vcmRzLmxlbmd0aCA8IDIpIHJldHVybjsKICAgICAgY29uc3QgbWFya2VyID0gTC5tYXJrZXIoW2Nvb3Jkc1sxXSwgY29vcmRzWzBdXSkuYWRkVG8obWFwKTsKICAgICAgbWFya2VyLmJpbmRQb3B1cChwb3B1cEh0bWwoZmVhdHVyZS5wcm9wZXJ0aWVzIHx8IHt9KSk7CiAgICAgIG1hcmtlcnMucHVzaChtYXJrZXIpOwogICAgICBhZGRUb3BpY0xpc3RJdGVtKGZlYXR1cmUsIG1hcmtlcik7CiAgICB9KTsKCiAgICBpZiAobWFya2Vycy5sZW5ndGggPiAwKSB7CiAgICAgIGNvbnN0IGdyb3VwID0gTC5mZWF0dXJlR3JvdXAobWFya2Vycyk7CiAgICAgIG1hcC5maXRCb3VuZHMoZ3JvdXAuZ2V0Qm91bmRzKCkucGFkKDAuMjUpKTsKICAgIH0KCiAgICBjb25zdCBjcmVhdGVkQXQgPSBnZW9qc29uLnByb3BlcnRpZXMgJiYgZ2VvanNvbi5wcm9wZXJ0aWVzLmNyZWF0ZWRfYXQ7CiAgICBzdGF0dXNFbC50ZXh0Q29udGVudCA9IGAke21hcmtlcnMubGVuZ3RofeS7tuOBruODi+ODpeODvOOCueWcsOeCueAgYCAKICAgICAgKyAoY3JlYXRlZEF0ID8gYCAvICR7Y3JlYXRlZEF0fWAgOiAnJyk7CiAgfSkKICAuY2F0Y2goKGVycm9yKSA9PiB7CiAgICBjb25zb2xlLmVycm9yKGVycm9yKTsKICAgIHN0YXR1c0VsLnRleHRDb250ZW50ID0gJ2xhdGVzdC5nZW9qc29uIOOBru 読み込みに失敗しました。JzsKICB9KTsK",
-          }
-          for path, payload in files.items():
-              payload = payload.replace(" ", "")
-              with open(path, "wb") as f:
-                  f.write(base64.b64decode(payload))
+          from pathlib import Path
 
-      - name: Commit map page files
+          open_tag = "<scr" + "ipt"
+          close_tag = "</scr" + "ipt>"
+
+          html = f'''<!doctype html>
+          <html lang="ja">
+          <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>geographic-news</title>
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
+            <link rel="stylesheet" href="./style.css">
+          </head>
+          <body>
+            <div id="map"></div>
+            <aside class="panel">
+              <h1>geographic-news</h1>
+              <div id="status" class="muted">loading latest.geojson...</div>
+              <div id="topicList" class="topic-list"></div>
+            </aside>
+            {open_tag} src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js">{close_tag}
+            {open_tag} src="./app.js">{close_tag}
+          </body>
+          </html>
+          '''
+
+          css = '''html, body, #map { height: 100%; margin: 0; }
+          body { overflow: hidden; }
+          #map { width: 100%; position: relative; }
+          .panel { position: absolute; z-index: 1000; top: 12px; left: 12px; width: min(360px, calc(100vw - 24px)); max-height: calc(100vh - 24px); overflow: auto; background: rgba(255,255,255,.94); border-radius: 10px; padding: 12px 14px; box-shadow: 0 2px 12px rgba(0,0,0,.18); font-family: system-ui, sans-serif; font-size: 14px; line-height: 1.5; }
+          .panel h1 { font-size: 16px; margin: 0 0 4px; }
+          .muted { color: #666; font-size: 12px; }
+          .topic-list { margin-top: 10px; display: grid; gap: 8px; }
+          .topic-item { border-top: 1px solid #ddd; padding-top: 8px; cursor: pointer; }
+          .topic-title { font-weight: 650; }
+          .topic-meta { color: #555; font-size: 12px; margin-top: 2px; }
+          a { color: #1155cc; }
+          '''
+
+          js = '''const map = L.map('map').setView([36.2, 138.2], 5);
+          L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '&copy; OpenStreetMap contributors' }).addTo(map);
+          delete L.Icon.Default.prototype._getIconUrl;
+          L.Icon.Default.mergeOptions({ iconRetinaUrl: 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/images/marker-icon-2x.png', iconUrl: 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/images/marker-icon.png', shadowUrl: 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/images/marker-shadow.png' });
+          const statusEl = document.getElementById('status');
+          const topicListEl = document.getElementById('topicList');
+          const markers = [];
+          function esc(v) { return String(v ?? '').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#039;'); }
+          function popup(p) { const link = esc(p.link); return `<strong>${esc(p.title)}</strong><br><span>${esc(p.representative_place)}</span><br><small>${esc(p.place_type)}</small><br><p>${esc(p.place_reason)}</p>${link ? `<a href="${link}" target="_blank" rel="noopener noreferrer">${esc(p.source) || 'source'}</a>` : ''}`; }
+          function addList(feature, marker) { const p = feature.properties || {}; const item = document.createElement('div'); item.className = 'topic-item'; item.innerHTML = `<div class="topic-title">${esc(p.title)}</div><div class="topic-meta">${esc(p.representative_place)} / ${esc(p.place_type)}</div>`; item.addEventListener('click', () => { marker.openPopup(); map.setView(marker.getLatLng(), Math.max(map.getZoom(), 12)); }); topicListEl.appendChild(item); }
+          fetch('./latest.geojson', { cache: 'no-store' }).then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }).then(geojson => { const features = geojson.features || []; features.forEach(feature => { const c = feature.geometry && feature.geometry.coordinates; if (!c || c.length < 2) return; const marker = L.marker([c[1], c[0]]).addTo(map); marker.bindPopup(popup(feature.properties || {})); markers.push(marker); addList(feature, marker); }); if (markers.length) { map.fitBounds(L.featureGroup(markers).getBounds().pad(0.25)); } const createdAt = geojson.properties && geojson.properties.created_at; statusEl.textContent = `${markers.length}件のニュース地点` + (createdAt ? ` / ${createdAt}` : ''); }).catch(e => { console.error(e); statusEl.textContent = 'latest.geojson の読み込みに失敗しました。'; });
+          '''
+
+          Path('index.html').write_text(html, encoding='utf-8')
+          Path('style.css').write_text(css, encoding='utf-8')
+          Path('app.js').write_text(js, encoding='utf-8')
+
+      - name: Commit public map page
         shell: bash
         run: |
           git config user.name "github-actions[bot]"

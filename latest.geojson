@@ -1,17 +1,63 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-27T11:27:57.123999+00:00",
-    "count": 59,
+    "created_at": "2026-06-27T11:35:53.882997+00:00",
+    "count": 79,
     "stats": {
       "collected": 200,
-      "resolved": 99,
-      "topics": 59,
-      "unresolved": 101,
-      "deduped": 40
+      "resolved": 152,
+      "topics": 79,
+      "unresolved": 48,
+      "deduped": 73
     }
   },
   "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1233,
+          35.6046
+        ]
+      },
+      "properties": {
+        "title": "台風7号は千葉県沖を通過中、土砂災害に警戒 夜には温帯低気圧に - 朝日新聞",
+        "source": "朝日新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GU1FDVF9vdUtiRGhXZ2NsY2tmaEgwblFXS2p6bVBPQk5CeTVmMHRERXRhaWtMenBlbWdGZ3hLdXF0WVlNcC10a1gybVgtMU9ocGw2aWt4UVVvVEdIbXk1MVY2bEtjeUk?oc=5",
+        "published_at": "2026-06-27T11:16:02+00:00",
+        "representative_place": "千葉県庁",
+        "geocode_query": "千葉県庁 千葉県千葉市中央区市場町",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに千葉県・千葉県沖・千葉県内の広域災害表現が現れるため、県を代表する自治体機関の所在地に置く（一致語: 千葉県沖）",
+        "confidence": 0.72,
+        "rule_id": "chiba_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4017,
+          33.5902
+        ]
+      },
+      "properties": {
+        "title": "「ドーン」地面陥没 福岡の住宅街",
+        "source": "Yahoo!ニュース・トピックス - 主要",
+        "link": "https://news.yahoo.co.jp/pickup/6585919?source=rss",
+        "published_at": "2026-06-27T11:15:51+00:00",
+        "representative_place": "福岡市役所",
+        "geocode_query": "福岡市役所 福岡県福岡市中央区天神",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "記事タイトルに福岡の住宅街・福岡市が現れるため、市域を代表する自治体所在地に置く（一致語: 福岡の住宅街）",
+        "confidence": 0.68,
+        "rule_id": "fukuoka_city"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -33,6 +79,52 @@
         "place_reason": "多摩川に関する出来事・影響を代表する河川周辺地点（一致語: 多摩川）",
         "confidence": 0.68,
         "rule_id": "tokyo_tamagawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.7274,
+          35.3606
+        ]
+      },
+      "properties": {
+        "title": "【地震情報まとめ】山梨県で震度6弱 「富士山の火山活動に異常なし」気象庁 - テレ朝NEWS",
+        "source": "テレ朝NEWS",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lR0hVb0NuMG5lT2xRS2RVRVBBdEc0MXB0TXg1WjBRZ3ZWM1paUVU1TVFmbVM1SnM1RlU5UGdJeEpJRXc2NHNGV1RJSkUzbXJ6RGJmRDgzY241S0M2SURnVmw5bUVuSWlpUjZIM3BlSjNrdw?oc=5",
+        "published_at": "2026-06-27T10:54:27+00:00",
+        "representative_place": "富士山",
+        "geocode_query": "富士山",
+        "place_type": "affected_site",
+        "location_precision": "landmark",
+        "place_reason": "記事タイトルに富士山が現れるため、対象となる山体の代表地点に置く（一致語: 富士山）",
+        "confidence": 0.86,
+        "rule_id": "mt_fuji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.473,
+          35.786
+        ]
+      },
+      "properties": {
+        "title": "台風接近に伴う、「一輪 / Pages」/「Pages / 一輪」リリースイベント 6月28日（日）＠埼玉県 エミテラス所沢に関するお知らせ - ソニーミュージックオフィシャルサイト",
+        "source": "ソニーミュージックオフィシャルサイト",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMDNZTUI1c3U1ckFDOFBCcnM4QTNYSEtHWVlMd1E2NFN6d2xyOVFDbmdlVEtLbkNTNTYtam1FQmdwSVJ4Qk5idy12eHRSck9FNWoyZVdUaUxvVTNxWk1TYkNsZURydi1OQWVBX2dxUWFGMk5iMXl5SjF5aG9qT0s5NUg0RQ?oc=5",
+        "published_at": "2026-06-27T10:49:26+00:00",
+        "representative_place": "エミテラス所沢",
+        "geocode_query": "エミテラス所沢 埼玉県所沢市",
+        "place_type": "event_site",
+        "location_precision": "facility",
+        "place_reason": "記事タイトルにエミテラス所沢・所沢が現れるため、イベント会場の所在地に置く（一致語: エミテラス所沢）",
+        "confidence": 0.78,
+        "rule_id": "emiterrace_tokorozawa"
       }
     },
     {
@@ -109,6 +201,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.9037,
+          36.9417
+        ]
+      },
+      "properties": {
+        "title": "２７日朝 小名浜港で車両が海中転落 埼玉の家族３人救助も８０代夫婦が死亡 - いわき民報社",
+        "source": "いわき民報社",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DeUY3Q3hDVHR3Q3ZHbFJ6N2pnT2V4aGk3OWJ5a0tybF90WXVUNWUxOVlNZTdfaldjbFdEc2N5aE9xanBmeGNaVzg3ckFOcVFibDhNcmNUNjUxQQ?oc=5",
+        "published_at": "2026-06-27T10:44:48+00:00",
+        "representative_place": "小名浜港",
+        "geocode_query": "小名浜港 福島県いわき市小名浜",
+        "place_type": "event_site",
+        "location_precision": "port",
+        "place_reason": "記事タイトルに小名浜港が現れるため、事故発生地の港に置く（一致語: 小名浜港）",
+        "confidence": 0.88,
+        "rule_id": "onahama_port"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.7714,
           35.6864
         ]
@@ -155,6 +270,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          105.7469,
+          10.0452
+        ]
+      },
+      "properties": {
+        "title": "政府は、メコンデルタにおける地滑りや塩水侵入対策への予算配分を最優先事項としている。 - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNWk4NWI2MnJuaWNCN3BhYXRSblBaMTZrR09GX1VDaHh6SEtwS1VKRjNnLVlyUnJ2Q1RyUkw2UkU5UEhrRks5THlkSkdVWndlbDFYWGU2YmlIeXBVaGhVdUpQSUh0QnR1ZmFJMkJlc0FqeXZEVWxPX3NuVTlzR3VrN0l5aVpZaFZIQ0tUX2lPNlNaZWtiU2l5SzFR?oc=5",
+        "published_at": "2026-06-27T10:40:11+00:00",
+        "representative_place": "メコンデルタ",
+        "geocode_query": "Mekong Delta Vietnam",
+        "place_type": "affected_site",
+        "location_precision": "region",
+        "place_reason": "記事タイトルにメコンデルタが現れるため、影響地域を代表する広域地点に置く（一致語: メコンデルタ）",
+        "confidence": 0.74,
+        "rule_id": "mekong_delta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.7199,
           35.7092
         ]
@@ -171,6 +309,52 @@
         "place_reason": "記事タイトルに早稲田大学が現れるため、関係機関の代表地点に置く（一致語: 早稲田大学）",
         "confidence": 0.68,
         "rule_id": "waseda_university"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6704,
+          35.5617
+        ]
+      },
+      "properties": {
+        "title": "JR南武線の平間踏切で人身事故 上下線で一時運転見合わせ、1万人に影響 - au Webポータル",
+        "source": "au Webポータル",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIVUdhSDZGaTk1clNZY3c0YjY2dWMtWmlNdEVsUmFyZDFCZzNDYzMyUmVvTC1CUnAtcXFBQXBQS1VNM3dqYk1QNDNvY1Q0bDBZT0ozSzZUdFFUSkw2ZFNna19OWmhqcWtjOE9seUg0azM2RkRPZnRja2l2aw?oc=5",
+        "published_at": "2026-06-27T10:30:00+00:00",
+        "representative_place": "JR南武線 平間踏切付近",
+        "geocode_query": "平間踏切 神奈川県川崎市中原区",
+        "place_type": "event_site",
+        "location_precision": "railway_crossing",
+        "place_reason": "記事タイトルに平間踏切が現れるため、人身事故の発生地点付近に置く（一致語: JR南武線の平間踏切）",
+        "confidence": 0.86,
+        "rule_id": "hirama_crossing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1233,
+          35.6046
+        ]
+      },
+      "properties": {
+        "title": "千葉県内 ３市３町は避難指示を解除 ９市町は継続 - NHKニュース",
+        "source": "NHKニュース",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CU2tMMDBaRUtXRGZ6R1hPaG9JMnJRQlJkRlVtdGZRQ28zeGduQlNzR296U2luSXJFR1NINmxtcGEtTURKa0VWQkk4WjhkNExMb01rM2NXa3A?oc=5",
+        "published_at": "2026-06-27T10:29:00+00:00",
+        "representative_place": "千葉県庁",
+        "geocode_query": "千葉県庁 千葉県千葉市中央区市場町",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに千葉県・千葉県沖・千葉県内の広域災害表現が現れるため、県を代表する自治体機関の所在地に置く（一致語: 千葉県内）",
+        "confidence": 0.72,
+        "rule_id": "chiba_prefecture"
       }
     },
     {
@@ -224,6 +408,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.6425,
+          35.4478
+        ]
+      },
+      "properties": {
+        "title": "【釣果速報】納竿までイサキざんまい！神奈川県正海丸で全員30匹以上ゲットの快挙！初心者さんもいらっしゃい！ - Excite エキサイト",
+        "source": "Excite エキサイト",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBidFlsUm1wT3kxUVFpR19WalpfYnhMZzBIQU1vUXh0U21vMFpicWlLNHc4WjdrQmpKWUF3NTFzNHZlZjdwWjUxNG9mMXZHanlRSVFqcU56N09qMDJ5T0RVZFczbVhBLWti?oc=5",
+        "published_at": "2026-06-27T10:10:00+00:00",
+        "representative_place": "神奈川県庁",
+        "geocode_query": "神奈川県庁 神奈川県横浜市中区日本大通",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに神奈川県が現れるため、県を代表する自治体機関の所在地に置く（一致語: 神奈川県）",
+        "confidence": 0.7,
+        "rule_id": "kanagawa_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           116.4074,
           39.9042
         ]
@@ -263,6 +470,29 @@
         "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨）",
         "confidence": 0.7,
         "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8342,
+          21.0278
+        ]
+      },
+      "properties": {
+        "title": "レ・ミン・フン首相：政策立案や法制定において、困難を国民や企業に押し付けてはならない。 - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUlhjaTN0dF8xby1aQmlScmtPT1FmNzZWT1ZfTXEwUDRZN2ZPZ0JnWWczSjI5WDJ1N1lON3htV1lKQmJBR1owbWt5RmwxaTVaeTJXMVVSZUVtREROeV80N0RyVnM5UG5FOGxNOWFldDVWVjZ5Y1o0Vm81LXJzOWxuVWJUYVVPbjZsMjl6UFgySnFzWjAyNGpyVHR6TXVTVjJ4Q1FPT3JVTVpqbE9XMEVWN09zbk5zeUFoM1BrQ3RNUE1nTkhHTWpkWkxxeThsc0RuNS03Rm1yUXBDZw?oc=5",
+        "published_at": "2026-06-27T10:02:27+00:00",
+        "representative_place": "ベトナム・ハノイ",
+        "geocode_query": "Hanoi Vietnam",
+        "place_type": "decision_site",
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルにベトナム政府・首相級の政治表現が現れるため、国の政治中心である首都に置く（一致語: レ・ミン・フン首相）",
+        "confidence": 0.62,
+        "rule_id": "vietnam_hanoi_government"
       }
     },
     {
@@ -362,6 +592,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.1233,
+          35.6046
+        ]
+      },
+      "properties": {
+        "title": "台風第７号及び第８号の千葉県における被害状況等について - 選挙ドットコム",
+        "source": "選挙ドットコム",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YSGJfaUk5U3JSd0dwbzctRGw5NWFVclV4Tm9UR3VvdmJLcDNxOFJnajl3NDZId3hjRkxRT3ZCMGhjUUlqVGk5X3NlUlNjb09rblVfeURDOVdvVHlKRG9Z?oc=5",
+        "published_at": "2026-06-27T09:52:54+00:00",
+        "representative_place": "千葉県庁",
+        "geocode_query": "千葉県庁 千葉県千葉市中央区市場町",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに千葉県・千葉県沖・千葉県内の広域災害表現が現れるため、県を代表する自治体機関の所在地に置く（一致語: 千葉県における）",
+        "confidence": 0.72,
+        "rule_id": "chiba_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.7714,
           35.6864
         ]
@@ -408,6 +661,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.2015,
+          47.6101
+        ]
+      },
+      "properties": {
+        "title": "Steam向けコントローラー「Steam Controller」を紹介！デュアルトラックパッドやジャイロ操作対応など多機能さが特徴 - Gamer",
+        "source": "Gamer",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UWXp2dDM4UkZQTjdyZ2J1YTJBWG9yanNGeFB1RVY4eGp3QWVIN1EyaUdYOUJoVWNFcnVueDFZcl9jUE5icS1yck5ic1ZGcExORmRQVw?oc=5",
+        "published_at": "2026-06-27T09:45:00+00:00",
+        "representative_place": "Valve本社",
+        "geocode_query": "Valve headquarters Bellevue Washington",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "記事タイトルにSteam・Valve関連製品が現れるため、関係企業の代表地点に置く（一致語: Steam Controller）",
+        "confidence": 0.58,
+        "rule_id": "valve_headquarters"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6489,
+          35.8569
+        ]
+      },
+      "properties": {
+        "title": "県教委 調査結果 校外行事で「白バス」利用なし／埼玉県（テレ玉） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1V0t2ZDVINTNxQW1fbmVvbFBlb3BleV93c0JWeFVzc1RCS20xWXFpbTFhX0xYU0U4enZMc0pGc3RxNThMdi05QjIzcjZFTGV6U0EtWE9qV01JLUZwcmNuMHJVamg1akNzUlJJQWpVSkdtZUdMOTJBLWpHUEJYc00?oc=5",
+        "published_at": "2026-06-27T09:43:23+00:00",
+        "representative_place": "埼玉県庁",
+        "geocode_query": "埼玉県庁 埼玉県さいたま市浦和区高砂",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに埼玉県・埼玉の広域表現が現れるため、県を代表する自治体機関の所在地に置く（一致語: 埼玉県）",
+        "confidence": 0.7,
+        "rule_id": "saitama_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6489,
+          35.8569
+        ]
+      },
+      "properties": {
+        "title": "台風7号・8号 県内にも影響／埼玉県（テレ玉） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GTzFFUVVwUE9sQ21UZ0g3X2t6NUJ0Q2I3b2d6LWZhY19oWXUyS09iam9qS2t3ekVtcFhvSmRWeHZnMDVsWlZWd2M4VUF4MlNjcFpSbTVwU2VkNWlfVjJvaUZheWJRRXVMTW5TejVraGtEMmozY2tYaFZlcHMxNGM?oc=5",
+        "published_at": "2026-06-27T09:41:59+00:00",
+        "representative_place": "埼玉県庁",
+        "geocode_query": "埼玉県庁 埼玉県さいたま市浦和区高砂",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに埼玉県・埼玉の広域表現が現れるため、県を代表する自治体機関の所在地に置く（一致語: 埼玉県）",
+        "confidence": 0.7,
+        "rule_id": "saitama_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           138.5684,
           35.6639
         ]
@@ -424,6 +746,52 @@
         "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨）",
         "confidence": 0.7,
         "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6425,
+          35.4478
+        ]
+      },
+      "properties": {
+        "title": "横浜(神奈川県)の過去の天気(実況天気・2026年06月) - tenki.jp",
+        "source": "tenki.jp",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlNEdZRnhpdjJhc3JpRU5ERjNQNDV4LXhoU2k2WmZTNlZJWll1QTZMcVluaVMzcFRBRTEyRThLd3QyTlZ0R2hkTHBjclJzaGNWeWhEVG1Yc2xOMlF6MkE?oc=5",
+        "published_at": "2026-06-27T09:31:47+00:00",
+        "representative_place": "神奈川県庁",
+        "geocode_query": "神奈川県庁 神奈川県横浜市中区日本大通",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに神奈川県が現れるため、県を代表する自治体機関の所在地に置く（一致語: 神奈川県）",
+        "confidence": 0.7,
+        "rule_id": "kanagawa_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6425,
+          35.4478
+        ]
+      },
+      "properties": {
+        "title": "（午後5時時点）台風7号・8号が列島に接近 神奈川県内への影響は（tvkニュース（テレビ神奈川）） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sQjBQQ1BwR1pXV201SUhpaFdsTXpHOXF2ZUhVb282X19WWGk1ZF9ORXVDVDFiX2RSSU5PRWJtb29BajVNcTRteXk2aUNaZkFtckNfMFlJZkxreUhoNEVSSU44RkpEaHdEZUR6bmY4WWg2cE5haFJ5WlVCcjRlaUE?oc=5",
+        "published_at": "2026-06-27T09:19:38+00:00",
+        "representative_place": "神奈川県庁",
+        "geocode_query": "神奈川県庁 神奈川県横浜市中区日本大通",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに神奈川県が現れるため、県を代表する自治体機関の所在地に置く（一致語: 神奈川県内）",
+        "confidence": 0.7,
+        "rule_id": "kanagawa_prefecture"
       }
     },
     {
@@ -523,22 +891,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6921,
-          35.6896
+          139.6425,
+          35.4478
         ]
       },
       "properties": {
-        "title": "台風7号、東海・関東に接近「27日午後9時には千葉県の東で温帯低気圧に変わる予想。夜のうちには抜けていく」 - ABEMA TIMES",
-        "source": "ABEMA TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JQlIyU0pUN25zSFVBdWxQSXFhRUJIUWl5UUowZ0NCd29FeEY2TTZOeE9lTWc2dUc2NldWVG11cXpOQlVad2ZSNXlNVEd2SmJ1Nldhcw?oc=5",
-        "published_at": "2026-06-27T08:54:00+00:00",
-        "representative_place": "東京都庁",
-        "geocode_query": "東京都庁 東京都新宿区西新宿",
+        "title": "神奈川県庁の本庁舎、初の大規模改修へ ２０２８年度にも、執務環境を改善 - カナロコ",
+        "source": "カナロコ",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SN2dJa1p1UnZ3dXlaR040Z0lpbmtYV09hTW82dTU5cW02Y0g5RVpsTWk0bWZOR2IwTDJjcnhjX2JiWTZJanY1ejFqQXBCNHZZSFlyakhMTzFJZVhvOGRjUGZORWxkNDVSeFI3bw?oc=5",
+        "published_at": "2026-06-27T09:00:00+00:00",
+        "representative_place": "神奈川県庁",
+        "geocode_query": "神奈川県庁 神奈川県横浜市中区日本大通",
         "place_type": "affected_site",
-        "location_precision": "region",
-        "place_reason": "記事タイトルに関東が現れるため、広域影響を代表させる地点として東京都庁に置く（一致語: 関東）",
-        "confidence": 0.58,
-        "rule_id": "kanto_region"
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに神奈川県が現れるため、県を代表する自治体機関の所在地に置く（一致語: 神奈川県）",
+        "confidence": 0.7,
+        "rule_id": "kanagawa_prefecture"
       }
     },
     {
@@ -546,22 +914,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.389,
-          35.6892
+          140.1233,
+          35.6046
         ]
       },
       "properties": {
-        "title": "韓国、崖っぷちに立たされる 3位通過は残り3枠 W杯、1次リーグは残り6試合 - 産経ニュース",
-        "source": "産経ニュース",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaW5rVkd1bDhCTGYzaEV5RXkwYnpDVFgxUTZHUFpoMTlqYmtCczZtcGR5Q0hFeDhNVE5ZTjlIRkIyVG1pZ01FZE9CUEdsaWQyUkVvbldKVzZleXotMl9jbTMwLWJsSm5WWnh1ZS1Semk4SGhHRTV3eUhoa2RBU1RIbXhmZGs2bTVYUnNmU0pBdUV5NTdJQmYyakFiZXN2SmJ1UEt2a2t1Zw?oc=5",
-        "published_at": "2026-06-27T08:48:15+00:00",
-        "representative_place": "イラン・テヘラン",
-        "geocode_query": "Tehran Iran",
+        "title": "台風7号、東海・関東に接近「27日午後9時には千葉県の東で温帯低気圧に変わる予想。夜のうちには抜けていく」 - ABEMA TIMES",
+        "source": "ABEMA TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JQlIyU0pUN25zSFVBdWxQSXFhRUJIUWl5UUowZ0NCd29FeEY2TTZOeE9lTWc2dUc2NldWVG11cXpOQlVad2ZSNXlNVEd2SmJ1Nldhcw?oc=5",
+        "published_at": "2026-06-27T08:54:00+00:00",
+        "representative_place": "千葉県庁",
+        "geocode_query": "千葉県庁 千葉県千葉市中央区市場町",
         "place_type": "affected_site",
-        "location_precision": "country_capital",
-        "place_reason": "記事タイトルにイランが現れるため、影響を受ける国を代表する首都に置く。具体的な軍事施設名が不明なため国の代表地点として扱う（一致語: イラン）",
-        "confidence": 0.62,
-        "rule_id": "iran_tehran"
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに千葉県・千葉県沖・千葉県内の広域災害表現が現れるため、県を代表する自治体機関の所在地に置く（一致語: 千葉県）",
+        "confidence": 0.72,
+        "rule_id": "chiba_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1233,
+          35.6046
+        ]
+      },
+      "properties": {
+        "title": "【レベル3大雨警報】千葉県・銚子市に発表 17:44時点（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nQ1BOeks4MkZJalVkLXREN0lpTkUySDBSTzB1WkdsX3NHWGd5TV90RzB1dWpUc3NQOGdyR0tKUUR2eEU3QUpBb0xWRVJnWDBXRDJ4WnBKeHdfTzFEc0ZBcGJ6QzNJWmtkWG1paW1zOGM4TzQxcVA5VUxPalh3MU0?oc=5",
+        "published_at": "2026-06-27T08:47:14+00:00",
+        "representative_place": "千葉県庁",
+        "geocode_query": "千葉県庁 千葉県千葉市中央区市場町",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに千葉県・千葉県沖・千葉県内の広域災害表現が現れるため、県を代表する自治体機関の所在地に置く（一致語: 千葉県）",
+        "confidence": 0.72,
+        "rule_id": "chiba_prefecture"
       }
     },
     {
@@ -620,9 +1011,9 @@
         ]
       },
       "properties": {
-        "title": "山梨“最大震度6弱”けが1都3県で19人に 大きな揺れ…外壁落ちる“瞬間映像” - テレ朝NEWS",
-        "source": "テレ朝NEWS",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04SlAyS1BKX2pLbGRoNGhtVXY3akM3QnhTXy1iNzk3SXRmcVJ4dkh5TXZsNTdCU0ZNZEJCLWJOVmhzMGt1TWEzRjBrNkRBUWtfZ0ZUSzNSOWJOcURhbDlScXpNaVVZcVBkYVFaX2lnb3dvdw?oc=5",
+        "title": "山梨“最大震度6弱”けが1都3県で19人に 大きな揺れ…外壁落ちる“瞬間映像”（テレビ朝日系（ANN）） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLM3J5ZTdtbU9kRFFPZzJuR3FsanNiejhmT0RpOWU2YzZWZ2NYQl9yQ2RSYVFpbk1TbFVPVUhDQXEtMW91NVZYVEdPUzVxTXhUdnZDb1RoNXJEblRiYzlqekdTT0V0cUh1RmU3Vzh3VEc0WU00bWxZMHFJRnNWeUE?oc=5",
         "published_at": "2026-06-27T08:29:05+00:00",
         "representative_place": "山梨県庁",
         "geocode_query": "山梨県庁 山梨県甲府市",
@@ -661,22 +1052,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.5684,
-          35.6639
+          139.7714,
+          35.6864
         ]
       },
       "properties": {
-        "title": "山梨の地震で相模原など震度５弱 神奈川県内２人けが 中井町で土砂崩落（カナロコ by 神奈川新聞） - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBILTVkRm9fYk9sZ21Tcml4TGxQbDZlWDhSLTVoOWRlVlJvazZwdXFhZlJOd0Znb1RhRW5kTVhzVTZSN0lPb1ByMFZJU3N0RUxlZjlza2V1ZUZxeDFST2E3S3Rxd2RhQTVsaHZYN1hZbUFuNWRYbG5sd2NJU1Qya3M?oc=5",
-        "published_at": "2026-06-27T08:14:02+00:00",
-        "representative_place": "山梨県庁",
-        "geocode_query": "山梨県庁 山梨県甲府市",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨）",
-        "confidence": 0.7,
-        "rule_id": "yamanashi_prefecture"
+        "title": "山場を迎える高市政権マクロ政策 金融政策、財政政策ともに6月こそが重要な分岐点の可能性 野村證券・森田京平 | NOMURA ウェルスタイル – 野村の投資＆マネーライフ - nomura.co.jp",
+        "source": "nomura.co.jp",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DZWVTUzRzdHRSei01Skw5NW12RS1mVDJxQXF5NWdYaF9wcW9IN0ZQY1JoRjU0VThPRUl6NDkxbGMzYi1HVnhzLWFKRTlOYnJvNzAyWnR2ei02RE5jWGhZ?oc=5",
+        "published_at": "2026-06-27T08:21:22+00:00",
+        "representative_place": "日本銀行本店",
+        "geocode_query": "日本銀行本店 東京都中央区日本橋本石町",
+        "place_type": "decision_site",
+        "location_precision": "building",
+        "place_reason": "金融政策を決定・発表する中心機関の所在地",
+        "confidence": 0.86,
+        "rule_id": "boj_policy"
       }
     },
     {
@@ -684,8 +1075,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.355,
-          34.75
+          139.6425,
+          35.4478
+        ]
+      },
+      "properties": {
+        "title": "山梨の地震で相模原など震度５弱 神奈川県内２人けが 中井町で土砂崩落（カナロコ by 神奈川新聞） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBILTVkRm9fYk9sZ21Tcml4TGxQbDZlWDhSLTVoOWRlVlJvazZwdXFhZlJOd0Znb1RhRW5kTVhzVTZSN0lPb1ByMFZJU3N0RUxlZjlza2V1ZUZxeDFST2E3S3Rxd2RhQTVsaHZYN1hZbUFuNWRYbG5sd2NJU1Qya3M?oc=5",
+        "published_at": "2026-06-27T08:14:02+00:00",
+        "representative_place": "神奈川県庁",
+        "geocode_query": "神奈川県庁 神奈川県横浜市中区日本大通",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに神奈川県が現れるため、県を代表する自治体機関の所在地に置く（一致語: 神奈川県内）",
+        "confidence": 0.7,
+        "rule_id": "kanagawa_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1233,
+          35.6046
         ]
       },
       "properties": {
@@ -693,13 +1107,13 @@
         "source": "ウェザーニュース",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PdDMxcnBjYmZTQ1pvSURUdjZwbFF0aVVkNGR0UlZvT0JDQ3c3T3RkaUpnMEVwZjhlbzVNcTBIU3REY1BMeW0wTUltcnlvQnVkNUhiOQ?oc=5",
         "published_at": "2026-06-27T08:14:00+00:00",
-        "representative_place": "伊豆諸島・大島",
-        "geocode_query": "伊豆大島 東京都大島町",
+        "representative_place": "千葉県庁",
+        "geocode_query": "千葉県庁 千葉県千葉市中央区市場町",
         "place_type": "affected_site",
-        "location_precision": "area",
-        "place_reason": "記事タイトルに伊豆諸島が現れるため、広域の代表地点として大島周辺に置く（一致語: 伊豆諸島）",
-        "confidence": 0.68,
-        "rule_id": "izu_islands"
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに千葉県・千葉県沖・千葉県内の広域災害表現が現れるため、県を代表する自治体機関の所在地に置く（一致語: 千葉県沖）",
+        "confidence": 0.72,
+        "rule_id": "chiba_prefecture"
       }
     },
     {
@@ -845,6 +1259,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.1233,
+          35.6046
+        ]
+      },
+      "properties": {
+        "title": "4人乗りの軽乗用車が横転 男子高校生ら2人死亡 警察が事故原因調べる 千葉県（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHamdISHB0R253OVUxV1hWaW1JVEFVUGk3N29ocElySWFMaTFNWm43eW05dU9VOUwyLTdxc3VjWVVEWGR3MmdUaU9SdE1QV0ZmODI0MWFVQjdzcF9FX1I1Tk9aWnI5T2dLWl9oTUtFQ2FDUUUzeHRReVp0c0pXeUk?oc=5",
+        "published_at": "2026-06-27T07:17:55+00:00",
+        "representative_place": "千葉県庁",
+        "geocode_query": "千葉県庁 千葉県千葉市中央区市場町",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに千葉県・千葉県沖・千葉県内の広域災害表現が現れるため、県を代表する自治体機関の所在地に置く（一致語: 千葉県）",
+        "confidence": 0.72,
+        "rule_id": "chiba_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.6921,
           35.6896
         ]
@@ -907,6 +1344,29 @@
         "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
         "confidence": 0.7,
         "rule_id": "kyoto_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194,
+          37.7749
+        ]
+      },
+      "properties": {
+        "title": "OpenAIがGPT-6バージョンのリリースを準備 - Laodong.vn",
+        "source": "Laodong.vn",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaDZIX0k2cmlrdmRxeEZjWWFLSENVREp1YURkVHpweHR1TWo2M2NRTnQ1eFY5REpyZFpiZ3RfWkhNTkpPb28xOGtRY1A4dlJIbDJaYzE1QVJOdVpNaFdOczhMVTFNSlA3SE5TUVJ6YTVOQWsxQXV1ZkRaY3BmZHBJVW9qVjNyVTV1TGJMdEgwVQ?oc=5",
+        "published_at": "2026-06-27T07:00:21+00:00",
+        "representative_place": "OpenAI本社周辺",
+        "geocode_query": "OpenAI headquarters San Francisco",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "記事タイトルにOpenAIやGPTの発表表現が現れるため、組織の代表地点としてサンフランシスコに置く（一致語: OpenAI）",
+        "confidence": 0.58,
+        "rule_id": "openai_san_francisco"
       }
     },
     {
@@ -983,22 +1443,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.716,
-          35.5613
+          139.6425,
+          35.4478
         ]
       },
       "properties": {
-        "title": "大田区 水防監視カメラ : ブログ : - komei.or.jp",
-        "source": "komei.or.jp",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ1h0Z1FEVTB2YnM5elhoSldMQXA3SkFHREstU3lhdmxBa1VzWjItcGV6REhxVkk4anhPLUZpaUFhYXdjelpCeTlWUGdxTDlRd1EyUHJFRGRmM2FCUFpaRGNMdlVqUXZPSDEzendFa21iWGZYOURjSkFESDZrRDlfbDQ1bmh0QUxhNmhtYzkwb1hyU2pkZEctdS1ZcGNkUEFvOVpPbEZyYld2VWZxemNaenRJejFta3FEWTdjenRlQk52ODVjMlBCOER2S1hlZ0c4LVgwZVdoMHFleU9RV1o5QzZDN3pLa3BuRjI0UjRaLWNwUFQy?oc=5",
-        "published_at": "2026-06-27T06:40:00+00:00",
-        "representative_place": "大田区役所",
-        "geocode_query": "大田区役所 東京都大田区蒲田",
-        "place_type": "institution_site",
-        "location_precision": "building",
-        "place_reason": "大田区に関するニュースを代表する自治体機関の所在地（一致語: 大田区）",
-        "confidence": 0.72,
-        "rule_id": "tokyo_ota_city"
+        "title": "【台風影響】神奈川県内の被害 国道で歩道の陥没確認など（2026年6月26日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+        "source": "日テレNEWS NNN",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KQmNrd28wNmx6R3E1MUM1Um1FdVhKU09Kb0JRSzcwb1V1Qm9ZZFJOM1lrQXZud19pbFhQREtlYVBrRHlXVlN2dk9LdGwxMVMtMmU1RU1zbHlxLUFVaE9IWTNPRU4tSUgxRTV4RjJCbTBlNVo4QVpjVTZ2cV8?oc=5",
+        "published_at": "2026-06-27T06:34:01+00:00",
+        "representative_place": "神奈川県庁",
+        "geocode_query": "神奈川県庁 神奈川県横浜市中区日本大通",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに神奈川県が現れるため、県を代表する自治体機関の所在地に置く（一致語: 神奈川県内）",
+        "confidence": 0.7,
+        "rule_id": "kanagawa_prefecture"
       }
     },
     {
@@ -1075,29 +1535,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.5684,
-          35.6639
-        ]
-      },
-      "properties": {
-        "title": "“瞬間映像”大きく揺れ…外壁はがれ落ちる 山梨県で最大震度6弱の地震（テレビ朝日系（ANN）） - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDLUdGcjI0TGRGUFh2SVBGNHh3SzROTzRwSHZaNmY0R290OVRKSkNra3Npel9hRUpEZGY3TW1OUHRNSjU1aDMxMXhxWF9UNEVSVEJZcVFleUNDekFEN1lSZEdlMU95aWh0cjIxZU1oMC1oU0tSeWVOOGZvUWlmelk?oc=5",
-        "published_at": "2026-06-27T06:27:32+00:00",
-        "representative_place": "山梨県庁",
-        "geocode_query": "山梨県庁 山梨県甲府市",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨県）",
-        "confidence": 0.7,
-        "rule_id": "yamanashi_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.7714,
           35.6864
         ]
@@ -1144,6 +1581,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.6425,
+          35.4478
+        ]
+      },
+      "properties": {
+        "title": "２６日夜の地震 神奈川県内のけが人は３人に 県警 - NHKニュース",
+        "source": "NHKニュース",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEM2pySFZvY25hbUp1QnZvTDl4ZngxUm9Kcnl5MUpreFFTRG9uODlGcWcxaVgwXzNjSzBDN3pybXY4NE9KUHZRZU94b0sxc2Eyb2xjcjBsRkc?oc=5",
+        "published_at": "2026-06-27T05:59:00+00:00",
+        "representative_place": "神奈川県庁",
+        "geocode_query": "神奈川県庁 神奈川県横浜市中区日本大通",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに神奈川県が現れるため、県を代表する自治体機関の所在地に置く（一致語: 神奈川県内）",
+        "confidence": 0.7,
+        "rule_id": "kanagawa_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           51.389,
           35.6892
         ]
@@ -1183,6 +1643,29 @@
         "place_reason": "記事タイトルに神津島村・神津島が現れるため、その地域を代表する自治体所在地に置く（一致語: 神津島村）",
         "confidence": 0.78,
         "rule_id": "tokyo_kozushima_village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6425,
+          35.4478
+        ]
+      },
+      "properties": {
+        "title": "震度5弱を観測した神奈川県山北町 地震に台風が重なり警戒 県内では女性2人がけが - 産経ニュース",
+        "source": "産経ニュース",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyWXBVMXZVU0Y1cmt1Nk5oaHV4azZoSEhKNnpuZW13UXVCcUFYOEs0UXQwSVo3dm9JMEp1dXlSQ2x3RHlaVEtiQXI4TVRFTlVRd084OVdqMDhLd2lHYUJtejFTV0RSSDI0TzQ5Q1dpdzBRX1hhRFE?oc=5",
+        "published_at": "2026-06-27T05:25:57+00:00",
+        "representative_place": "神奈川県庁",
+        "geocode_query": "神奈川県庁 神奈川県横浜市中区日本大通",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに神奈川県が現れるため、県を代表する自治体機関の所在地に置く（一致語: 神奈川県）",
+        "confidence": 0.7,
+        "rule_id": "kanagawa_prefecture"
       }
     },
     {
@@ -1282,29 +1765,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6921,
-          35.6896
-        ]
-      },
-      "properties": {
-        "title": "「ダブル台風」関東に接近、店舗前に土のう・早めの避難など備え…「被害がないことを祈るばかり」（読売新聞オンライン） - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YV2dfcVp2RUc4ckFkRzd6THZmS2t1c2NUdVFyXzJpRDRVeURLT3hoazNlVTJXYU5RWmZ4R2FYRzlLaEFHQnVHMHdMaFpwZVZzMzRFRVdaWHlDLVJ2R0h0M1VZM3VsVUdhNFJJOGVTWjRLeXBnM1lvZTN3dVVhdGM?oc=5",
-        "published_at": "2026-06-27T05:00:23+00:00",
-        "representative_place": "東京都庁",
-        "geocode_query": "東京都庁 東京都新宿区西新宿",
-        "place_type": "affected_site",
-        "location_precision": "region",
-        "place_reason": "記事タイトルに関東が現れるため、広域影響を代表させる地点として東京都庁に置く（一致語: 関東）",
-        "confidence": 0.58,
-        "rule_id": "kanto_region"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           138.5684,
           35.6639
         ]
@@ -1328,29 +1788,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.7274,
-          35.3606
-        ]
-      },
-      "properties": {
-        "title": "【地震情報まとめ】山梨県で震度6弱 “富士山の火山活動に異常なし” 県道で落石発生か - テレ朝NEWS",
-        "source": "テレ朝NEWS",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lR0hVb0NuMG5lT2xRS2RVRVBBdEc0MXB0TXg1WjBRZ3ZWM1paUVU1TVFmbVM1SnM1RlU5UGdJeEpJRXc2NHNGV1RJSkUzbXJ6RGJmRDgzY241S0M2SURnVmw5bUVuSWlpUjZIM3BlSjNrdw?oc=5",
-        "published_at": "2026-06-27T05:00:00+00:00",
-        "representative_place": "富士山",
-        "geocode_query": "富士山",
-        "place_type": "affected_site",
-        "location_precision": "landmark",
-        "place_reason": "記事タイトルに富士山が現れるため、対象となる山体の代表地点に置く（一致語: 富士山）",
-        "confidence": 0.86,
-        "rule_id": "mt_fuji"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.355,
           34.75
         ]
@@ -1367,6 +1804,29 @@
         "place_reason": "記事タイトルに大島町・伊豆大島が現れるため、その地域を代表する自治体所在地に置く（一致語: 大島町）",
         "confidence": 0.78,
         "rule_id": "tokyo_oshima_town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1233,
+          35.6046
+        ]
+      },
+      "properties": {
+        "title": "圏央道で土砂崩れ、千葉県内各地で通行止め 鉄道運転見合わせも 台風７号・８号影響、交通に乱れ - 千葉日報オンライン",
+        "source": "千葉日報オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaV21yaXJQR3pIZnhfV1NzZkZWSE5KTDYzdnlQR1VqUVd2YTRBNDg2dGdsMzJJcGFlZTBjYVB3S2dEMXhyVmJQSmRablc3ak0xOG9tUlhvMnI?oc=5",
+        "published_at": "2026-06-27T04:53:09+00:00",
+        "representative_place": "千葉県庁",
+        "geocode_query": "千葉県庁 千葉県千葉市中央区市場町",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに千葉県・千葉県沖・千葉県内の広域災害表現が現れるため、県を代表する自治体機関の所在地に置く（一致語: 千葉県内）",
+        "confidence": 0.72,
+        "rule_id": "chiba_prefecture"
       }
     }
   ]

@@ -1,17 +1,178 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-27T10:45:56.075735+00:00",
-    "count": 3,
+    "created_at": "2026-06-27T11:10:28.232961+00:00",
+    "count": 14,
     "stats": {
       "collected": 40,
-      "resolved": 3,
-      "topics": 3,
-      "unresolved": 37,
+      "resolved": 14,
+      "topics": 14,
+      "unresolved": 26,
       "deduped": 0
     }
   },
   "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.389,
+          35.6892
+        ]
+      },
+      "properties": {
+        "title": "米、イラン軍事施設を空爆 前日の貨物船攻撃への報復 バンス氏「暴力には暴力で応じる」 - 産経ニュース",
+        "source": "産経ニュース",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aRHM3UURKMkRkX1RuVVdFVFo4cDFPZGJUSFc0WU9JRDlXdWhmVTdxVnJ5c0RXMVFrc0VrOFIyMWRYU3BnUGVNRmlSOUx6MUZKMkgzUGN6UkZ4M1ZzT3E0SjhXbnJzMUVONllpTWo3cG9JU1d2dHc?oc=5",
+        "published_at": "2026-06-27T00:31:46+00:00",
+        "representative_place": "イラン・テヘラン",
+        "geocode_query": "Tehran Iran",
+        "place_type": "affected_site",
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルにイランが現れるため、影響を受ける国を代表する首都に置く。具体的な軍事施設名が不明なため国の代表地点として扱う（一致語: イラン）",
+        "confidence": 0.62,
+        "rule_id": "iran_tehran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.0737,
+          33.9382
+        ]
+      },
+      "properties": {
+        "title": "山口県平生町で裏山が崩れ住宅に土砂流入 1人が行方不明 午前6時半から捜索開始 - 日テレNEWS NNN",
+        "source": "日テレNEWS NNN",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xUlZqRmVRMU5qT1ZTQ0JHcFFEaGxieVdOTmhtcWtXc2tXcFZkZzNSUnI2NTQ4UW9pUmtaUF9WX2lpZmJEUUlLMmhWMGFyTVNIUFN1a2M4ejVzUkdUMTlwcUxYWHN5MXJjQ2dtOGprcW0tWXozbkwtSnpSZWhxM28?oc=5",
+        "published_at": "2026-06-26T21:36:01+00:00",
+        "representative_place": "平生町役場",
+        "geocode_query": "平生町役場 山口県熊毛郡平生町",
+        "place_type": "event_site",
+        "location_precision": "municipality",
+        "place_reason": "記事タイトルに山口県平生町・平生町が現れるため、災害発生地域を代表する自治体所在地に置く（一致語: 山口県平生町）",
+        "confidence": 0.82,
+        "rule_id": "yamaguchi_hirao_town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4074,
+          39.9042
+        ]
+      },
+      "properties": {
+        "title": "中国・北京、高層ビルに小型機衝突か 壁面割れ、残骸の写真も - 時事ドットコム",
+        "source": "時事ドットコム",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VQzBLaTJVR1A2TVVFRVNPM3hybDFmbkViZmxURDVaZWRsaFhJczlnREtreFh0VTUwb2hhTEw5NFFxd3AtMm81RXFQbklDaF95VGhkc1VnRk85UGh2cTgwQXBhMA?oc=5",
+        "published_at": "2026-06-27T02:10:00+00:00",
+        "representative_place": "北京市",
+        "geocode_query": "Beijing China",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "記事タイトルに北京が現れるため、出来事の発生都市に置く（一致語: 北京）",
+        "confidence": 0.82,
+        "rule_id": "china_beijing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.355,
+          34.75
+        ]
+      },
+      "properties": {
+        "title": "【台風情報】台風7号の最新進路予想を気象庁が発表 27日夜に東日本太平洋側進み伊豆諸島付近に接近 浸水や氾濫に警戒を - FNNプライムオンライン",
+        "source": "FNNプライムオンライン",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEN2FMQjFzdlNkVTlMOHZqaWRXYVBLV0MtYTI5S1dRZWk4LXhiRGZ0djFNYXByTmZBcWFXWlM5bFhSdVpxSm5US255ZnU4Zw?oc=5",
+        "published_at": "2026-06-27T08:29:00+00:00",
+        "representative_place": "伊豆諸島・大島",
+        "geocode_query": "伊豆大島 東京都大島町",
+        "place_type": "affected_site",
+        "location_precision": "area",
+        "place_reason": "記事タイトルに伊豆諸島が現れるため、広域の代表地点として大島周辺に置く（一致語: 伊豆諸島）",
+        "confidence": 0.68,
+        "rule_id": "izu_islands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.7274,
+          35.3606
+        ]
+      },
+      "properties": {
+        "title": "富士山の火山活動、気象庁「特段の変化はない」「心配はしていない」…山梨震度６弱受け - 読売新聞",
+        "source": "読売新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04OVBTWFJFR3dwZFlncW5pQnp4c0E0eVZaZGN1TGVva2FKUWtjSDczNTJDaUxVNVJ3VEpxa0lreFBDbUdRX3ZmanBDNEFGeWZmTXdxd0pKaTFCTHJsNEhJa2UydkQ?oc=5",
+        "published_at": "2026-06-27T08:47:00+00:00",
+        "representative_place": "富士山",
+        "geocode_query": "富士山",
+        "place_type": "affected_site",
+        "location_precision": "landmark",
+        "place_reason": "記事タイトルに富士山が現れるため、対象となる山体の代表地点に置く（一致語: 富士山）",
+        "confidence": 0.86,
+        "rule_id": "mt_fuji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.355,
+          34.75
+        ]
+      },
+      "properties": {
+        "title": "2つの台風と梅雨前線で雨量かさむ 九州北部や瀬戸内は5日間で1か月分の雨 - ウェザーニュース",
+        "source": "ウェザーニュース",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PdDMxcnBjYmZTQ1pvSURUdjZwbFF0aVVkNGR0UlZvT0JDQ3c3T3RkaUpnMEVwZjhlbzVNcTBIU3REY1BMeW0wTUltcnlvQnVkNUhiOQ?oc=5",
+        "published_at": "2026-06-27T08:14:00+00:00",
+        "representative_place": "伊豆諸島・大島",
+        "geocode_query": "伊豆大島 東京都大島町",
+        "place_type": "affected_site",
+        "location_precision": "area",
+        "place_reason": "記事タイトルに伊豆諸島が現れるため、広域の代表地点として大島周辺に置く（一致語: 伊豆諸島）",
+        "confidence": 0.68,
+        "rule_id": "izu_islands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7556,
+          35.0214
+        ]
+      },
+      "properties": {
+        "title": "【速報】京都の国道９号「老ノ坂」27日も復旧見通し立たず 京都縦貫道の一部、引き続き無料開放 - 京都新聞デジタル",
+        "source": "京都新聞デジタル",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtVTloNEx5N0pkaDZVTVZCcGZ3bW5vM1VZX3p2b2RJVEtueHY3ZHJrVl80OUFJdDFlelE3S2s5M1ZLMHZmSHU3X1FfMkZpWHNINkYzZUZpRGE?oc=5",
+        "published_at": "2026-06-27T07:02:00+00:00",
+        "representative_place": "京都府庁",
+        "geocode_query": "京都府庁 京都府京都市上京区",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
+        "confidence": 0.7,
+        "rule_id": "kyoto_prefecture"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -22,7 +183,7 @@
         ]
       },
       "properties": {
-        "title": "藤沢の住宅街で土砂崩れ のり面が高さ１０メートル - カナロコ",
+        "title": "藤沢の住宅街で土砂崩れ 台風８号影響、のり面が高さ１０メートル - カナロコ",
         "source": "カナロコ",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mSUdfNmdYREE1bHRYS3dqUWY4OXdLTGJ2LWNXRHMtTHFYbE5DXzhUQXBpLTNPNzNNb0lOS3NPenI1Y3llZWdLeUE4bXkzU2lwZzBGRjc3T3JvTDBkRmNKV2czMDZaT0U?oc=5",
         "published_at": "2026-06-27T03:00:00+00:00",
@@ -33,6 +194,98 @@
         "place_reason": "記事タイトルに藤沢市・藤沢が現れるため、その地域を代表する自治体所在地に置く（一致語: 藤沢）",
         "confidence": 0.78,
         "rule_id": "kanagawa_fujisawa_city"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.4677,
+          37.7503
+        ]
+      },
+      "properties": {
+        "title": "福島の漁港で「港に車が落ちて車内に人影が見える」と通報…高齢夫婦が死亡、運転操作を誤り転落したか - 読売新聞",
+        "source": "読売新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4TUtWYnozS1NTYU0tdGYtQjVaN2NhbUxHNXNRb01GdjJucExVR1VMRG1Pdm5yY1I1VkdVc2ZEQ3c1azZOeUU4eXViS1o0bGM3NDg1VldxYmpEMC1QbGNEa2h1TTROQQ?oc=5",
+        "published_at": "2026-06-27T03:41:00+00:00",
+        "representative_place": "福島県庁",
+        "geocode_query": "福島県庁 福島県福島市",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに福島県・福島が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 福島）",
+        "confidence": 0.68,
+        "rule_id": "fukushima_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7714,
+          35.6864
+        ]
+      },
+      "properties": {
+        "title": "個人の国債保有増へ、自民に相続減税論 国民民主「NISA対象に」 - 日本経済新聞",
+        "source": "日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xZzdPWWR1MGpQbWxMM1drLUlOSFVQYVdQSVg2bXZ3cDEzREU4WDBvMmdxUUQ1Rlg0alhybUtaTGctVjN2NUg0Z2taRWllVFJMeTdna1VEVHAxWmJiMmNjNXlrakNqVW8tckthYw?oc=5",
+        "published_at": "2026-06-27T02:00:00+00:00",
+        "representative_place": "日本銀行本店",
+        "geocode_query": "日本銀行本店 東京都中央区日本橋本石町",
+        "place_type": "decision_site",
+        "location_precision": "building",
+        "place_reason": "金融政策を決定・発表する中心機関の所在地",
+        "confidence": 0.86,
+        "rule_id": "boj_policy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.389,
+          35.6892
+        ]
+      },
+      "properties": {
+        "title": "韓国、崖っぷちに立たされる 3位通過は残り3枠 W杯、1次リーグは残り6試合 - 産経ニュース",
+        "source": "産経ニュース",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaW5rVkd1bDhCTGYzaEV5RXkwYnpDVFgxUTZHUFpoMTlqYmtCczZtcGR5Q0hFeDhNVE5ZTjlIRkIyVG1pZ01FZE9CUEdsaWQyUkVvbldKVzZleXotMl9jbTMwLWJsSm5WWnh1ZS1Semk4SGhHRTV3eUhoa2RBU1RIbXhmZGs2bTVYUnNmU0pBdUV5NTdJQmYyakFiZXN2SmJ1UEt2a2t1Zw?oc=5",
+        "published_at": "2026-06-27T08:48:15+00:00",
+        "representative_place": "イラン・テヘラン",
+        "geocode_query": "Tehran Iran",
+        "place_type": "affected_site",
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルにイランが現れるため、影響を受ける国を代表する首都に置く。具体的な軍事施設名が不明なため国の代表地点として扱う（一致語: イラン）",
+        "confidence": 0.62,
+        "rule_id": "iran_tehran"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.389,
+          35.6892
+        ]
+      },
+      "properties": {
+        "title": "サッカーW杯 エジプトが初の決勝T進出 イランと引き分け - NHKニュース",
+        "source": "NHKニュース",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yamRMSUhQZFRma0M3d0RoYXhfNzZmX1RHNXVWdzBDOV82Zy1uZGJnaXZtSUk5RzZyVEVuXy1mamtKRWFXX2I2UU5NU2k0bU1aTGVDRk84Rm1NWm9DS1Fj?oc=5",
+        "published_at": "2026-06-27T05:47:35+00:00",
+        "representative_place": "イラン・テヘラン",
+        "geocode_query": "Tehran Iran",
+        "place_type": "affected_site",
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルにイランが現れるため、影響を受ける国を代表する首都に置く。具体的な軍事施設名が不明なため国の代表地点として扱う（一致語: イラン）",
+        "confidence": 0.62,
+        "rule_id": "iran_tehran"
       }
     },
     {
@@ -63,8 +316,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.6921,
-          35.6896
+          139.7199,
+          35.7092
         ]
       },
       "properties": {
@@ -72,13 +325,13 @@
         "source": "Yahoo!ニュース",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52RUROTUZOQ0h4UXBUMHpiSXpqSjZhZGpxZkdGcU1udEtrN0p4aE9TMXNKUUFfMEVwNGVSZnBUMVpwXy1EV2wzRTJIRTM0d0pXNjRxNG0wSXZkbUNVME5ZOFVuN2hmUTdBOVQ4QWkyVFFXN3prVTVCTmYwekQ0a0U?oc=5",
         "published_at": "2026-06-27T10:30:00+00:00",
-        "representative_place": "東京都庁",
-        "geocode_query": "東京都庁 東京都新宿区西新宿",
+        "representative_place": "早稲田大学早稲田キャンパス",
+        "geocode_query": "早稲田大学 早稲田キャンパス 東京都新宿区",
         "place_type": "institution_site",
-        "location_precision": "building",
-        "place_reason": "東京都全域に関するニュースを代表する自治体機関の所在地（一致語: 東京都）",
-        "confidence": 0.7,
-        "rule_id": "tokyo_metropolitan_government"
+        "location_precision": "campus",
+        "place_reason": "記事タイトルに早稲田大学が現れるため、関係機関の代表地点に置く（一致語: 早稲田大学）",
+        "confidence": 0.68,
+        "rule_id": "waseda_university"
       }
     }
   ]

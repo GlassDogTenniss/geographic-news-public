@@ -4,9 +4,17 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>geographic-news</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-  <h1>geographic-news</h1>
-  <p>Public map data is available in latest.geojson.</p>
+  <div id="map"></div>
+  <aside class="panel">
+    <h1>geographic-news</h1>
+    <div id="status" class="muted">loading latest.geojson...</div>
+    <div id="topicList" class="topic-list"></div>
+  </aside>
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="./app.js"></script>
 </body>
 </html>

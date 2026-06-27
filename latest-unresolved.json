@@ -1,12 +1,12 @@
 {
   "ok": true,
-  "created_at": "2026-06-27T11:52:07.770626+00:00",
+  "created_at": "2026-06-27T11:53:05.643052+00:00",
   "stats": {
     "collected": 500,
-    "resolved": 391,
-    "topics": 348,
-    "unresolved": 109,
-    "deduped": 43
+    "resolved": 392,
+    "topics": 346,
+    "unresolved": 108,
+    "deduped": 46
   },
   "unresolved": [
     {
@@ -38,11 +38,11 @@
       "summary": null
     },
     {
-      "title": "STEM分野の人材育成プログラムおよび政策を実施する。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3Fudk55TXZLUFBuX3NzTkd1b3h1cldKd0pYQzU5eFFzc3U3Nm94MkxjVXdWSlZYWlJsOTluRW0xTmhLNk54dnZ3RGJCcFlwM3JXSFFleVJ0SjluR0xTMHBURTZoOFEzVEdwMHFTM2xEVzNYZXRSZ0d3ai13UDRfTUwwVGQ5bk1aVjNJUWdtOA?oc=5",
-      "source": "Vietnam.vn",
-      "published_at": "2026-06-27T11:39:52+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3Fudk55TXZLUFBuX3NzTkd1b3h1cldKd0pYQzU5eFFzc3U3Nm94MkxjVXdWSlZYWlJsOTluRW0xTmhLNk54dnZ3RGJCcFlwM3JXSFFleVJ0SjluR0xTMHBURTZoOFEzVEdwMHFTM2xEVzNYZXRSZ0d3ai13UDRfTUwwVGQ5bk1aVjNJUWdtOA?oc=5\" target=\"_blank\">STEM分野の人材育成プログラムおよび政策を実施する。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>"
+      "title": "コミューン軍事司令部の再編により退職した人々の人員削減 - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTgyX0dzWl9KeXAwdzBRLXhVV2p0YjlkVHc4bDR4VVVUWDdfS1NITFBjamhLTnFoV2t5TW9lbmk3dUtHaGJFNGJWaUJvWnlES2VENmdwUFN1T1gwcmZfcFNrbm5oYm9lNW1TMGxSeWhGaHBTZkZUMnc4S1I3TWhyeUYtVDZ6WVMxMjZoY3kxdGE4Q1dqWDh3dzQ4RDl1c3BpQm9kb2tKQkY2dGp4Mnp4T0xkUGI?oc=5",
+      "source": "Laodong.vn",
+      "published_at": "2026-06-27T11:47:10+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTgyX0dzWl9KeXAwdzBRLXhVV2p0YjlkVHc4bDR4VVVUWDdfS1NITFBjamhLTnFoV2t5TW9lbmk3dUtHaGJFNGJWaUJvWnlES2VENmdwUFN1T1gwcmZfcFNrbm5oYm9lNW1TMGxSeWhGaHBTZkZUMnc4S1I3TWhyeUYtVDZ6WVMxMjZoY3kxdGE4Q1dqWDh3dzQ4RDl1c3BpQm9kb2tKQkY2dGp4Mnp4T0xkUGI?oc=5\" target=\"_blank\">コミューン軍事司令部の再編により退職した人々の人員削減</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Laodong.vn</font>"
     },
     {
       "title": "デロイト、インターナショナル・ビジネス・マシーンズとRed Hatのソフトウェアセキュリティ構想に参加 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
@@ -85,6 +85,13 @@
       "source": "競艇マクール",
       "published_at": "2026-06-27T10:40:00+00:00",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yRU5UUDIzTXFkaFZrLUJ3WHhkYkJzUC1FWGR5ZHZ4VlBuamx1bVFUN3BUeE1TaWZsbU9PRlFsS2c3c2xwSEJ2VQ?oc=5\" target=\"_blank\">急上昇エンジンを手にした松竹大輔の奮闘に期待</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">競艇マクール</font>"
+    },
+    {
+      "title": "STEM分野の人材育成プログラムおよび政策を実施する。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3Fudk55TXZLUFBuX3NzTkd1b3h1cldKd0pYQzU5eFFzc3U3Nm94MkxjVXdWSlZYWlJsOTluRW0xTmhLNk54dnZ3RGJCcFlwM3JXSFFleVJ0SjluR0xTMHBURTZoOFEzVEdwMHFTM2xEVzNYZXRSZ0d3ai13UDRfTUwwVGQ5bk1aVjNJUWdtOA?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-06-27T11:39:52+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3Fudk55TXZLUFBuX3NzTkd1b3h1cldKd0pYQzU5eFFzc3U3Nm94MkxjVXdWSlZYWlJsOTluRW0xTmhLNk54dnZ3RGJCcFlwM3JXSFFleVJ0SjluR0xTMHBURTZoOFEzVEdwMHFTM2xEVzNYZXRSZ0d3ai13UDRfTUwwVGQ5bk1aVjNJUWdtOA?oc=5\" target=\"_blank\">STEM分野の人材育成プログラムおよび政策を実施する。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>"
     },
     {
       "title": "トランプ支持率低下でも米中間選挙の民主党「両院制覇」は高いハードル、「共和党よりまし」で勝ち切れるか - ダイヤモンド・オンライン",
@@ -206,18 +213,18 @@
       "summary": null
     },
     {
-      "title": "法的障壁を取り除き、二桁成長目標を達成する。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzVJNFRPUVFSRkgtNG13cGw0TDhHcmk0Mjk2TEFmQm1WOGFTZE9vRUtPcDhIRDFXSkhmeTVOQ2lGTUVObkIyVkdQWTIyVENHVDhENHJYUWZqSkFmOWViQkZiRkdDZUZEaGJxYTV5THFsRE8xWGVYLXVhR3o0eGxQV1Zva0hnYVpQQ09wazM4YWVYeWlwZGRn?oc=5",
-      "source": "Vietnam.vn",
-      "published_at": "2026-06-27T09:55:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzVJNFRPUVFSRkgtNG13cGw0TDhHcmk0Mjk2TEFmQm1WOGFTZE9vRUtPcDhIRDFXSkhmeTVOQ2lGTUVObkIyVkdQWTIyVENHVDhENHJYUWZqSkFmOWViQkZiRkdDZUZEaGJxYTV5THFsRE8xWGVYLXVhR3o0eGxQV1Zva0hnYVpQQ09wazM4YWVYeWlwZGRn?oc=5\" target=\"_blank\">法的障壁を取り除き、二桁成長目標を達成する。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>"
-    },
-    {
       "title": "「サイバー被害企業」の盲点とは？AI攻撃が高度化する今、経営者が技術者のバイブル「OWASP Top 10」を知らないとマズイ訳 - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nY19vNHBDRXdQVlR3eFdDNVE2ay1jLUJXbVk0TkVJMHR3NmNOSHFUV0Y4UWp4bU5SbE5fWWM4OE9oNW9PYm5jbVcyMTVDblh2Vmlmc1dHcTY5UDNvd3Z4R1lTM3hBSVVlZHRpMXNrcS1HYmY0OUNOVzJRT1pyc28?oc=5",
       "source": "Yahoo!ニュース",
       "published_at": "2026-06-24T21:00:39+00:00",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5nY19vNHBDRXdQVlR3eFdDNVE2ay1jLUJXbVk0TkVJMHR3NmNOSHFUV0Y4UWp4bU5SbE5fWWM4OE9oNW9PYm5jbVcyMTVDblh2Vmlmc1dHcTY5UDNvd3Z4R1lTM3hBSVVlZHRpMXNrcS1HYmY0OUNOVzJRT1pyc28?oc=5\" target=\"_blank\">「サイバー被害企業」の盲点とは？AI攻撃が高度化する今、経営者が技術者のバイブル「OWASP Top 10」を知らないとマズイ訳</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>"
+    },
+    {
+      "title": "Thomas Tuchel searches for solutions to overcome Panama’s low block - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRVlpWXRZSUg2VHBiU2NndkozZ3Jta2Rldk9Ya0tKYUhqYWdZR2Y0N0V6SVhEVnQ0cUhjWnFWQUstV1h4WVBVX1hVYU9rVkZ6ZThXWUtXMjVDbk1Dams2T2t2VmVvOXQ5YTRYclA2TWZnOWxQdEdVejdFczRnTjRVamZ0a0w0Nm00a3JFdkstblUwN0N2WmdoV25jV01uZlIxLS0xV292bng5LVFUR2FsdERFa2RPaGhQNm53cDVKSUhGSGM?oc=5",
+      "source": "The Guardian",
+      "published_at": "2026-06-27T10:27:00+00:00",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRVlpWXRZSUg2VHBiU2NndkozZ3Jta2Rldk9Ya0tKYUhqYWdZR2Y0N0V6SVhEVnQ0cUhjWnFWQUstV1h4WVBVX1hVYU9rVkZ6ZThXWUtXMjVDbk1Dams2T2t2VmVvOXQ5YTRYclA2TWZnOWxQdEdVejdFczRnTjRVamZ0a0w0Nm00a3JFdkstblUwN0N2WmdoV25jV01uZlIxLS0xV292bng5LVFUR2FsdERFa2RPaGhQNm53cDVKSUhGSGM?oc=5\" target=\"_blank\">Thomas Tuchel searches for solutions to overcome Panama’s low block</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDR0k5ZENfYzZ0VE9iNnFRMDR4UFFsbDBIRnhyOUFUdE1ubTV1ZC15Z0ltV0U3LXQ0NU0zUVA5NE53NGdsVm53Rnp3c1QyLXpjUmZJLUdFdXppWFdjb3FsZGpQRXQ?oc=5\" target=\"_blank\">World Cup 2026: England v Panama - Reece James out, but will Thomas Tuchel pick Declan Rice & Elliot Anderson?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45QXFIeVhENW5qVUNkN2ItSVBBRHU0RUwzT2ZxbmhKX0Q3NXRVVHY4MHRpdFcwYzZaaUNyeFFUNHFOVHMyOFA3MHNGZmtQcVBTeEhiUnRnMkZDZXVMQ1JNZjVEQmFaVFk?oc=5\" target=\"_blank\">World Cup 2026: Scouting Panama - what England can expect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE40a1ZVYVRhb0REem43LUlOUWI5TUViUVdKSEF3QzdLNzItMHYzZ1lROGY5Ymtpa2xuZEJ2T1I3c3A3Y3B1bXZkM2s0S1BlYlUyNjJyRW1TbDhaUlZhMTlrOUZmUXIwbUppR25la1g3dzQ0bk84TlpFUHVIYw?oc=5\" target=\"_blank\">Free Lions 202 – Guide to New York & New Jersey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football Supporters' Association</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPU29KOG01TDlVcEd1cVJvMWJQWGlremtqQUE2VWdUMHVhMkIxb1lFNUNqUEJRdFVWTDRtTzktckxfSHBnZzZmQ0Y1V0pJQ2JCUmpiZkU0Y1B4RE9aa1V6Qm1qWUtjUE5NNnBLdldCb2lHQmlKZmd5ZDdsMnpuSzQ2VGstNDRkclpnSEZXY280cXpFa3JUUkM4Xy1fUS1YcWppX0R6c1FhNmtlZTVGVk1TN2loRGJQZ9IBuwFBVV95cUxPWm15YmlZclppVy00T3lROXZ4dTN0WlFTX2F4dkVhYkdRMG9vWUdET04wVHc3aFZzU0V4QkpNYzRFTmtWc3pUcmZLak0wWkQ2RmkxMUNXVFhIVUFQOE0wN3g5ZGlQQ25fM0oza2s1MjZPdFJZTnFNdkgwM0pib3lKTEZrQUh0X0ZhQ09JS0lWaUJXbWV4Q2l6bXhGOHQxejdGMDZVWDlhNFdCc241VUx1NmlKenFFcGh0NkY4?oc=5\" target=\"_blank\">Panama vs England bet builder: World Cup tips from This Weeks Acca</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sporting Life</font></li></ol>"
     },
     {
       "title": "Strange glowing 'bow-and-arrow' structure may be a giant cosmic shock wave created by a supersonic galaxy collision - Space",
@@ -248,11 +255,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1waUZRMnpWUWhNVWlQXzVLdE84WHpxUTh5TzJKWkVGY00tOWFUTm5sbTgwbWNkM3d6SjFTOXVvZjdlZFFlbEhlNmpXdmtCVzBBWnFJVDhqS2RnWHVvb3V3LWpBaEpBdFVrVTExOQ?oc=5\" target=\"_blank\">1983年 日本海中部地震</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nhk.or.jp</font>"
     },
     {
-      "title": "コミューン軍事司令部の再編に伴い解雇される者に対し、人員削減政策を実施する。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaVE4andjbzZhZjBQSHlOREpLR0lQcDl0Y3o4ODFmMUZKUmJRV0Iyb2FiQzNXMzI2cjFQa1o1azNVOE1BaGtkQXFDRS1yT3A4UEpFUjAtNl83UnFnZ1JaUTJ1RkFwTHdFUEFVdXUzcVhLZ0sweUk3Q2NrYmIyUlRKS0wtcUxOZE1UdGlLYVR0VVZfWmNxdlVYQWEtOTg0a3FxNGVYczFNaWRwd19yaDJLaVk5cUNLQjgwUy1zczRn?oc=5",
+      "title": "法的障壁を取り除き、二桁成長目標を達成する。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzVJNFRPUVFSRkgtNG13cGw0TDhHcmk0Mjk2TEFmQm1WOGFTZE9vRUtPcDhIRDFXSkhmeTVOQ2lGTUVObkIyVkdQWTIyVENHVDhENHJYUWZqSkFmOWViQkZiRkdDZUZEaGJxYTV5THFsRE8xWGVYLXVhR3o0eGxQV1Zva0hnYVpQQ09wazM4YWVYeWlwZGRn?oc=5",
       "source": "Vietnam.vn",
-      "published_at": "2026-06-27T09:54:54+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPaVE4andjbzZhZjBQSHlOREpLR0lQcDl0Y3o4ODFmMUZKUmJRV0Iyb2FiQzNXMzI2cjFQa1o1azNVOE1BaGtkQXFDRS1yT3A4UEpFUjAtNl83UnFnZ1JaUTJ1RkFwTHdFUEFVdXUzcVhLZ0sweUk3Q2NrYmIyUlRKS0wtcUxOZE1UdGlLYVR0VVZfWmNxdlVYQWEtOTg0a3FxNGVYczFNaWRwd19yaDJLaVk5cUNLQjgwUy1zczRn?oc=5\" target=\"_blank\">コミューン軍事司令部の再編に伴い解雇される者に対し、人員削減政策を実施する。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>"
+      "published_at": "2026-06-27T09:55:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzVJNFRPUVFSRkgtNG13cGw0TDhHcmk0Mjk2TEFmQm1WOGFTZE9vRUtPcDhIRDFXSkhmeTVOQ2lGTUVObkIyVkdQWTIyVENHVDhENHJYUWZqSkFmOWViQkZiRkdDZUZEaGJxYTV5THFsRE8xWGVYLXVhR3o0eGxQV1Zva0hnYVpQQ09wazM4YWVYeWlwZGRn?oc=5\" target=\"_blank\">法的障壁を取り除き、二桁成長目標を達成する。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>"
     },
     {
       "title": "トランプ政権、不法移民取り締まりで「軟化」演出 躍起になる理由は - 毎日新聞",
@@ -269,11 +276,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CUkJ2R1FqWDlFWDl1bzAwVzBwWkRpY3JxZ0Ewbm14OGdUMUQ4cFRRSEhRc1k0X2JYNTNuRnFMLTE4Y0NHU0FmOA?oc=5\" target=\"_blank\">徳丸浩氏に聞く、polyfill.ioの「不審な認証画面」問題 原因と対策、ソフトウェアサプライチェーンの脅威動向</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">unitis.jp</font>"
     },
     {
-      "title": "Thomas Tuchel searches for solutions to overcome Panama’s low block - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRVlpWXRZSUg2VHBiU2NndkozZ3Jta2Rldk9Ya0tKYUhqYWdZR2Y0N0V6SVhEVnQ0cUhjWnFWQUstV1h4WVBVX1hVYU9rVkZ6ZThXWUtXMjVDbk1Dams2T2t2VmVvOXQ5YTRYclA2TWZnOWxQdEdVejdFczRnTjRVamZ0a0w0Nm00a3JFdkstblUwN0N2WmdoV25jV01uZlIxLS0xV292bng5LVFUR2FsdERFa2RPaGhQNm53cDVKSUhGSGM?oc=5",
-      "source": "The Guardian",
-      "published_at": "2026-06-27T10:27:00+00:00",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRVlpWXRZSUg2VHBiU2NndkozZ3Jta2Rldk9Ya0tKYUhqYWdZR2Y0N0V6SVhEVnQ0cUhjWnFWQUstV1h4WVBVX1hVYU9rVkZ6ZThXWUtXMjVDbk1Dams2T2t2VmVvOXQ5YTRYclA2TWZnOWxQdEdVejdFczRnTjRVamZ0a0w0Nm00a3JFdkstblUwN0N2WmdoV25jV01uZlIxLS0xV292bng5LVFUR2FsdERFa2RPaGhQNm53cDVKSUhGSGM?oc=5\" target=\"_blank\">Thomas Tuchel searches for solutions to overcome Panama’s low block</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDR0k5ZENfYzZ0VE9iNnFRMDR4UFFsbDBIRnhyOUFUdE1ubTV1ZC15Z0ltV0U3LXQ0NU0zUVA5NE53NGdsVm53Rnp3c1QyLXpjUmZJLUdFdXppWFdjb3FsZGpQRXQ?oc=5\" target=\"_blank\">World Cup 2026: England v Panama - Reece James out, but will Thomas Tuchel pick Declan Rice & Elliot Anderson?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45QXFIeVhENW5qVUNkN2ItSVBBRHU0RUwzT2ZxbmhKX0Q3NXRVVHY4MHRpdFcwYzZaaUNyeFFUNHFOVHMyOFA3MHNGZmtQcVBTeEhiUnRnMkZDZXVMQ1JNZjVEQmFaVFk?oc=5\" target=\"_blank\">World Cup 2026: Scouting Panama - what England can expect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE40a1ZVYVRhb0REem43LUlOUWI5TUViUVdKSEF3QzdLNzItMHYzZ1lROGY5Ymtpa2xuZEJ2T1I3c3A3Y3B1bXZkM2s0S1BlYlUyNjJyRW1TbDhaUlZhMTlrOUZmUXIwbUppR25la1g3dzQ0bk84TlpFUHVIYw?oc=5\" target=\"_blank\">Free Lions 202 – Guide to New York & New Jersey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football Supporters' Association</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPU29KOG01TDlVcEd1cVJvMWJQWGlremtqQUE2VWdUMHVhMkIxb1lFNUNqUEJRdFVWTDRtTzktckxfSHBnZzZmQ0Y1V0pJQ2JCUmpiZkU0Y1B4RE9aa1V6Qm1qWUtjUE5NNnBLdldCb2lHQmlKZmd5ZDdsMnpuSzQ2VGstNDRkclpnSEZXY280cXpFa3JUUkM4Xy1fUS1YcWppX0R6c1FhNmtlZTVGVk1TN2loRGJQZ9IBuwFBVV95cUxPWm15YmlZclppVy00T3lROXZ4dTN0WlFTX2F4dkVhYkdRMG9vWUdET04wVHc3aFZzU0V4QkpNYzRFTmtWc3pUcmZLak0wWkQ2RmkxMUNXVFhIVUFQOE0wN3g5ZGlQQ25fM0oza2s1MjZPdFJZTnFNdkgwM0pib3lKTEZrQUh0X0ZhQ09JS0lWaUJXbWV4Q2l6bXhGOHQxejdGMDZVWDlhNFdCc241VUx1NmlKenFFcGh0NkY4?oc=5\" target=\"_blank\">Panama vs England bet builder: World Cup tips from This Weeks Acca</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sporting Life</font></li></ol>"
+      "title": "Reece James injury: England right-back's World Cup potentially over due to hamstring problem - Sky Sports",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRGRTdGFnTDViWlB3NlhOVzV2akN4VTJGNFhFT3cyb2Rfcjg2MzhpeUFSTXRPM3BicENKcXFKSXZMZHBHRVpsS1FaempnWkR2ZDZ1R3UxZjN6bzlodi0tSDFfMGJDVjBINWJjcy1GWmFRODZWYXRoQncwYU9vczZWMnRsMktSZGJiVWpBZlU3NjkzYldrR2hjNGZFZzV2WC1jcVlpUW5jYzVSVl9PYkoyRHFSWUlHVEhYWlpNS21mOGFVLUJtSF9oWUJxRzMyWE03NkowT3dTYnozY1o4TFE?oc=5",
+      "source": "Sky Sports",
+      "published_at": "2026-06-27T09:33:49+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRGRTdGFnTDViWlB3NlhOVzV2akN4VTJGNFhFT3cyb2Rfcjg2MzhpeUFSTXRPM3BicENKcXFKSXZMZHBHRVpsS1FaempnWkR2ZDZ1R3UxZjN6bzlodi0tSDFfMGJDVjBINWJjcy1GWmFRODZWYXRoQncwYU9vczZWMnRsMktSZGJiVWpBZlU3NjkzYldrR2hjNGZFZzV2WC1jcVlpUW5jYzVSVl9PYkoyRHFSWUlHVEhYWlpNS21mOGFVLUJtSF9oWUJxRzMyWE03NkowT3dTYnozY1o4TFE?oc=5\" target=\"_blank\">Reece James injury: England right-back's World Cup potentially over due to hamstring problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky Sports</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2puN0otOEVSSGlmdmdJWllTRVBpZ0FQAQ?hl=en-GB&gl=GB&ceid=GB:en&oc=5\" target=\"_blank\">See more headlines and perspectives on Google News</a></strong>"
     },
     {
       "title": "Researchers tickle gorillas, other apes and find out they giggle - Los Angeles Times",
@@ -339,6 +346,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YZ1JwTzJySm5WUXVoLTBvR19JRFduZWYtRk5POVZTUDdCMFZrYWFXZS1sby1CanNkbjhfNXlKOXVhc3pkblJBWEJwT1l6Z1BnSXFwLWUyZ2VPTElWMTkwVExB?oc=5\" target=\"_blank\">台風8号(2026年)の青森県の暴風域に入る確率</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tenki.jp</font>"
     },
     {
+      "title": "コミューン軍事司令部の再編に伴い解雇される者に対し、人員削減政策を実施する。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaVE4andjbzZhZjBQSHlOREpLR0lQcDl0Y3o4ODFmMUZKUmJRV0Iyb2FiQzNXMzI2cjFQa1o1azNVOE1BaGtkQXFDRS1yT3A4UEpFUjAtNl83UnFnZ1JaUTJ1RkFwTHdFUEFVdXUzcVhLZ0sweUk3Q2NrYmIyUlRKS0wtcUxOZE1UdGlLYVR0VVZfWmNxdlVYQWEtOTg0a3FxNGVYczFNaWRwd19yaDJLaVk5cUNLQjgwUy1zczRn?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-06-27T09:54:54+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPaVE4andjbzZhZjBQSHlOREpLR0lQcDl0Y3o4ODFmMUZKUmJRV0Iyb2FiQzNXMzI2cjFQa1o1azNVOE1BaGtkQXFDRS1yT3A4UEpFUjAtNl83UnFnZ1JaUTJ1RkFwTHdFUEFVdXUzcVhLZ0sweUk3Q2NrYmIyUlRKS0wtcUxOZE1UdGlLYVR0VVZfWmNxdlVYQWEtOTg0a3FxNGVYczFNaWRwd19yaDJLaVk5cUNLQjgwUy1zczRn?oc=5\" target=\"_blank\">コミューン軍事司令部の再編に伴い解雇される者に対し、人員削減政策を実施する。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>"
+    },
+    {
       "title": "台風７号　強風域に入ったとみられる和歌山　土砂災害や激しい突風などに注意（午前１１時４５分時点） - ｄメニューニュース",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkR1ZRRGFnTDBwT3dReGZwaGJvQk02bkJZQ29qdGRSSmNNYWVucHprdkdyUWFvM0dUckU5MGhSYUhDWHE2QkV0Y0FPaERLU3BhVExNTFhNYkxCcTZOWlM5a3k3RlJVQUJVSDJvQ0k5dkdXLTR6M0c40gF8QVVfeXFMUG1xQ3ZKY3EzSl8yZEZfOUt5ckJsT1R0WXpqMU91REVIWHpwMlV4Z2RuUkpoNkJGUEoyNnFIbG0xNXdVaFJyVGdVV0dUZjhQMm91XzJ0YzlldTVYaXFRdC0yOEZXTk8zQjg5UmxhdFNkTmFrZDVlcy1DUHo0MQ?oc=5",
       "source": "ｄメニューニュース",
@@ -367,11 +381,18 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBpN0kxV1hsTEcyejVybE5qa01ZdUlNVjVkektKT2V4Q2VXb2Y2eUdWeWFCVzkzRzJ4TTZPaVB1TzhYaUVTRFZGNmFkLXZMekd6ZC1vaDJTT0pMbmNhSl9mRDRMN1ZPZHJyMXRaX2Etdw?oc=5\" target=\"_blank\">Alaska - Politics, Economy, Culture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>"
     },
     {
-      "title": "Reece James injury: England right-back's World Cup potentially over due to hamstring problem - Sky Sports",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRGRTdGFnTDViWlB3NlhOVzV2akN4VTJGNFhFT3cyb2Rfcjg2MzhpeUFSTXRPM3BicENKcXFKSXZMZHBHRVpsS1FaempnWkR2ZDZ1R3UxZjN6bzlodi0tSDFfMGJDVjBINWJjcy1GWmFRODZWYXRoQncwYU9vczZWMnRsMktSZGJiVWpBZlU3NjkzYldrR2hjNGZFZzV2WC1jcVlpUW5jYzVSVl9PYkoyRHFSWUlHVEhYWlpNS21mOGFVLUJtSF9oWUJxRzMyWE03NkowT3dTYnozY1o4TFE?oc=5",
-      "source": "Sky Sports",
-      "published_at": "2026-06-27T09:33:49+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRGRTdGFnTDViWlB3NlhOVzV2akN4VTJGNFhFT3cyb2Rfcjg2MzhpeUFSTXRPM3BicENKcXFKSXZMZHBHRVpsS1FaempnWkR2ZDZ1R3UxZjN6bzlodi0tSDFfMGJDVjBINWJjcy1GWmFRODZWYXRoQncwYU9vczZWMnRsMktSZGJiVWpBZlU3NjkzYldrR2hjNGZFZzV2WC1jcVlpUW5jYzVSVl9PYkoyRHFSWUlHVEhYWlpNS21mOGFVLUJtSF9oWUJxRzMyWE03NkowT3dTYnozY1o4TFE?oc=5\" target=\"_blank\">Reece James injury: England right-back's World Cup potentially over due to hamstring problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky Sports</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2puN0otOEVSSGlmdmdJWllTRVBpZ0FQAQ?hl=en-GB&gl=GB&ceid=GB:en&oc=5\" target=\"_blank\">See more headlines and perspectives on Google News</a></strong>"
+      "title": "4 ways to get creative with your leftovers (and save money on food) - NPR",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZUNOZXZkSnBocTdnZVlXOHZOVlVpTTFIamVVdnROdVQxTDVqbDdPai03NHJzOHZaNEZuR3pMRGZmU0tQblRLbS1henNTdWRFN2VybjNMOXhnYUNJZTRCWlBicG1pMGlhd1UxWnd2RktJRDZfWm5XVm1iSHZEMlctV2pzMXNjNzg0UzM5REY3b0ZPbVFyZ3JHNFl5Y1FYbFI1Rm1mWGVB?oc=5",
+      "source": "NPR",
+      "published_at": "2026-06-27T09:00:00+00:00",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZUNOZXZkSnBocTdnZVlXOHZOVlVpTTFIamVVdnROdVQxTDVqbDdPai03NHJzOHZaNEZuR3pMRGZmU0tQblRLbS1henNTdWRFN2VybjNMOXhnYUNJZTRCWlBicG1pMGlhd1UxWnd2RktJRDZfWm5XVm1iSHZEMlctV2pzMXNjNzg0UzM5REY3b0ZPbVFyZ3JHNFl5Y1FYbFI1Rm1mWGVB?oc=5\" target=\"_blank\">4 ways to get creative with your leftovers (and save money on food)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGRGOE05WnVzUDhMSElxQkZVWFItZ0o5VUpJUVRSTWxFVklhazBtVXpObEM2Q2swUjI3MXQwaXFVVFUzWmd4bjlxcWo1OTVLTHR3QzJNSnlDS2ZRaHBfTE1BeTJCbXFQVDlGWEwyQjBCZVZLdmlrcUxfNjhSRGJfeFV3VzJHTE5vWXg5b2xHdHoxSHBFQXAxV0hlRWtTSjB4VVMwTEh0aHcweXE0UEp0Zm9semVmNXg3?oc=5\" target=\"_blank\">Americans Say They Love Leftovers. So Why Do They Keep Throwing Them Away?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Good Men Project</font></li></ol>"
+    },
+    {
+      "title": "LIVE: 2026 F1 Austrian Grand Prix - Free Practice 3 - racingnews365.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yMFFzYll4UXItMmN0Zl9ud0p0d3N2UlFRdG9wUThBVVVFSXlQZHVHb01LS04yT2h6a284RzJRYWxGQk03Q1JJVjVfaTRDNE9MV3FibVZFWTNZS0VUOXVMYVNNVjlTYldUUHljbC0wYTBSdXVvOU1YdzN1dVNrcDg?oc=5",
+      "source": "racingnews365.com",
+      "published_at": "2026-06-27T09:30:00+00:00",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0yMFFzYll4UXItMmN0Zl9ud0p0d3N2UlFRdG9wUThBVVVFSXlQZHVHb01LS04yT2h6a284RzJRYWxGQk03Q1JJVjVfaTRDNE9MV3FibVZFWTNZS0VUOXVMYVNNVjlTYldUUHljbC0wYTBSdXVvOU1YdzN1dVNrcDg?oc=5\" target=\"_blank\">LIVE: 2026 F1 Austrian Grand Prix - Free Practice 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">racingnews365.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU0tucWhjRUpGVU5BQkpZN1AwUXNQQWlFVVpkcV9jWVVQeG9Nb1lscHpYa0JZcl8yRGdhZ2UtcnlMcU1mYlVhSGZtVWFfcHBZVmxYV2ZqWFJ2VVZkWF9sLVBDZ2k3RWVTMTRTYk9VejFuaHpvTmF3NDNnS2gzamZTZTFQYTRVMC1IblZfNF9tQmFSZHAtNGdqc2hzTHR4Q3h5UDNvNjctSnhnUGk1dlozZDdISjI3VVRKMkNDY2JzcWQ2amIyM3BBSi15aWs1M1hrM2ZBMWxwelkwaTVsSld0Zmhsc3paSDg3dUZJ?oc=5\" target=\"_blank\">Austrian GP: Kimi Antonelli completes Friday practice double as Mercedes team-mate George Russell struggles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky Sports</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMktSWXRzNUJyTGNSVGFMNDgwQWx6RW1LY2tyVnJhVDJHeFUxZy0tcTE5SnhiOXNvc0dYT3ktSHpIYzViSHl1cTBYRlFqRGdtNmY0aVpIQWhjRHJwZGlPdzBDVVdKVDJyYWEzcUp3REtHQ2FDZThZRnRmTW94WmNacHNUdW1RR2FxeVJ2MFNxVFREczBiQ1FvR2lLUmVYX3g3cUlaRjVHUjU5S21ERlA5eGFITnRZbVZrM2dVMHRSLTlnUWUzRlBzeDVNaEtqZDk1d3NOVlpjMG0tcUV6OU1DUEcwVG0xTWhTcjNSaUoza0ZnS2N4VE9pTDM3b3FzUQ?oc=5\" target=\"_blank\">Are Mercedes a step ahead of the competition in Austria?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Formula 1</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXM5TU5rR3RPX3A2X3l6d2dMWVNPeWhJMmpjWjZ2NGVhZGdndzUwN0MtVDVab1hfd1h1LV9KMVk1VmJZZHBQM3A0RU1meUdqVHhFVW81WXZ0b0UyQXl2MHdTX1k5WjJUcjVhZWlWVjlHNmxiSzAxN0FJeko3QktBS3FsbFV2dEJfSm50NXVLS2htVWd1bEFBcGJzMHQ0ZnZpLXI3aA?oc=5\" target=\"_blank\">LIVE: F1 Austrian GP updates - FP3 coming up | Live text</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Autosport</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE45UEJjejd5M1VoRU1uMUFaTVNPTFZ0cU9QMXE1ZFlOYzdaYUF5SnlJNFVPZG5YS042WldYWHBUYnpULWhIMEtlM3haSDBmNjlFY0lOUHpyYkszUDMtUnZ4blVn?oc=5\" target=\"_blank\">F1 practice & qualifying LIVE: Austrian Grand Prix 2026 times, results, radio & updates from Spielberg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li></ol>"
     },
     {
       "title": "自民の見通しなき強硬路線 背景は",
@@ -458,13 +479,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9YajFwNGxUUzRrTDBhNFFuU0hrZTJTRThDUmJ2eUNwdWp6bUVkak1KMHk4aW1KdW9VMERPcERYenFaMU9lejNhQlRkOVcwNlRSMmFORllqWXJDNU9sc3JlTmg0V21wQkppeGpva3hkNWhFS1k3MkE?oc=5\" target=\"_blank\">Class Struggle and Climate Catastrophe in the Sahel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tricontinental: Institute for Social Research</font>"
     },
     {
-      "title": "LIVE: 2026 F1 Austrian Grand Prix - Free Practice 3 - racingnews365.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yMFFzYll4UXItMmN0Zl9ud0p0d3N2UlFRdG9wUThBVVVFSXlQZHVHb01LS04yT2h6a284RzJRYWxGQk03Q1JJVjVfaTRDNE9MV3FibVZFWTNZS0VUOXVMYVNNVjlTYldUUHljbC0wYTBSdXVvOU1YdzN1dVNrcDg?oc=5",
-      "source": "racingnews365.com",
-      "published_at": "2026-06-27T09:30:00+00:00",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0yMFFzYll4UXItMmN0Zl9ud0p0d3N2UlFRdG9wUThBVVVFSXlQZHVHb01LS04yT2h6a284RzJRYWxGQk03Q1JJVjVfaTRDNE9MV3FibVZFWTNZS0VUOXVMYVNNVjlTYldUUHljbC0wYTBSdXVvOU1YdzN1dVNrcDg?oc=5\" target=\"_blank\">LIVE: 2026 F1 Austrian Grand Prix - Free Practice 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">racingnews365.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU0tucWhjRUpGVU5BQkpZN1AwUXNQQWlFVVpkcV9jWVVQeG9Nb1lscHpYa0JZcl8yRGdhZ2UtcnlMcU1mYlVhSGZtVWFfcHBZVmxYV2ZqWFJ2VVZkWF9sLVBDZ2k3RWVTMTRTYk9VejFuaHpvTmF3NDNnS2gzamZTZTFQYTRVMC1IblZfNF9tQmFSZHAtNGdqc2hzTHR4Q3h5UDNvNjctSnhnUGk1dlozZDdISjI3VVRKMkNDY2JzcWQ2amIyM3BBSi15aWs1M1hrM2ZBMWxwelkwaTVsSld0Zmhsc3paSDg3dUZJ?oc=5\" target=\"_blank\">Austrian GP: Kimi Antonelli completes Friday practice double as Mercedes team-mate George Russell struggles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky Sports</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMktSWXRzNUJyTGNSVGFMNDgwQWx6RW1LY2tyVnJhVDJHeFUxZy0tcTE5SnhiOXNvc0dYT3ktSHpIYzViSHl1cTBYRlFqRGdtNmY0aVpIQWhjRHJwZGlPdzBDVVdKVDJyYWEzcUp3REtHQ2FDZThZRnRmTW94WmNacHNUdW1RR2FxeVJ2MFNxVFREczBiQ1FvR2lLUmVYX3g3cUlaRjVHUjU5S21ERlA5eGFITnRZbVZrM2dVMHRSLTlnUWUzRlBzeDVNaEtqZDk1d3NOVlpjMG0tcUV6OU1DUEcwVG0xTWhTcjNSaUoza0ZnS2N4VE9pTDM3b3FzUQ?oc=5\" target=\"_blank\">Are Mercedes a step ahead of the competition in Austria?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Formula 1</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXM5TU5rR3RPX3A2X3l6d2dMWVNPeWhJMmpjWjZ2NGVhZGdndzUwN0MtVDVab1hfd1h1LV9KMVk1VmJZZHBQM3A0RU1meUdqVHhFVW81WXZ0b0UyQXl2MHdTX1k5WjJUcjVhZWlWVjlHNmxiSzAxN0FJeko3QktBS3FsbFV2dEJfSm50NXVLS2htVWd1bEFBcGJzMHQ0ZnZpLXI3aA?oc=5\" target=\"_blank\">LIVE: F1 Austrian GP updates - FP3 coming up | Live text</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Autosport</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE45UEJjejd5M1VoRU1uMUFaTVNPTFZ0cU9QMXE1ZFlOYzdaYUF5SnlJNFVPZG5YS042WldYWHBUYnpULWhIMEtlM3haSDBmNjlFY0lOUHpyYkszUDMtUnZ4blVn?oc=5\" target=\"_blank\">F1 practice & qualifying LIVE: Austrian Grand Prix 2026 times, results, radio & updates from Spielberg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li></ol>"
-    },
-    {
       "title": "芥川賞作家 庄司薫さん死去",
       "link": "https://news.yahoo.co.jp/pickup/6585843?source=rss",
       "source": "Yahoo!ニュース・トピックス - 国内",
@@ -549,11 +563,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1QTFdMQjByRV85ZWJCWDBQXzFkNkM4YW9DSmRJV0RZaUhKVWtHczlvcTlPWjE0a3Jpd2ZyNXN3RDNobVNwYzNhWEVaUzh3NnNIalVwSFZ3NmdYeUw3V1hNSHZQTzhQOG00UkE?oc=5\" target=\"_blank\">『スーパーボンバーマン コレクション』が初セールで20%オフ！KONAMI「GOLDEN WEEK SALE」を開催中！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR TIMES</font>"
     },
     {
-      "title": "『ブラッドボーン』アニメ化が発表！R指定の作品に。複数の海外メディアが報じる - 電ファミニコゲーマー",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CZDI4SzIzaVh1Rkp4dzY1c0ZtMmVPYWJzM3ZEMGlzbnpSdkhhSGl3YmdVT0k2NUdKb0pCaVFKQzlidmNRR3dMOE9kbWhud09oZktVeXN1OHA?oc=5",
-      "source": "電ファミニコゲーマー",
-      "published_at": "2026-04-14T07:00:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CZDI4SzIzaVh1Rkp4dzY1c0ZtMmVPYWJzM3ZEMGlzbnpSdkhhSGl3YmdVT0k2NUdKb0pCaVFKQzlidmNRR3dMOE9kbWhud09oZktVeXN1OHA?oc=5\" target=\"_blank\">『ブラッドボーン』アニメ化が発表！R指定の作品に。複数の海外メディアが報じる</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電ファミニコゲーマー</font>"
+      "title": "2026年5月公開予定の新作アニメ映画リスト｜ネジムラ89 / アニメ映画ライター - note",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85eDdZemNrSmlRLTd3NDIzMUdtbTl1OHF2eDhFRHQ5b2p5WHhHMlo0aWM0SFVoaFFtMHIyTkVjMUY2R1dFdGZiS1JFdG5pRmV3cE5obUhn?oc=5",
+      "source": "note",
+      "published_at": "2026-05-06T07:00:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE85eDdZemNrSmlRLTd3NDIzMUdtbTl1OHF2eDhFRHQ5b2p5WHhHMlo0aWM0SFVoaFFtMHIyTkVjMUY2R1dFdGZiS1JFdG5pRmV3cE5obUhn?oc=5\" target=\"_blank\">2026年5月公開予定の新作アニメ映画リスト｜ネジムラ89 / アニメ映画ライター</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">note</font>"
     },
     {
       "title": "West Virginia - Politics, Economy, Culture - Britannica",
@@ -563,25 +577,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5IWm40N2JYTlN5TS1TODU1TVJGOUVDUkw1QnhScDVkTnp5WGpLVWdOdmVXQlpQZUVib0E0cnlvLWMwWkF5NVM1bWoxUkphTUlZdzhYNU1vX1F0eUNjS3lsOGhqakdCX0VYemg1bE00NzVVUHRxSVkxRw?oc=5\" target=\"_blank\">West Virginia - Politics, Economy, Culture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>"
     },
     {
-      "title": "Burkina Faso cuts diplomatic relations with France, once a key ally - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMi1GVU1XUV8tS19Ma3ZVMWF5MWIyZG9xcDNBRXFjZ1NZOTRBc3A4YTZtVGZzTWxpaDBlSUtDNXItOWlOSDRQOHR2cGdfUVZrYUJXUTh4d2tCY3JTcWxFY19oalhNR1RVYmRGMzdsS0FRWVo5dmtuZ2dVZkg0UFAxdV9tMWZxd1hJSjBBY2VRMEFORjl6TFY5YVY2LVFGaFhkRXRyRXhSTWs?oc=5",
-      "source": "AP News",
-      "published_at": "2026-06-27T07:38:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMi1GVU1XUV8tS19Ma3ZVMWF5MWIyZG9xcDNBRXFjZ1NZOTRBc3A4YTZtVGZzTWxpaDBlSUtDNXItOWlOSDRQOHR2cGdfUVZrYUJXUTh4d2tCY3JTcWxFY19oalhNR1RVYmRGMzdsS0FRWVo5dmtuZ2dVZkg0UFAxdV9tMWZxd1hJSjBBY2VRMEFORjl6TFY5YVY2LVFGaFhkRXRyRXhSTWs?oc=5\" target=\"_blank\">Burkina Faso cuts diplomatic relations with France, once a key ally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pUamY2N0VSSFhPUGotT29maVlTZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">See more headlines & perspectives on Google News</a></strong>"
-    },
-    {
       "title": "珍しい…多彩なメロカリスを一堂に 小川の自然農園で800品種 新鮮な、変化に富んだ美しさ楽しむ これから見頃迎えるオリジナル品種も 7月5日まで（埼玉新聞） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUanpzdGNkOXhBNW9IcVpnQmEyNHJFaXMwUHROWE4xTmNoT2hkS1EyWmRMM3BfNlI4Q3lqUjF3VUxDU0VUakJTSXVRclZNbWdxMGpjNUVTZVBRZ2oxS1BpdXB0OXJvbDc1TjhBRG1aU0dmQmVwVklVeWNtcHVNVHM?oc=5",
       "source": "Yahoo!ニュース",
       "published_at": "2026-06-27T05:36:24+00:00",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBUanpzdGNkOXhBNW9IcVpnQmEyNHJFaXMwUHROWE4xTmNoT2hkS1EyWmRMM3BfNlI4Q3lqUjF3VUxDU0VUakJTSXVRclZNbWdxMGpjNUVTZVBRZ2oxS1BpdXB0OXJvbDc1TjhBRG1aU0dmQmVwVklVeWNtcHVNVHM?oc=5\" target=\"_blank\">珍しい…多彩なメロカリスを一堂に 小川の自然農園で800品種 新鮮な、変化に富んだ美しさ楽しむ これから見頃迎えるオリジナル品種も 7月5日まで（埼玉新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>"
-    },
-    {
-      "title": "中央政府の指導者らは、ダクラク省における計画策定、投資促進、その他の活動に関する発表会に出席した。 - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXk0RHliVFJsdW4yTXpGQm82MnhhVmFTSjREOEtQQ0RNVlQ2b0JmTHd6VjVSSlhPZlNRNVVYWUNqb0N1LXVDRlh5RUpiNnB3QWljUzFYdWhVRWZqSjZ0T05haXBWUzNmTHo4RG44ekN4dW9MZ0lIdmV5WUJYcUQ0T0Y3d3huY3lfR19fZ05WYmVNTEF1M0tjLXhkVERraXZzdTdnYzVxT0JqU3VwQ1B1Y3FsNmQwNHM4aFE?oc=5",
-      "source": "Vietnam.vn",
-      "published_at": "2026-06-27T09:24:55+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXk0RHliVFJsdW4yTXpGQm82MnhhVmFTSjREOEtQQ0RNVlQ2b0JmTHd6VjVSSlhPZlNRNVVYWUNqb0N1LXVDRlh5RUpiNnB3QWljUzFYdWhVRWZqSjZ0T05haXBWUzNmTHo4RG44ekN4dW9MZ0lIdmV5WUJYcUQ0T0Y3d3huY3lfR19fZ05WYmVNTEF1M0tjLXhkVERraXZzdTdnYzVxT0JqU3VwQ1B1Y3FsNmQwNHM4aFE?oc=5\" target=\"_blank\">中央政府の指導者らは、ダクラク省における計画策定、投資促進、その他の活動に関する発表会に出席した。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>"
     },
     {
       "title": "民事裁判の全面デジタル化、21日から 提訴や判決もオンラインで - 朝日新聞",
@@ -612,11 +612,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FaERUUGNfYVRZdXpfUXYyV0tZRk9TMG5kQjZWWVhxZm9QWl9ocDJTUUdHOW9IckZvZ3N5dElLT3JGQ3pvWFNvQWhzeGJOTm9FQnRN?oc=5\" target=\"_blank\">Perplexity、「Bumblebee」をリリース--ソフトウェアサプライチェーンの安全対策</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET Japan</font>"
     },
     {
-      "title": "アニメディア5月号は本日発売！ 表紙&Wカバーは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』と『劇場版「暗殺教室」みんなの時間』！ - アニメ！アニメ！",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oWHlrYWl0TUJJZ0RVREtrUk8xdzFoTW5nQnVPbHVBSzN6SjJQLUstZkJLSWlrT1FXQzVQaTBQcXNNM2UxaWZ5TGZJcEFmNzNCS0dNYWdWcjBBdzZrSUV2eQ?oc=5",
-      "source": "アニメ！アニメ！",
-      "published_at": "2026-04-10T07:00:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oWHlrYWl0TUJJZ0RVREtrUk8xdzFoTW5nQnVPbHVBSzN6SjJQLUstZkJLSWlrT1FXQzVQaTBQcXNNM2UxaWZ5TGZJcEFmNzNCS0dNYWdWcjBBdzZrSUV2eQ?oc=5\" target=\"_blank\">アニメディア5月号は本日発売！ 表紙&Wカバーは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』と『劇場版「暗殺教室」みんなの時間』！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アニメ！アニメ！</font>"
+      "title": "『ブラッドボーン』アニメ化が発表！R指定の作品に。複数の海外メディアが報じる - 電ファミニコゲーマー",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CZDI4SzIzaVh1Rkp4dzY1c0ZtMmVPYWJzM3ZEMGlzbnpSdkhhSGl3YmdVT0k2NUdKb0pCaVFKQzlidmNRR3dMOE9kbWhud09oZktVeXN1OHA?oc=5",
+      "source": "電ファミニコゲーマー",
+      "published_at": "2026-04-14T07:00:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CZDI4SzIzaVh1Rkp4dzY1c0ZtMmVPYWJzM3ZEMGlzbnpSdkhhSGl3YmdVT0k2NUdKb0pCaVFKQzlidmNRR3dMOE9kbWhud09oZktVeXN1OHA?oc=5\" target=\"_blank\">『ブラッドボーン』アニメ化が発表！R指定の作品に。複数の海外メディアが報じる</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">電ファミニコゲーマー</font>"
     },
     {
       "title": "The Federal Government’s Debt Is Growing Faster Than the Economy. What Does that Mean for You? - U.S. Government Accountability Office (.gov)",
@@ -624,13 +624,6 @@
       "source": "U.S. Government Accountability Office (.gov)",
       "published_at": "2026-06-11T07:00:00+00:00",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3NVN3FkVU1Lc0RvazU3Smo2bnZNMmdUV2hqMDJKLVQ0OU9JYlR2aXNjbHotZjh4Z21JTEgyTXhjOGdpQ3Z2TWFRYzVIR3VKNFR2MU94alhZTk5IZGhUN2wwdlNIVTFsWnowbWdheGRoci0xZXQtX2FnTllfVmJPX0xMT0Z1NE95bDdqdERmUjc3cm5MVzRESUQ1Ylk?oc=5\" target=\"_blank\">The Federal Government’s Debt Is Growing Faster Than the Economy. What Does that Mean for You?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. Government Accountability Office (.gov)</font>"
-    },
-    {
-      "title": "McKenna selected No. 1 by Maple Leafs in 2026 NHL Draft - NHL.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZDNLODJFbHlEV3ZLS3ozY05raWYyb2hhZHFYT3lVZ3RtTDNralRTcDZVYUFpUk1ndk11WldFakF4dGpyUzNTbjZOZU1DZmpZSmh1THpPRmItMDlaLWF0eFFQWHREQTBETFZVbXg4eEk3S052M0hKQ3ZGSXRMbkVpQzY0MGxoR0ZQVjhQLTJqZW1xMzJkNTdSS0RFT2d1ekpXc3c?oc=5",
-      "source": "NHL.com",
-      "published_at": "2026-06-27T05:55:57+00:00",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQZDNLODJFbHlEV3ZLS3ozY05raWYyb2hhZHFYT3lVZ3RtTDNralRTcDZVYUFpUk1ndk11WldFakF4dGpyUzNTbjZOZU1DZmpZSmh1THpPRmItMDlaLWF0eFFQWHREQTBETFZVbXg4eEk3S052M0hKQ3ZGSXRMbkVpQzY0MGxoR0ZQVjhQLTJqZW1xMzJkNTdSS0RFT2d1ekpXc3c?oc=5\" target=\"_blank\">McKenna selected No. 1 by Maple Leafs in 2026 NHL Draft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHL.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNa2pfZVBqYjZnQ0QxMkZZV0k2T1BNTG1fa1E0N05fdTd5ZlFiT1RFYnNfMXRTZGtWTW1HRzQwc0FVa1o5Z3I2SzNRTE1UNFVNSFhLWVlHQmtBcVozV01TZ1BjR3B5eWlTMHhRLUdWU2c2Q1pHVFRXdUtiMTJ1UmhVV3VCTldaU0U4SHVhcEpxbUFxTGtCcnFGNHRhMVJTTzJyN2c?oc=5\" target=\"_blank\">Toronto Maple Leafs select Gavin McKenna to open NHL draft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ESPN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNRndfaG9HbFA4S21rczFpUWprZlJpVEFBN1p1QktPc3dNam9IVkk3cktEb1FOZ0dza0xkQnRoS3FNX05HZlRXeXZDb1l5RGZQNEdxZXozRGg4eVNmVURXZzVNakFfWkQ1R29obENSVHgwSHBwU25wZW5CV0JORUpaOWV6YkplVzZCMEpxdzg2WUhXcjJTbGZwbg?oc=5\" target=\"_blank\">Gavin McKenna changes the game for the Maple Leafs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA2MFhVQ3JwNkdVWllrcGdMSFQ0VEZxWXZreUpEVFVSV3k2em1HaGJBZ3ZGZlA5TmZUMFUzT2FNaXF0cWIxUXJVdS1hQjVKZmtfWG1sTDdPNjhKRkt5WFc2cjR6VF9vbXV2TzJr?oc=5\" target=\"_blank\">2026 NHL Mock Draft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PensBurgh</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd1M3cHlPTDlya25KQU9fVW40NXNQblhYeE5ta2E2M0RCX2dHdGNjbDlhRVloRkJCcGc2WmlQdy1OWV9TRVJZZ0Q4Zno3Q2pta1RJckNzWHY1el83S1NrNFlUdzVYN3h0Yl92NzktOENYVHlaWWRJcTB4dFlPbVV1YmNmQXphS1pJa3Fqem1fR1Z4bXRmd1R6NmMtaHZFb3VaSDE3dkdsb2pYUTZpVzc3aG5FZEhXb09wNXV4c3VYNmlrZw?oc=5\" target=\"_blank\">Justin Bieber Makes Surprise Appearance at NHL Draft to Announce First Pick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font></li></ol>"
     },
     {
       "title": "【プレスリリース】「災害時におけるキッチンカーによる食品の供給等に関する協定」を締結しました！ - city.ota.tokyo.jp",
@@ -661,11 +654,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5MamJIdFYyX3owNFVTTGs3RG9lYXpFQ1lKQUJWMThQemtxTjNJaFNCcFRPb0UzLW5rRnFIUzRmMC1tOXZjVkMwT2hfWVVFQkZzVGlkcC1VNzVqRDgzUVFMN0JReHh4N2xKRTN1azZzUQ?oc=5\" target=\"_blank\">青森県で最大震度3の地震 青森県・八戸市、階上町、岩手県・軽米町（FNNプライムオンライン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ｄメニューニュース</font>"
     },
     {
-      "title": "読む政治：高市氏に漂う孤立感、重鎮懸念 党「関係希薄」官邸「会えない」 - 毎日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uUFNtNHNmclU1ekJyOW9DTEtHWjJadHkwZmVKVUhsbEJsd1RiMlJjZVdnUkV4WEVFTU8zZWV6NEZtNWNtOF9RaldqemJYekI1RHhDc29OdDRTOUktT01VVjg3c1pFcVZP?oc=5",
-      "source": "毎日新聞",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uUFNtNHNmclU1ekJyOW9DTEtHWjJadHkwZmVKVUhsbEJsd1RiMlJjZVdnUkV4WEVFTU8zZWV6NEZtNWNtOF9RaldqemJYekI1RHhDc29OdDRTOUktT01VVjg3c1pFcVZP?oc=5\" target=\"_blank\">読む政治：高市氏に漂う孤立感、重鎮懸念 党「関係希薄」官邸「会えない」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">毎日新聞</font>"
+      "title": "中央政府の指導者らは、ダクラク省における計画策定、投資促進、その他の活動に関する発表会に出席した。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXk0RHliVFJsdW4yTXpGQm82MnhhVmFTSjREOEtQQ0RNVlQ2b0JmTHd6VjVSSlhPZlNRNVVYWUNqb0N1LXVDRlh5RUpiNnB3QWljUzFYdWhVRWZqSjZ0T05haXBWUzNmTHo4RG44ekN4dW9MZ0lIdmV5WUJYcUQ0T0Y3d3huY3lfR19fZ05WYmVNTEF1M0tjLXhkVERraXZzdTdnYzVxT0JqU3VwQ1B1Y3FsNmQwNHM4aFE?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-06-27T09:24:55+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXk0RHliVFJsdW4yTXpGQm82MnhhVmFTSjREOEtQQ0RNVlQ2b0JmTHd6VjVSSlhPZlNRNVVYWUNqb0N1LXVDRlh5RUpiNnB3QWljUzFYdWhVRWZqSjZ0T05haXBWUzNmTHo4RG44ekN4dW9MZ0lIdmV5WUJYcUQ0T0Y3d3huY3lfR19fZ05WYmVNTEF1M0tjLXhkVERraXZzdTdnYzVxT0JqU3VwQ1B1Y3FsNmQwNHM4aFE?oc=5\" target=\"_blank\">中央政府の指導者らは、ダクラク省における計画策定、投資促進、その他の活動に関する発表会に出席した。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>"
     },
     {
       "title": "【県内企業売上高ランキング・2024年度】トップ30社を発表！首位は24年連続でコメリ（新潟市南区） - 新潟日報",
@@ -710,11 +703,25 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5RGdlaXVpcXlQeUMyU2xRS0lsRkdtNGtPRXljYVFXV1YyMUo1Zk1oNGFualpwYXJZTWliQ1ZLOWlqRXVhc0pIOE1DVnVHS1RaRVRhTzdIeVk2RzdDWkpJ?oc=5\" target=\"_blank\">【Anthropic】AI「Claude Mythos」が1万件の重大な脆弱性を発見、サイバーセキュリティ関連銘柄に追い風</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.jp</font>"
     },
     {
-      "title": "Horoscope for Saturday, June 27, 2026 - Chicago Sun-Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1NKWFhwUXZWMjRUSUcyZ3VPdnZYRmM0dDd3a3hITnpCeVY4bFVEQ3FXeDNVQVJ1VjJUaUpSaHlUYlotdWcxYXdOOUtkcHhfNWtCVjJ3NDFaR1BSbVd0Q3BUVG5LQVlxMGFUT09EbTc3VjFsTjJkMmxxR1VjYzA2V0xIMXFTeDE1SlBESHEtYXdoSkk?oc=5",
-      "source": "Chicago Sun-Times",
-      "published_at": "2026-06-27T05:01:00+00:00",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1NKWFhwUXZWMjRUSUcyZ3VPdnZYRmM0dDd3a3hITnpCeVY4bFVEQ3FXeDNVQVJ1VjJUaUpSaHlUYlotdWcxYXdOOUtkcHhfNWtCVjJ3NDFaR1BSbVd0Q3BUVG5LQVlxMGFUT09EbTc3VjFsTjJkMmxxR1VjYzA2V0xIMXFTeDE1SlBESHEtYXdoSkk?oc=5\" target=\"_blank\">Horoscope for Saturday, June 27, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chicago Sun-Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZXhScDBQa2FETjZmMHlQdDBReDVIMnE4WjFvTUdTS0RxOUdWTXFHcDVJTHNHTTlTdUpvTGNGb2xyNGFBSVMzTEhFOWRWcllnWjVxNDZjZW4wU2ZLNTctVDJyX3ZlMkpTZDlBQ2pmZ0lvLURGOWU3MzBpSF80VlJZTExEdlZrem9RRF9UWk5mWVBldTFoUWNQRGFiYkptYk9Zb1YzMA?oc=5\" target=\"_blank\">Horoscope for Saturday, 06/27/26 by Christopher Renstrom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SFGATE</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQS3NyRTdSeG52VDRsQ3FtVGR6R1VpcTJPcnhFelFCNFptYmlHcmM5cmtnczNCSmo5NUFHZm8zZlZLQXlZblJzekMxQ2ZLazJJblNReTdOTWowNUtoUUFTNW1XYk9raTYxTm1Da2ExdzBQaUZmTURvYzFpb1hNMEpCM003TXhIUUREbzBJd0piQkU?oc=5\" target=\"_blank\">Horoscopes Today, June 27, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQc2t5QVRzYllVdU84S05iS2VTNTdXaDNYLXA1ZmQyUDRDaXFPMENoUFp5eUdlNHdfUGRrNWQySnRFUzU3ZUtKTWYxb0FWUEFFWDdFVnd5TV96cXhBX1RiMlcyT0pYSHlsdENBanVfTUItT2JPX2FJYmxGaWFyV2hfbjUxSzRpNi1KTUFjbXdsV2Y0NTFBQXRMdWc1X01ycWM?oc=5\" target=\"_blank\">Horoscope for Saturday, 6/27/26 by Georgia Nicols</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CT Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9TYUo3dGFwMU5ndzhVSkNzNzA5OXNlOEZEeG9RMURZRXQzazJGTU9GcTg3amxHbFdNMVhiSzVLMkk5WFpSRUlITnVrMG5kWWdTZHVKSWxkZmFCcVBQVTFKUmFkVXc2UTk3UjRyTG83Y3RIS1BpYmVpcw?oc=5\" target=\"_blank\">Your Daily Astrology: June 27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baltimore Sun</font></li></ol>"
+      "title": "アニメディア5月号は本日発売！ 表紙&Wカバーは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』と『劇場版「暗殺教室」みんなの時間』！ - アニメ！アニメ！",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oWHlrYWl0TUJJZ0RVREtrUk8xdzFoTW5nQnVPbHVBSzN6SjJQLUstZkJLSWlrT1FXQzVQaTBQcXNNM2UxaWZ5TGZJcEFmNzNCS0dNYWdWcjBBdzZrSUV2eQ?oc=5",
+      "source": "アニメ！アニメ！",
+      "published_at": "2026-04-10T07:00:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oWHlrYWl0TUJJZ0RVREtrUk8xdzFoTW5nQnVPbHVBSzN6SjJQLUstZkJLSWlrT1FXQzVQaTBQcXNNM2UxaWZ5TGZJcEFmNzNCS0dNYWdWcjBBdzZrSUV2eQ?oc=5\" target=\"_blank\">アニメディア5月号は本日発売！ 表紙&Wカバーは『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』と『劇場版「暗殺教室」みんなの時間』！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アニメ！アニメ！</font>"
+    },
+    {
+      "title": "Burkina Faso cuts diplomatic relations with France, once a key ally - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMi1GVU1XUV8tS19Ma3ZVMWF5MWIyZG9xcDNBRXFjZ1NZOTRBc3A4YTZtVGZzTWxpaDBlSUtDNXItOWlOSDRQOHR2cGdfUVZrYUJXUTh4d2tCY3JTcWxFY19oalhNR1RVYmRGMzdsS0FRWVo5dmtuZ2dVZkg0UFAxdV9tMWZxd1hJSjBBY2VRMEFORjl6TFY5YVY2LVFGaFhkRXRyRXhSTWs?oc=5",
+      "source": "AP News",
+      "published_at": "2026-06-27T07:38:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMi1GVU1XUV8tS19Ma3ZVMWF5MWIyZG9xcDNBRXFjZ1NZOTRBc3A4YTZtVGZzTWxpaDBlSUtDNXItOWlOSDRQOHR2cGdfUVZrYUJXUTh4d2tCY3JTcWxFY19oalhNR1RVYmRGMzdsS0FRWVo5dmtuZ2dVZkg0UFAxdV9tMWZxd1hJSjBBY2VRMEFORjl6TFY5YVY2LVFGaFhkRXRyRXhSTWs?oc=5\" target=\"_blank\">Burkina Faso cuts diplomatic relations with France, once a key ally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pUamY2N0VSSFhPUGotT29maVlTZ0FQAQ?hl=en-US&gl=US&ceid=US:en&oc=5\" target=\"_blank\">See more headlines & perspectives on Google News</a></strong>"
+    },
+    {
+      "title": "読む政治：高市氏に漂う孤立感、重鎮懸念 党「関係希薄」官邸「会えない」 - 毎日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uUFNtNHNmclU1ekJyOW9DTEtHWjJadHkwZmVKVUhsbEJsd1RiMlJjZVdnUkV4WEVFTU8zZWV6NEZtNWNtOF9RaldqemJYekI1RHhDc29OdDRTOUktT01VVjg3c1pFcVZP?oc=5",
+      "source": "毎日新聞",
+      "published_at": "2026-04-20T07:00:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uUFNtNHNmclU1ekJyOW9DTEtHWjJadHkwZmVKVUhsbEJsd1RiMlJjZVdnUkV4WEVFTU8zZWV6NEZtNWNtOF9RaldqemJYekI1RHhDc29OdDRTOUktT01VVjg3c1pFcVZP?oc=5\" target=\"_blank\">読む政治：高市氏に漂う孤立感、重鎮懸念 党「関係希薄」官邸「会えない」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">毎日新聞</font>"
     },
     {
       "title": "工作機械受注が教えてくれる日本株・世界経済（26 年４月） | 藤代 宏一 | 第一ライフ資産運用経済研究所 - 第一ライフ資産運用経済研究所",
@@ -752,25 +759,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zcFNoLUpKRi0wR2RrMDV5QVJRNE1KajQ2Q2hwYl9OZ1lvaDRjZ3VVczd0WnotT1F5ZDFfZVZfdTZUZGVfa1dZZFkyMzA1NUJ6SDBySzVVWi1OclN2Zm9YMEdB?oc=5\" target=\"_blank\">SBOMとは？ ソフトウェアの「部品表」が守るサプライチェーンの安全性</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">skyseaclientview.net</font>"
     },
     {
-      "title": "劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』公開日決定！ティザーPV解禁 - エンタメ特化型情報メディア スパイス",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01M2lxM2V6d3E1LUFoUmlqUWdodkt4MXJlb25sN2NReGJhSjBHUDZqb0czTG5yS3BOWUpGUzhkUlBZalVBd1htYm1DMkx5em_SAVRBVV95cUxPc3NEdFF5ZGVNdzkybHcwbUNrUGZUenJyMWJUN1E5dUV1bzdiN0JNRnJkbURWdU54cVZOMkxjUnI2a0xUMml3N01GMXBTTkZRMGxLd3I?oc=5",
-      "source": "エンタメ特化型情報メディア スパイス",
-      "published_at": "2026-03-29T07:00:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE01M2lxM2V6d3E1LUFoUmlqUWdodkt4MXJlb25sN2NReGJhSjBHUDZqb0czTG5yS3BOWUpGUzhkUlBZalVBd1htYm1DMkx5em_SAVRBVV95cUxPc3NEdFF5ZGVNdzkybHcwbUNrUGZUenJyMWJUN1E5dUV1bzdiN0JNRnJkbURWdU54cVZOMkxjUnI2a0xUMml3N01GMXBTTkZRMGxLd3I?oc=5\" target=\"_blank\">劇場アニメ『青春ブタ野郎はディアフレンドの夢を見ない』公開日決定！ティザーPV解禁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">エンタメ特化型情報メディア スパイス</font>"
-    },
-    {
       "title": "The rise of the in-between - ips-journal.eu",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVlYzZ3pJaGNBZ3RIbVVHVmZjT1lJdmxlNGN6VmhPcXBCcl9XTU9abFhic0pWTFNWamhLQk1MNGdyYVJWY0hWa20xTksycWNPMXlKbnU4LUhTM3dQM191b1pnSW1jTW11NGFDV0hjb3gyZTVUTXJZSjBDSUVQVXo5bktBd2VuS0EweWs4X01xaFJKck5ydC01ODNR?oc=5",
       "source": "ips-journal.eu",
       "published_at": "2026-05-18T07:00:00+00:00",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPVlYzZ3pJaGNBZ3RIbVVHVmZjT1lJdmxlNGN6VmhPcXBCcl9XTU9abFhic0pWTFNWamhLQk1MNGdyYVJWY0hWa20xTksycWNPMXlKbnU4LUhTM3dQM191b1pnSW1jTW11NGFDV0hjb3gyZTVUTXJZSjBDSUVQVXo5bktBd2VuS0EweWs4X01xaFJKck5ydC01ODNR?oc=5\" target=\"_blank\">The rise of the in-between</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ips-journal.eu</font>"
-    },
-    {
-      "title": "アニメ「サイバーパンク: エッジランナーズ2」キャラクター公開第二弾、「D」のビジュアルお披露目！残りのシルエットも気になる - Game*Spark",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Qc09RSUxuWVk1dmRrWUdhVnFqMlB3V1ZaTTh0Z3M5RTlOcHhkYjA1S1Y2N3N5STFDZWhMTEtScUs3U1E2TWhOb0tSNlM4QVVmbXZqV0ZKSklWYW9raWJFb3M5SXdvQQ?oc=5",
-      "source": "Game*Spark",
-      "published_at": "2026-06-27T08:00:03+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Qc09RSUxuWVk1dmRrWUdhVnFqMlB3V1ZaTTh0Z3M5RTlOcHhkYjA1S1Y2N3N5STFDZWhMTEtScUs3U1E2TWhOb0tSNlM4QVVmbXZqV0ZKSklWYW9raWJFb3M5SXdvQQ?oc=5\" target=\"_blank\">アニメ「サイバーパンク: エッジランナーズ2」キャラクター公開第二弾、「D」のビジュアルお披露目！残りのシルエットも気になる</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Game*Spark</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2oxbmYyM0VSRURzY091d3RpY1ZpZ0FQAQ?hl=ja&gl=JP&ceid=JP:ja&oc=5\" target=\"_blank\">Google ニュースで見出しと意見をもっと見る</a></strong>"
     }
   ]
 }

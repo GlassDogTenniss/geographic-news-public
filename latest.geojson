@@ -1,14 +1,14 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-27T11:52:07.766710+00:00",
-    "count": 348,
+    "created_at": "2026-06-27T11:53:05.638360+00:00",
+    "count": 346,
     "stats": {
       "collected": 500,
-      "resolved": 391,
-      "topics": 348,
-      "unresolved": 109,
-      "deduped": 43
+      "resolved": 392,
+      "topics": 346,
+      "unresolved": 108,
+      "deduped": 46
     }
   },
   "features": [
@@ -22,10 +22,10 @@
         ]
       },
       "properties": {
-        "title": "大坂なおみ 観客に謝罪「申し訳ありません」ウィンブルドン前哨戦は途中棄権で準V＜女子テニス＞（tennis365.net） - Yahoo!ニュース",
+        "title": "大坂なおみ、決勝を途中棄権 ウィンブルドンの前哨戦（共同通信） - Yahoo!ニュース",
         "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOdmYxcmllYTQ3YzNuak1DUEtYbXN0MHdOWnhnZVhTcHg0T1ZhLWttTHZIenJMZ3pESl9GRzRVN2hsMzd1cUNFMW5hdk9MeE1rZG8tYXVCMGYxMEFqb0Z5NkVKbWQxSk9MMTdXZkxnODAtUXBGSkpaXzBHcHYwcE0?oc=5",
-        "published_at": "2026-06-27T10:37:27+00:00",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04VmlNN3ZQenItZ1duZ2ttbTBEMGJiSmdOUHZwVTdGY2dlWFdxeklTd2IyTG1XTVdsdDcwcF9iTmJvNjRldllJY0wwWnEybThheUl3SjBGbE9sRnkzcHpYMW5Cb0pMajNpdWxPRkM1S1ZsLWxDVVNsQU8tbDktcHM?oc=5",
+        "published_at": "2026-06-27T10:27:40+00:00",
         "representative_place": "欧州・ブリュッセル",
         "geocode_query": "Brussels Belgium European Union",
         "place_type": "institution_site",
@@ -40,22 +40,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3517,
-          50.8503
+          51.389,
+          35.6892
         ]
       },
       "properties": {
-        "title": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters - NPR",
-        "source": "NPR",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObDRici1obWltTkNwTHM3Ukl0S2F3RlFkM2RYQlBOTU1tVFFEUVNWc3kxYmJXT3VFSGFHYk5ITFNUODg0Uy13ajk4UHBIMnJZTUIzcDVzbW90VzQ4VmRRRG54R2JpYTBoaGQzU0RsMnZDalhkQ05Bc21sSkVfa0tucUYtaHZRaTc2QWNCNk5melJjb2s?oc=5",
-        "published_at": "2026-06-27T10:30:00+00:00",
-        "representative_place": "欧州・ブリュッセル",
-        "geocode_query": "Brussels Belgium European Union",
-        "place_type": "institution_site",
-        "location_precision": "region",
-        "place_reason": "記事タイトルに欧州・ヨーロッパ・EUが現れるため、欧州政治・制度の代表地点としてブリュッセルに置く（一致語: EU）",
-        "confidence": 0.56,
-        "rule_id": "region_europe_brussels"
+        "title": "U.S. strikes Iranian military sites after ship was hit in Strait of Hormuz - The Washington Post",
+        "source": "The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZE5FZXRUMFlMa2d1OWJhZW11RFJjeUw3Z1lzbEM4c3NQQXA3MDRYbFI2SW5KU3Bac3A2bDE1dGt5ZkV1UTg5dml2VXNFZHlwSEJLaXZMRVZOamwtOFNMSmtHYkNjazdidVpUZDRoWjB2ak5McGNndHdoZEdhMklSTmlvQWtRaDV6RDRBWTI4RzVwek5CQUtDZXZzQzZEVklSaXdKekNQU25mZlpndEhYbDNGMVdhblhmc1E5bXFELXJBMTdidHc?oc=5",
+        "published_at": "2026-06-27T10:44:15+00:00",
+        "representative_place": "イラン・テヘラン",
+        "geocode_query": "Tehran Iran",
+        "place_type": "affected_site",
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルにIran・Tehranが現れるため、国または都市の代表地点に置く（一致語: Iran）",
+        "confidence": 0.64,
+        "rule_id": "iran_tehran_english"
       }
     },
     {
@@ -983,22 +983,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0369,
-          38.9072
+          4.3517,
+          50.8503
         ]
       },
       "properties": {
-        "title": "As Supreme Court expands Trump's immigration power, experts warn of steeper U.S. population decline - NPR",
+        "title": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters - NPR",
         "source": "NPR",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjdZc0FXdHNNYW1yU2VIdG9sUy1lTzVKTHVJRzhWeHZ3cHpNdTQxUWpnVmZINktobjl0WFQyellkRW1SM1Y4clJQbjFTdWNfOC1KaC1URi04QnoyRE44T0ZIU1FTY0JuSU9ia0tjRVV6R09WTXh6OU1sOHN2Y3FZYmlPNG4yUEVwYmdybQ?oc=5",
-        "published_at": "2026-06-27T10:00:00+00:00",
-        "representative_place": "ワシントンD.C.",
-        "geocode_query": "Washington DC United States",
-        "place_type": "decision_site",
-        "location_precision": "city",
-        "place_reason": "米国政治・米中関係に関する見出しのため、米国政治の代表地点に置く（一致語: Trump）",
-        "confidence": 0.58,
-        "rule_id": "us_democratic_party_washington"
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObDRici1obWltTkNwTHM3Ukl0S2F3RlFkM2RYQlBOTU1tVFFEUVNWc3kxYmJXT3VFSGFHYk5ITFNUODg0Uy13ajk4UHBIMnJZTUIzcDVzbW90VzQ4VmRRRG54R2JpYTBoaGQzU0RsMnZDalhkQ05Bc21sSkVfa0tucUYtaHZRaTc2QWNCNk5melJjb2s?oc=5",
+        "published_at": "2026-06-27T10:30:00+00:00",
+        "representative_place": "欧州・ブリュッセル",
+        "geocode_query": "Brussels Belgium European Union",
+        "place_type": "institution_site",
+        "location_precision": "region",
+        "place_reason": "記事タイトルに欧州・ヨーロッパ・EUが現れるため、欧州政治・制度の代表地点としてブリュッセルに置く（一致語: EU）",
+        "confidence": 0.56,
+        "rule_id": "region_europe_brussels"
       }
     },
     {
@@ -1172,9 +1172,9 @@
         ]
       },
       "properties": {
-        "title": "【地震情報】東北地方で震度３　新潟は阿賀町で震度１ - ｄメニューニュース",
-        "source": "ｄメニューニュース",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWa0VWYkdmV3BpSTUxODRHUEtYa2pjVVNma3o5LXRNd2dQa1dMM0RfTGZKbXNBemhqTWpVTVE3bU1NZmc5NV82NlRpTGR4S0ttQUtBZ1Zab0lsNHB4Nm80TUpuVHVZMnJ5OEQ4RmEtOFRSVG9vRk9xaXc3QXNqd9IBgwFBVV95cUxOczhEaE9iYjcxLWlqcFdPTFplTTlBckMwR2M0M0U4QWVuNmNmUWNoNmtWZ1hScHNNbUNOcWh6UUdkSE9BX19ZSU1CdzdGM21tR2NTbWdYMUtSYmhyVFEyZHVCN25McldSMnFWUjRTOTc4S0pnN1dObG1lSEJaVm82MkF0RQ?oc=5",
+        "title": "【地震情報】東北地方で震度３ 新潟は阿賀町で震度１（2026年6月23日掲載）｜TeNY NEWS NNN - 日テレNEWS NNN",
+        "source": "日テレNEWS NNN",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlNGLVhlQkFLYTB5YjBvai14SW1RekUxSEN0VklBSXdwMGxIYUsxTGF2dk10WG95dEo2NVl6aWt1eFpDeGsyM1cycWtSR01OZzg3cEdDUV9YS3hwV1VpUnlZWk1LR2tCM21JVk14U0NqQVlTTng1NXVVS1pjQkZBVS1Pd2hENWo4?oc=5",
         "published_at": "2026-06-24T04:39:00+00:00",
         "representative_place": "気象庁",
         "geocode_query": "気象庁 東京都港区虎ノ門",
@@ -1390,29 +1390,6 @@
         "place_reason": "記事タイトルに首相・自民党総裁など日本政治の中枢表現が現れるため、首相官邸に置く（一致語: 首相）",
         "confidence": 0.64,
         "rule_id": "prime_minister_office_japan_general"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.7469,
-          10.0452
-        ]
-      },
-      "properties": {
-        "title": "政府は、メコンデルタにおける地滑りや塩水侵入対策への予算配分を最優先事項としている。 - Vietnam.vn",
-        "source": "Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNWk4NWI2MnJuaWNCN3BhYXRSblBaMTZrR09GX1VDaHh6SEtwS1VKRjNnLVlyUnJ2Q1RyUkw2UkU5UEhrRks5THlkSkdVWndlbDFYWGU2YmlIeXBVaGhVdUpQSUh0QnR1ZmFJMkJlc0FqeXZEVWxPX3NuVTlzR3VrN0l5aVpZaFZIQ0tUX2lPNlNaZWtiU2l5SzFR?oc=5",
-        "published_at": "2026-06-27T10:40:11+00:00",
-        "representative_place": "メコンデルタ",
-        "geocode_query": "Mekong Delta Vietnam",
-        "place_type": "affected_site",
-        "location_precision": "region",
-        "place_reason": "記事タイトルにメコンデルタが現れるため、影響地域を代表する広域地点に置く（一致語: メコンデルタ）",
-        "confidence": 0.74,
-        "rule_id": "mekong_delta"
       }
     },
     {
@@ -1719,22 +1696,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.4668,
-          31.5017
+          51.389,
+          35.6892
         ]
       },
       "properties": {
-        "title": "Netanyahu and Katz say Israel will remain in Lebanon, Syria and Gaza 'without time limit' - Middle East Eye",
-        "source": "Middle East Eye",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmpiclp3TU5vMEwxUFJnVnlQeXlKMklkTFNKX3ZLa0ptZHkwdzFSeE1aVE9kalBFWmhPMzVFYm90ckdFR1lKWVFHTlpINm1ILVVLUnBoTE1ZdkxWMjhDSWdiRWczWVdCM2U5cVY4dnV2T1pIaEVNSWVWNS1LRGdPSG5CR0xnZ2g3NE5JdW90SkRwY25faEFHUUFHUXdsZkRaRTNVbUFqLThZSmdoWnhtdE83bw?oc=5",
-        "published_at": "2026-06-26T10:13:59+00:00",
-        "representative_place": "ガザ",
-        "geocode_query": "Gaza City Palestine",
+        "title": "Iran war live: IRGC ‘targets’ US military sites in region after attacks - Al Jazeera",
+        "source": "Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLTM2b0s0V25IYjUxNEhrRDV1RDFfdzlRMFdGU1VFZlhPNXJwZ3BuS2RIY1pmT2JPVG9kd19Sdlhtby1uUGVHSTJuU0dnSzJIeFVydU5PeVVQbFJHa0NqbF9iS2Foc2FNSDh2Qk9hNU84dWV0SUpXc00xbzl1ei1UT3UzdUpFam43cFJDZWstWnpBMVJleWE5Ul8ycUNybWRjMDJKUWtEdFJZQjlPRUxrLVMtaVZPaHg3bWY5d9IBwgFBVV95cUxNaUdLcXdDSTJMcFZjY2NCcXRtYXhHWEZNaDNxcTBOUUZZUjBnY1hLSk5Xb1d4aXNRQXpKSVhWMVhhUU5iWVZjMnViTVE5X2hCdnBtbEdURzlPdEVSeEF2RkN2a2NDeU9oREdEZ1dUVUtqeHVndWdBelpaUWc4S0dHZkpqUTRFZy0tcEdMZGZPVWpxX0VPZFUwdURyQ1BkZXBFazIwT2E2QWxacUFZVnF6bVk3NFVlZnRYcmRNckR6QXloUQ?oc=5",
+        "published_at": "2026-06-27T08:36:08+00:00",
+        "representative_place": "イラン・テヘラン",
+        "geocode_query": "Tehran Iran",
         "place_type": "affected_site",
-        "location_precision": "city",
-        "place_reason": "記事タイトルにパレスチナ・ガザが現れるため、関係地域の代表地点に置く（一致語: Gaza）",
-        "confidence": 0.66,
-        "rule_id": "palestine_gaza"
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルにIran・Tehranが現れるため、国または都市の代表地点に置く（一致語: Iran）",
+        "confidence": 0.64,
+        "rule_id": "iran_tehran_english"
       }
     },
     {
@@ -1765,8 +1742,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.6809,
-          26.2124
+          51.389,
+          35.6892
         ]
       },
       "properties": {
@@ -1774,13 +1751,13 @@
         "source": "47NEWS",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ncnJLd2JqeUNPRDBQUFVhNzBaZUF0NEpmNTJzQ2pPYWd6c2pCd3V4Um9vOUItYU5HOXJ5S0ZqNHhLdUpWczVPR29Rbw?oc=5",
         "published_at": "2026-06-27T09:58:38+00:00",
-        "representative_place": "沖縄県庁",
-        "geocode_query": "沖縄県庁 沖縄県那覇市泉崎",
+        "representative_place": "イラン・テヘラン",
+        "geocode_query": "Tehran Iran",
         "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに沖縄県・沖縄が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 沖縄）",
-        "confidence": 0.7,
-        "rule_id": "japan_okinawa_prefecture"
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルにイランが現れるため、影響を受ける国を代表する首都に置く。具体的な軍事施設名が不明なため国の代表地点として扱う（一致語: ホルムズ海峡）",
+        "confidence": 0.62,
+        "rule_id": "iran_tehran"
       }
     },
     {
@@ -1788,22 +1765,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.5234,
-          50.4501
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia - NPR",
+        "title": "As Supreme Court expands Trump's immigration power, experts warn of steeper U.S. population decline - NPR",
         "source": "NPR",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWZveTNRc0FLZ1NVeUI1a21Pcnl3alU1VzFpaFZ0OXQxMjFsdkJhb2VjOXlxckZsSFphNWJLWm5ROWJBaGE1UmdvR2FjOUZGaGFjNmZiSVd1TEZtY2VZZ09hMHNGSHJSak1SYjJYaUxHNEhoa19VUUlCb0s5LTFyc21Rb0thdw?oc=5",
-        "published_at": "2026-06-27T09:02:00+00:00",
-        "representative_place": "キーウ",
-        "geocode_query": "Kyiv Ukraine",
-        "place_type": "affected_site",
-        "location_precision": "country_capital",
-        "place_reason": "記事タイトルにウクライナ・キーウが現れるため、国または都市の代表地点に置く（一致語: Ukraine）",
-        "confidence": 0.66,
-        "rule_id": "ukraine_kyiv"
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjdZc0FXdHNNYW1yU2VIdG9sUy1lTzVKTHVJRzhWeHZ3cHpNdTQxUWpnVmZINktobjl0WFQyellkRW1SM1Y4clJQbjFTdWNfOC1KaC1URi04QnoyRE44T0ZIU1FTY0JuSU9ia0tjRVV6R09WTXh6OU1sOHN2Y3FZYmlPNG4yUEVwYmdybQ?oc=5",
+        "published_at": "2026-06-27T10:00:00+00:00",
+        "representative_place": "ワシントンD.C.",
+        "geocode_query": "Washington DC United States",
+        "place_type": "decision_site",
+        "location_precision": "city",
+        "place_reason": "米国政治・米中関係に関する見出しのため、米国政治の代表地点に置く（一致語: Trump）",
+        "confidence": 0.58,
+        "rule_id": "us_democratic_party_washington"
       }
     },
     {
@@ -1816,10 +1793,10 @@
         ]
       },
       "properties": {
-        "title": "Dickson rejects court verdict, vows fight over NDC registration - The Guardian Nigeria News",
-        "source": "The Guardian Nigeria News",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTDg2eHNIQmdUZ2dZZWQ4RENqWDQxZkNESC14bGNMYkQ2d0oyOFppRGVJY2gyQkRScHdoa1RzRzZ6WG9FTUZSSzd2bC1YdVdZYlZlMFp0M1R2dmI5M3VwcFVGaXFtZ0plMno2SkpXS1V5clZwVk1oYjh5bWVlQ255TlNFa3QtSm9vX3FFcEVmckpSUQ?oc=5",
-        "published_at": "2026-06-27T10:27:18+00:00",
+        "title": "Nigeria To Export 1m Barrels Of Top Crude Grade Usan By August - LEADERSHIP Newspapers",
+        "source": "LEADERSHIP Newspapers",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMVhpSENlemJPaG5KeTFISTFQX21RWmdfTVBXdUJrcGV0NHVrOS10bzU3d3pSMGZpTGFZS0hCd3RXNlJ1ZEEwZ1huM3pxZzRGUkNLMS1ZSk93Z19mNTJkOVFDWHhsSG5WY3NaZHdaRDlWN1EzbkJzanFrZHBJd0JMSzgyZ3diSTRNcF9EeGRB?oc=5",
+        "published_at": "2026-06-27T10:34:50+00:00",
         "representative_place": "ナイジェリア・アブジャ",
         "geocode_query": "Abuja Nigeria",
         "place_type": "affected_site",
@@ -2179,22 +2156,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7414,
-          35.6731
+          105.7469,
+          10.0452
         ]
       },
       "properties": {
-        "title": "レ・ミン・フン首相：政策立案や法制定において、困難を国民や企業に押し付けてはならない。 - Vietnam.vn",
+        "title": "政府は、メコンデルタにおける地滑りや塩水侵入対策への予算配分を最優先事項としている。 - Vietnam.vn",
         "source": "Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUlhjaTN0dF8xby1aQmlScmtPT1FmNzZWT1ZfTXEwUDRZN2ZPZ0JnWWczSjI5WDJ1N1lON3htV1lKQmJBR1owbWt5RmwxaTVaeTJXMVVSZUVtREROeV80N0RyVnM5UG5FOGxNOWFldDVWVjZ5Y1o0Vm81LXJzOWxuVWJUYVVPbjZsMjl6UFgySnFzWjAyNGpyVHR6TXVTVjJ4Q1FPT3JVTVpqbE9XMEVWN09zbk5zeUFoM1BrQ3RNUE1nTkhHTWpkWkxxeThsc0RuNS03Rm1yUXBDZw?oc=5",
-        "published_at": "2026-06-27T10:02:27+00:00",
-        "representative_place": "首相官邸",
-        "geocode_query": "首相官邸 東京都千代田区永田町",
-        "place_type": "decision_site",
-        "location_precision": "building",
-        "place_reason": "記事タイトルに首相・自民党総裁など日本政治の中枢表現が現れるため、首相官邸に置く（一致語: 首相）",
-        "confidence": 0.64,
-        "rule_id": "prime_minister_office_japan_general"
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNWk4NWI2MnJuaWNCN3BhYXRSblBaMTZrR09GX1VDaHh6SEtwS1VKRjNnLVlyUnJ2Q1RyUkw2UkU5UEhrRks5THlkSkdVWndlbDFYWGU2YmlIeXBVaGhVdUpQSUh0QnR1ZmFJMkJlc0FqeXZEVWxPX3NuVTlzR3VrN0l5aVpZaFZIQ0tUX2lPNlNaZWtiU2l5SzFR?oc=5",
+        "published_at": "2026-06-27T10:40:11+00:00",
+        "representative_place": "メコンデルタ",
+        "geocode_query": "Mekong Delta Vietnam",
+        "place_type": "affected_site",
+        "location_precision": "region",
+        "place_reason": "記事タイトルにメコンデルタが現れるため、影響地域を代表する広域地点に置く（一致語: メコンデルタ）",
+        "confidence": 0.74,
+        "rule_id": "mekong_delta"
       }
     },
     {
@@ -2552,10 +2529,10 @@
         ]
       },
       "properties": {
-        "title": "To protect the Iran peace talks, will Trump finally restrain Netanyahu? | Mohamad Bazzi - The Guardian",
-        "source": "The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1BrMDVsWWpBdUJrZWRLZTI5VlpZZTVvbXpWR3Q4QlFZcGNhcDc1RTVHOVZSYWtxZkdYckFnUlR4a3kxV3htc28xX2hnZWFzNnNHOEpMR3htVk9EenJ1V210ZEViN2dWSndDcDNxRWF2T3QzLUkyazlZSXlvbm1iaXFZMVA?oc=5",
-        "published_at": "2026-06-25T15:14:00+00:00",
+        "title": "U.S. strikes Iran in response to a drone attack on a ship - NPR",
+        "source": "NPR",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBudTduRW1oLXhJaGhPblRFdkM4SHFjMmd3WXFTaDF0RjJoUVd2N05GdjdUcDFSSXdxVFNjNFNKdHI4Ym1WNlotQ21zRTR5ZWUzcHFtSmltOGZHckx2YWU5SXo5elpkeXZodXBWYw?oc=5",
+        "published_at": "2026-06-27T04:12:23+00:00",
         "representative_place": "イラン・テヘラン",
         "geocode_query": "Tehran Iran",
         "place_type": "affected_site",
@@ -2593,22 +2570,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1342,
-          46.2325
+          30.5234,
+          50.4501
         ]
       },
       "properties": {
-        "title": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome. - The New York Times",
-        "source": "The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbU9aczZDMWVYS3RjWEFHOWJQY3VJM3p1cUxaZ3dkR2MwREVjVldtd0Z2YjczWUYwcmFFd085QzNmZEd1NXlobnNiTzIxMktOY2gybjBueHd0dTE0TW5XU0JUdllidlpGZDFqUFpyU0lrYndWMHhHNjBSdWZOcjVXNG5YeDdTTUNPQkdVQnpMbm9mdmpzTDR3T3Q1XzJjUm5pQ2Vr?oc=5",
-        "published_at": "2026-06-27T09:01:25+00:00",
-        "representative_place": "WHO本部",
-        "geocode_query": "World Health Organization headquarters Geneva Switzerland",
-        "place_type": "institution_site",
-        "location_precision": "building",
-        "place_reason": "感染症・疾病関連で具体地点が見出しから不明なため、国際保健機関の代表地点に置く（一致語: Ebola）",
-        "confidence": 0.48,
-        "rule_id": "who_geneva_health_outbreak"
+        "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia - NPR",
+        "source": "NPR",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWZveTNRc0FLZ1NVeUI1a21Pcnl3alU1VzFpaFZ0OXQxMjFsdkJhb2VjOXlxckZsSFphNWJLWm5ROWJBaGE1UmdvR2FjOUZGaGFjNmZiSVd1TEZtY2VZZ09hMHNGSHJSak1SYjJYaUxHNEhoa19VUUlCb0s5LTFyc21Rb0thdw?oc=5",
+        "published_at": "2026-06-27T09:02:00+00:00",
+        "representative_place": "キーウ",
+        "geocode_query": "Kyiv Ukraine",
+        "place_type": "affected_site",
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルにウクライナ・キーウが現れるため、国または都市の代表地点に置く（一致語: Ukraine）",
+        "confidence": 0.66,
+        "rule_id": "ukraine_kyiv"
       }
     },
     {
@@ -2892,15 +2869,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7447,
+          35.6758
+        ]
+      },
+      "properties": {
+        "title": "政治の動きを写真で：政治の動きを写真で「5月19日」 内密出産支援法案を参院提出 [写真特集1/14] - 毎日新聞",
+        "source": "毎日新聞",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWGxlYTc4ZFMwXzh5bUNPWXdfYkhleGdoZko2V0tISElUajhtUXNmc2VsWnotU09VS09aLV91OTdSaUtJM21oWHBMV2JKYlF0WjJHanp5QWoyYXBqamh1VkNMTVhoUGZXdzRTMFlPQjFXdzA4OTlqMU1vdDlpcUc1a3RGT2JiU00?oc=5",
+        "published_at": "2026-05-19T07:00:00+00:00",
+        "representative_place": "国会議事堂",
+        "geocode_query": "国会議事堂 東京都千代田区永田町",
+        "place_type": "decision_site",
+        "location_precision": "building",
+        "place_reason": "法律・国会審議に関するニュースの制度的な決定地点",
+        "confidence": 0.78,
+        "rule_id": "national_diet_bill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.7414,
           35.6731
         ]
       },
       "properties": {
-        "title": "高市首相、自民幹部と昼食 国会運営で意見交換 - 時事ドットコム",
-        "source": "時事ドットコム",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1X1kweU1lRE5nNUR3OGZQYWN0ZGtFT2tOVFhqYlAtRkQ4MW0wMDhTYlFra1Qtc3Utc3JWN0VPZHJfMUZZc3lMdVRSUjhvdndmNFdmanllVU4wNElySXp6amRUMA?oc=5",
-        "published_at": "2026-05-14T07:00:00+00:00",
+        "title": "レ・ミン・フン首相：政策立案や法制定において、困難を国民や企業に押し付けてはならない。 - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUlhjaTN0dF8xby1aQmlScmtPT1FmNzZWT1ZfTXEwUDRZN2ZPZ0JnWWczSjI5WDJ1N1lON3htV1lKQmJBR1owbWt5RmwxaTVaeTJXMVVSZUVtREROeV80N0RyVnM5UG5FOGxNOWFldDVWVjZ5Y1o0Vm81LXJzOWxuVWJUYVVPbjZsMjl6UFgySnFzWjAyNGpyVHR6TXVTVjJ4Q1FPT3JVTVpqbE9XMEVWN09zbk5zeUFoM1BrQ3RNUE1nTkhHTWpkWkxxeThsc0RuNS03Rm1yUXBDZw?oc=5",
+        "published_at": "2026-06-27T10:02:27+00:00",
         "representative_place": "首相官邸",
         "geocode_query": "首相官邸 東京都千代田区永田町",
         "place_type": "decision_site",
@@ -3242,15 +3242,15 @@
         ]
       },
       "properties": {
-        "title": "Opinion | Israel sees a grave strategic mistake unfolding in Iran - The Washington Post",
-        "source": "The Washington Post",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWtEN1VIQ2JoRDY3ZkVweDBKY0dNU3JoSG5OQWpzcVpGcm1jakZRTVpLbmlXU0I3YlZBVGJadzREeTd1azM5TUhaOEhWZjI2QjdTTjFCTjFLdEVxLXhWbEVSbWFEVDBHX3dEaFBiWTRzMkMySTJYY210T2FEMGZpRnlrTzJYeXZ5ME9PX1FHUlVLc19YaVRhZzl2bkh1S0xEMWRB?oc=5",
-        "published_at": "2026-06-24T21:26:29+00:00",
+        "title": "U.S.-Iran Latest: U.S. strikes Iran after Trump accuses Tehran of \"foolish violation\" of ceasefire - CBS News",
+        "source": "CBS News",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGcxeHZmSjcwLVpBNmxlaWQ4aG11Ynd6U3pqbGhkM09BTmxuYXBtczBhR3NGQWxVYU1WWGlVTGU1QlhHWVJOdDhWRHJoQ2hMcGZyb013NGVpR3NzQ004RUJWd2JQWDFYVG1SZUhVOUI0UldOWGdQRnRTWW5FVThLdG9LeHk2a0l3d0tZSmhnVXkxZ1hSOTNHcFcwaTJKaUxmZEE?oc=5",
+        "published_at": "2026-06-27T00:57:00+00:00",
         "representative_place": "イラン・テヘラン",
         "geocode_query": "Tehran Iran",
         "place_type": "affected_site",
         "location_precision": "country_capital",
-        "place_reason": "記事タイトルにIran・Tehranが現れるため、国または都市の代表地点に置く（一致語: Iran）",
+        "place_reason": "記事タイトルにIran・Tehranが現れるため、国または都市の代表地点に置く（一致語: Tehran）",
         "confidence": 0.64,
         "rule_id": "iran_tehran_english"
       }
@@ -3283,45 +3283,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.1871,
-          30.4515
+          6.1342,
+          46.2325
         ]
       },
       "properties": {
-        "title": "Trump’s endorsement faces another test in Louisiana Senate primary runoff - NBC News",
-        "source": "NBC News",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeGgyVUVLOEdhQ1ZtQ3RpY2VKNkxVdWNrUlNhTkFDMkxPUjlkS01sRHZERjVUVENYZDZEQ0prMDZ4MUFFZEg3QmV0UDZpMUNIdzFEeXJ3c3RkVkdPdWpueVJUY1p5WTlTN1NzaF94S08xU3AzMVdMNkY4RGt6ekhSaXFKZTFUY2J3cVI5aGJFM0dFY2ZTYzhlTExuWjJGOHV5YmN0dW9tZnBNZW83ZjNTZTVweFdLUmx5LUdPLTh1TGlBeVAxQkE?oc=5",
-        "published_at": "2026-06-27T09:00:00+00:00",
-        "representative_place": "ルイジアナ州バトンルージュ",
-        "geocode_query": "Baton Rouge Louisiana United States",
-        "place_type": "affected_site",
-        "location_precision": "state_capital",
-        "place_reason": "記事タイトルにLouisianaが現れるため、州を代表する州都に置く（一致語: Louisiana）",
-        "confidence": 0.58,
-        "rule_id": "louisiana_baton_rouge"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          21.0122,
-          52.2297
-        ]
-      },
-      "properties": {
-        "title": "New 37.3C June temperature record set | ITV News - ITVX",
-        "source": "ITVX",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFZ3NUZXSXdJYkV6cWhxdTVKMGIwWExqdnNrdEZnSEFGTTVIQ01mOGU3YkRWMTRHaWRraGI5di1NSGVSSXMtazh1Vk52SDVlVHBBcHZvcm52Z2RYTGJMeUhxcE9ScG1TLUUwOHVsMUI0dnJ4TExRNlFTUm9kSU5md2t4UHc2RXdMNDJwUFNOdWVKTjJyaDRQMUVhWGtrY2RBcll3cEtfX1lIWHFfd20yTlJn?oc=5",
-        "published_at": "2026-06-27T10:33:35+00:00",
-        "representative_place": "ワルシャワ",
-        "geocode_query": "Warsaw Poland",
-        "place_type": "affected_site",
-        "location_precision": "country_capital",
-        "place_reason": "記事タイトルにポーランド・ワルシャワが現れるため、国または都市の代表地点に置く（一致語: Poland）",
-        "confidence": 0.62,
-        "rule_id": "poland_warsaw"
+        "title": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome. - The New York Times",
+        "source": "The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbU9aczZDMWVYS3RjWEFHOWJQY3VJM3p1cUxaZ3dkR2MwREVjVldtd0Z2YjczWUYwcmFFd085QzNmZEd1NXlobnNiTzIxMktOY2gybjBueHd0dTE0TW5XU0JUdllidlpGZDFqUFpyU0lrYndWMHhHNjBSdWZOcjVXNG5YeDdTTUNPQkdVQnpMbm9mdmpzTDR3T3Q1XzJjUm5pQ2Vr?oc=5",
+        "published_at": "2026-06-27T09:01:25+00:00",
+        "representative_place": "WHO本部",
+        "geocode_query": "World Health Organization headquarters Geneva Switzerland",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "感染症・疾病関連で具体地点が見出しから不明なため、国際保健機関の代表地点に置く（一致語: Ebola）",
+        "confidence": 0.48,
+        "rule_id": "who_geneva_health_outbreak"
       }
     },
     {
@@ -3536,29 +3513,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.7552,
-          35.4973
-        ]
-      },
-      "properties": {
-        "title": "「パニックになりそうに」震度6弱の富士河口湖町、外国人客も不安に [山梨県] - 朝日新聞",
-        "source": "朝日新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MY2hiV01jZ0FMdHlSelpRbDFPNjg4VG5ncXFzcF84TEE0V0VZeFhlR19JQ3dxWVBFblN6bzhpRGZxbDd6NXFSMFRrcUphLWV1Y2Q1OFJ0cEZyaUgza0NZb3I4VC1icnM?oc=5",
-        "published_at": "2026-06-27T10:46:45+00:00",
-        "representative_place": "富士河口湖町役場",
-        "geocode_query": "富士河口湖町役場 山梨県南都留郡富士河口湖町",
-        "place_type": "event_site",
-        "location_precision": "municipality",
-        "place_reason": "記事タイトルに富士河口湖町が現れるため、その地域を代表する自治体所在地に置く（一致語: 富士河口湖町）",
-        "confidence": 0.82,
-        "rule_id": "yamanashi_fujikawaguchiko_town"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           138.9453,
           34.6795
         ]
@@ -3633,15 +3587,15 @@
         ]
       },
       "properties": {
-        "title": "首相に女性が就くことの意味とは 選択肢が広がる歩みはまだ途上 [高市早苗首相 自民党総裁] - 朝日新聞",
-        "source": "朝日新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43UDl2TFNaYVF5dmZHZElpWGRZMjVKbmlILVNHSGRIWkxEN3djQlFJSGt4T0IyUUZRaVozMFdUNXlMYmNqSi1NSG9VZzZJNDNzVFQ3OWRncnZGVFhDQjZLWHhxMXJmVTQ?oc=5",
-        "published_at": "2026-05-10T07:00:00+00:00",
+        "title": "高市首相、自民幹部と昼食 国会運営で意見交換 - 時事ドットコム",
+        "source": "時事ドットコム",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1X1kweU1lRE5nNUR3OGZQYWN0ZGtFT2tOVFhqYlAtRkQ4MW0wMDhTYlFra1Qtc3Utc3JWN0VPZHJfMUZZc3lMdVRSUjhvdndmNFdmanllVU4wNElySXp6amRUMA?oc=5",
+        "published_at": "2026-05-14T07:00:00+00:00",
         "representative_place": "首相官邸",
         "geocode_query": "首相官邸 東京都千代田区永田町",
         "place_type": "decision_site",
         "location_precision": "building",
-        "place_reason": "記事タイトルに首相・自民党総裁など日本政治の中枢表現が現れるため、首相官邸に置く（一致語: 首相に女性）",
+        "place_reason": "記事タイトルに首相・自民党総裁など日本政治の中枢表現が現れるため、首相官邸に置く（一致語: 首相）",
         "confidence": 0.64,
         "rule_id": "prime_minister_office_japan_general"
       }
@@ -4019,22 +3973,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.4668,
-          31.5017
+          51.389,
+          35.6892
         ]
       },
       "properties": {
-        "title": "The cycle of violence: From Israel-Palestine to Iran and back - Brookings",
-        "source": "Brookings",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTkNvb3FJQm96a095bzhEejNwbzV5cE92VHU3Q2VrTmRkN1hEQ1Q3cV9KeDVXQjhiVkpCb3VoR1hLN1djSWc5SkFEZk9QUktHRDJxbzh6TUM0R2xiRTRlZE9uVThwakxldWEtdkJIQ0h4dUgySDBHcjR3TGVkWmYzTmxRSE5MRm4ya2NDTW9UclhOcm43dmVLVjhidUE?oc=5",
-        "published_at": "2026-06-24T15:00:22+00:00",
-        "representative_place": "ガザ",
-        "geocode_query": "Gaza City Palestine",
+        "title": "Iran fires drones at Bahrain, oil tanker hit in Hormuz as clashes test deal - The Times of Israel",
+        "source": "The Times of Israel",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QajhsdU5JaGk4QUpQbHdjY0FWZ20yeWFDcExPNDMxcmxsYVVlNmtxSVR5VERhU2RzUkZFZktrSHJaamlqUU1aN0ZrNzJFaDl6ZzlTc182VVF5NG9JMm1xd0tR0gFnQVVfeXFMT3pNdTlSMVo2MXY1d1BJSFhiOXVUemlRRFNFLXFmSDNqczhuRDR1SmY0em5tQzZaTnd4SjQ5NTQyY3Bqd0swWk9UZmFUNF9BMW1kSlpEcGUzRzR0MTcybEotWjRGNUt0bw?oc=5",
+        "published_at": "2026-06-27T00:34:59+00:00",
+        "representative_place": "イラン・テヘラン",
+        "geocode_query": "Tehran Iran",
         "place_type": "affected_site",
-        "location_precision": "city",
-        "place_reason": "記事タイトルにパレスチナ・ガザが現れるため、関係地域の代表地点に置く（一致語: Palestine）",
-        "confidence": 0.66,
-        "rule_id": "palestine_gaza"
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルにIran・Tehranが現れるため、国または都市の代表地点に置く（一致語: Iran）",
+        "confidence": 0.64,
+        "rule_id": "iran_tehran_english"
       }
     },
     {
@@ -4088,22 +4042,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.009,
-          37.3349
+          -91.1871,
+          30.4515
         ]
       },
       "properties": {
-        "title": "Best Prime Day laptop deals: Save up to $850 on MacBooks, gaming laptops - Mashable",
-        "source": "Mashable",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qQXh6emtld1RqTDdWWWtOTHZBQUVQLVcxcW1uZ2h4WVVnUlRJSUUtREtDczk1cWdqQVVWbW5idEpycVRWcGZNM3BLNFZMZmZIZWF4blBvVzMzOF9TX0lwMVA5SlFmTTdJNGNmQkdJVzBtX2c5a3FDWkVR?oc=5",
-        "published_at": "2026-06-27T08:55:22+00:00",
-        "representative_place": "Apple本社",
-        "geocode_query": "Apple Park Cupertino California",
-        "place_type": "institution_site",
-        "location_precision": "building",
-        "place_reason": "記事タイトルにApple・Mac・iPadが現れるため、関係企業の代表地点に置く（一致語: Mac）",
+        "title": "Trump’s endorsement faces another test in Louisiana Senate primary runoff - NBC News",
+        "source": "NBC News",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeGgyVUVLOEdhQ1ZtQ3RpY2VKNkxVdWNrUlNhTkFDMkxPUjlkS01sRHZERjVUVENYZDZEQ0prMDZ4MUFFZEg3QmV0UDZpMUNIdzFEeXJ3c3RkVkdPdWpueVJUY1p5WTlTN1NzaF94S08xU3AzMVdMNkY4RGt6ekhSaXFKZTFUY2J3cVI5aGJFM0dFY2ZTYzhlTExuWjJGOHV5YmN0dW9tZnBNZW83ZjNTZTVweFdLUmx5LUdPLTh1TGlBeVAxQkE?oc=5",
+        "published_at": "2026-06-27T09:00:00+00:00",
+        "representative_place": "ルイジアナ州バトンルージュ",
+        "geocode_query": "Baton Rouge Louisiana United States",
+        "place_type": "affected_site",
+        "location_precision": "state_capital",
+        "place_reason": "記事タイトルにLouisianaが現れるため、州を代表する州都に置く（一致語: Louisiana）",
         "confidence": 0.58,
-        "rule_id": "apple_cupertino"
+        "rule_id": "louisiana_baton_rouge"
       }
     },
     {
@@ -4272,22 +4226,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.5684,
-          35.6639
+          138.7552,
+          35.4973
         ]
       },
       "properties": {
-        "title": "最大震度6弱 ワインなど300本が落下の店舗も 1都3県で17人が軽いケガ 県内で震度6以上は102年ぶり 山梨（UTYテレビ山梨） - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96cHE4V2lobTl6MWo0TDYzUi0xOXBfcU9YRThYOV9mdHMxMVhSWXByZWF4OW5tZXFDTTJzNFIxSGlkX2JTdkNucWpmc09yNTVmcDRWemhOYjgwbWRUdXJwQ1hnZDV3Z21KRS0xb0VnNVlxY1gtUDI5Z0t6bndOdDg?oc=5",
-        "published_at": "2026-06-27T10:04:21+00:00",
-        "representative_place": "山梨県庁",
-        "geocode_query": "山梨県庁 山梨県甲府市",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨）",
-        "confidence": 0.7,
-        "rule_id": "yamanashi_prefecture"
+        "title": "「パニックになりそうに」震度6弱の富士河口湖町、外国人客も不安に [山梨県] - 朝日新聞",
+        "source": "朝日新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MY2hiV01jZ0FMdHlSelpRbDFPNjg4VG5ncXFzcF84TEE0V0VZeFhlR19JQ3dxWVBFblN6bzhpRGZxbDd6NXFSMFRrcUphLWV1Y2Q1OFJ0cEZyaUgza0NZb3I4VC1icnM?oc=5",
+        "published_at": "2026-06-27T10:46:45+00:00",
+        "representative_place": "富士河口湖町役場",
+        "geocode_query": "富士河口湖町役場 山梨県南都留郡富士河口湖町",
+        "place_type": "event_site",
+        "location_precision": "municipality",
+        "place_reason": "記事タイトルに富士河口湖町が現れるため、その地域を代表する自治体所在地に置く（一致語: 富士河口湖町）",
+        "confidence": 0.82,
+        "rule_id": "yamanashi_fujikawaguchiko_town"
       }
     },
     {
@@ -4323,40 +4277,17 @@
         ]
       },
       "properties": {
-        "title": "高市首相「はまぐり」贈呈受ける 桑名市長、国会答弁に感謝：時事ドットコム - 時事ドットコム",
-        "source": "時事ドットコム",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXbVpwZUxOR3pJT2Z3YnNvOUl2WjZLVUtHSnhkaEsxdzY3Rm5RNUp3UVVxS3hXSUxLY0pUT1R0ekhRanlzTFgtMkdRV0tkeGxCMDE2NHlLSU5VaU4talJrUjN6Zw?oc=5",
-        "published_at": "2026-04-30T07:00:00+00:00",
+        "title": "首相に女性が就くことの意味とは 選択肢が広がる歩みはまだ途上 [高市早苗首相 自民党総裁] - 朝日新聞",
+        "source": "朝日新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43UDl2TFNaYVF5dmZHZElpWGRZMjVKbmlILVNHSGRIWkxEN3djQlFJSGt4T0IyUUZRaVozMFdUNXlMYmNqSi1NSG9VZzZJNDNzVFQ3OWRncnZGVFhDQjZLWHhxMXJmVTQ?oc=5",
+        "published_at": "2026-05-10T07:00:00+00:00",
         "representative_place": "首相官邸",
         "geocode_query": "首相官邸 東京都千代田区永田町",
         "place_type": "decision_site",
         "location_precision": "building",
-        "place_reason": "記事タイトルに首相・自民党総裁など日本政治の中枢表現が現れるため、首相官邸に置く（一致語: 首相）",
+        "place_reason": "記事タイトルに首相・自民党総裁など日本政治の中枢表現が現れるため、首相官邸に置く（一致語: 首相に女性）",
         "confidence": 0.64,
         "rule_id": "prime_minister_office_japan_general"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7447,
-          35.6758
-        ]
-      },
-      "properties": {
-        "title": "法案や決議案の策定を指揮・促進し、進捗と質の双方を確保することに重点を置く。 - Vietnam.vn",
-        "source": "Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQkZVc3hGZm9XV18tUVktRmJidV9jdk5rT3d3TUc0Q3dkNUpiamc5ek9ETFdyejBQOXlnNjBlUG5Sd3RtMU9wVVdNbVNpX0k5Y2NsamJRalJ5NmtRVWlHZW5zRWxvZ1BJWU9PMjVmZG9TZlVGS1lqcmw1SldxM1dIeFZoX3djdDV3SGtMWVp2Yy1oOEVSOS1hVHh5Q3Y1WmRPbGtSMEQ1eGNEdDdsQWZ5WTJFUTRocS1wclozaTdpbw?oc=5",
-        "published_at": "2026-06-27T09:53:03+00:00",
-        "representative_place": "国会議事堂",
-        "geocode_query": "国会議事堂 東京都千代田区永田町",
-        "place_type": "decision_site",
-        "location_precision": "building",
-        "place_reason": "法律・国会審議に関するニュースの制度的な決定地点",
-        "confidence": 0.78,
-        "rule_id": "national_diet_bill"
       }
     },
     {
@@ -4668,10 +4599,10 @@
         ]
       },
       "properties": {
-        "title": "任天堂、生成AIによる著作権侵害に公式声明！ OpenAI CEOの「インタラクティブな二次創作」発言が物議 - 玩具人 TOY PEOPLE",
-        "source": "玩具人 TOY PEOPLE",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kMzZFdV9IZC1PSlREWGQ3UW1oYWppVnhJdUNVR2d4aHJVb2hPelpFc244cWtlQnRmWktCOTJ2YVBxQWhnNG1BVHE0VW1qdHpl?oc=5",
-        "published_at": "2026-06-23T20:08:55+00:00",
+        "title": "General Intuition、3億ドル調達へ｜OpenAIが5億ドルで欲しがったゲームデータでAIエージェントを育てる - innovaTopia",
+        "source": "innovaTopia",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JYWNlVWR3blNLZDBvOTdwWjZUZ2hQcDd5Q2V2a0gxMno2b3pFaGl1QjJFZzdpQ2M5Q0FaVDVOYWQ1NU02U1c2Ukw3N09vZ292WmRZ?oc=5",
+        "published_at": "2026-06-19T03:45:00+00:00",
         "representative_place": "OpenAI本社周辺",
         "geocode_query": "OpenAI headquarters San Francisco",
         "place_type": "institution_site",
@@ -4748,75 +4679,6 @@
         "place_reason": "記事タイトルにIran・Tehranが現れるため、国または都市の代表地点に置く（一致語: Iran）",
         "confidence": 0.64,
         "rule_id": "iran_tehran_english"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.389,
-          35.6892
-        ]
-      },
-      "properties": {
-        "title": "The war on Iran was a strategic disaster for America and Israel - Middle East Eye",
-        "source": "Middle East Eye",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDk2WGVtYURSanF0U0JXZlFIMWIyU0tjcEVRbVNqRk5PM1dkMElZUGVsV0hVN2JObXhFcGY1MHpJaUZRZWV5WDFSaHB4YTUtSXdLYnRVeTJBZnE1cXdaaTFRSjJSSEd5dEhhU19IT2tKakY5ZWJtWFd4Ykh5LTJDMktDbGxsU3c?oc=5",
-        "published_at": "2026-06-24T10:37:00+00:00",
-        "representative_place": "イラン・テヘラン",
-        "geocode_query": "Tehran Iran",
-        "place_type": "affected_site",
-        "location_precision": "country_capital",
-        "place_reason": "記事タイトルにIran・Tehranが現れるため、国または都市の代表地点に置く（一致語: Iran）",
-        "confidence": 0.64,
-        "rule_id": "iran_tehran_english"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7447,
-          35.6758
-        ]
-      },
-      "properties": {
-        "title": "野党が全法案審議に応じない方針、自民ベテラン「先が見通せず打開策がない」…国会が緊迫化（読売新聞オンライン） - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxdnlGbndBNDRycmhna1RDLUxNYnNuczhhQUNzUVdNSXNOeXlrc2NteGhSRmZDeWNRNG5MZmk4d0M2Q29jOGw4dURkaDQwMTFldXBHaHFWeHFraGdkVjdwLWVpRndMcGk1TnBGdGVGTVo1SF92SVFzTU1oN3B4UEk?oc=5",
-        "published_at": "2026-06-27T09:05:30+00:00",
-        "representative_place": "国会議事堂",
-        "geocode_query": "国会議事堂 東京都千代田区永田町",
-        "place_type": "decision_site",
-        "location_precision": "building",
-        "place_reason": "法律・国会審議に関するニュースの制度的な決定地点",
-        "confidence": 0.78,
-        "rule_id": "national_diet_bill"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3517,
-          50.8503
-        ]
-      },
-      "properties": {
-        "title": "Developing | China confirms death of pilot in Citic Tower plane crash - South China Morning Post",
-        "source": "South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc2NidWpFRXJ2ZUVacVkzbVlEZ3pmN3NoVHdtNC1MdllxTTN4b3M5WkFsdVBWVmx5WE1wY0o4dDNEUEl6dUdzTDZTR0VuMmpKTFdyX0pTZUVYSW80clNManFIWlp5clBWQXBaT3JYYWtxU09NNmt4MkFPc1hYWWxvb3JJRDVmTXpWb2J3dDBKMEhPb3VBdy1lSzNLMTVLT3VqR1N0TkcxaG9wWnPSAasBQVVfeXFMUFQxTFZxYW1fRjZTUGViUU1kYzZweUpiVk1UbVdGeGVKcnhlSXZaZFczZUJBamRJU3BSdkFhSGUzZVBsRXhzUWlZbFUzQnc1RUpWQ1I2emJZZHdwYU91RmhSVEExUW54YlZVSDNCTlVzZUV0OTNfU0dYNmlnb1p2VERnbFdhT1FnZnVPNy1hOEVodjFlMlItbDRpRFFGQmtZSVFzcTZXMU5rZ19B?oc=5",
-        "published_at": "2026-06-27T08:48:11+00:00",
-        "representative_place": "欧州・ブリュッセル",
-        "geocode_query": "Brussels Belgium European Union",
-        "place_type": "institution_site",
-        "location_precision": "region",
-        "place_reason": "記事タイトルに欧州・ヨーロッパ・EUが現れるため、欧州政治・制度の代表地点としてブリュッセルに置く（一致語: EU）",
-        "confidence": 0.56,
-        "rule_id": "region_europe_brussels"
       }
     },
     {
@@ -5031,6 +4893,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          138.5684,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "最大震度6弱 ワインなど300本が落下の店舗も 1都3県で17人が軽いケガ 県内で震度6以上は102年ぶり 山梨（UTYテレビ山梨） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96cHE4V2lobTl6MWo0TDYzUi0xOXBfcU9YRThYOV9mdHMxMVhSWXByZWF4OW5tZXFDTTJzNFIxSGlkX2JTdkNucWpmc09yNTVmcDRWemhOYjgwbWRUdXJwQ1hnZDV3Z21KRS0xb0VnNVlxY1gtUDI5Z0t6bndOdDg?oc=5",
+        "published_at": "2026-06-27T10:04:21+00:00",
+        "representative_place": "山梨県庁",
+        "geocode_query": "山梨県庁 山梨県甲府市",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨）",
+        "confidence": 0.7,
+        "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           136.9066,
           35.1802
         ]
@@ -5105,10 +4990,10 @@
         ]
       },
       "properties": {
-        "title": "高市首相、維新・藤田氏と昼食 後半国会の対応協議 - 時事ドットコム",
+        "title": "高市首相「はまぐり」贈呈受ける 桑名市長、国会答弁に感謝：時事ドットコム - 時事ドットコム",
         "source": "時事ドットコム",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vSTBKMXBQVVI1bWM3UWpoVlBFckFGd0lOUG9UaUFycE92bWh3SW5LbUJkei15OTd4YVBSTGFhNVVYSmZXU0RLOWtqcVdYZTh1Q2VzREVEZFB2OEFCRlFxX09wOA?oc=5",
-        "published_at": "2026-04-24T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXbVpwZUxOR3pJT2Z3YnNvOUl2WjZLVUtHSnhkaEsxdzY3Rm5RNUp3UVVxS3hXSUxLY0pUT1R0ekhRanlzTFgtMkdRV0tkeGxCMDE2NHlLSU5VaU4talJrUjN6Zw?oc=5",
+        "published_at": "2026-04-30T07:00:00+00:00",
         "representative_place": "首相官邸",
         "geocode_query": "首相官邸 東京都千代田区永田町",
         "place_type": "decision_site",
@@ -5123,22 +5008,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3517,
-          50.8503
+          139.7447,
+          35.6758
         ]
       },
       "properties": {
-        "title": "副総理：「97歳の女性に手続きを完了させるために区役所まで来させた」件から、真摯に教訓を得るべきだ。 - Vietnam.vn",
+        "title": "法案や決議案の策定を指揮・促進し、進捗と質の双方を確保することに重点を置く。 - Vietnam.vn",
         "source": "Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVcyanJnQjI2UUZGLWpLcjJDZTJGbUVRYnVtWHUzMDdEUUM2eWdCWVRfdVB0aEpyMFNUMmZjU3dEQnFwRkhBSzlJeVRGcjZkRG1VdzJyVU85d3I5OW12Y3RKSzNFcUp1VnhlVHRvT0ZLM3l6TFItclAyLVRyY3NScDd4VjFQZW1RSzNTenQtdWVYaXkzMldNNWQ5bXNfaWEtM0FrN1pvYzhjQV9LMFVNQQ?oc=5",
-        "published_at": "2026-06-27T09:48:49+00:00",
-        "representative_place": "欧州・ブリュッセル",
-        "geocode_query": "Brussels Belgium European Union",
-        "place_type": "institution_site",
-        "location_precision": "region",
-        "place_reason": "記事タイトルに欧州・ヨーロッパ・EUが現れるため、欧州政治・制度の代表地点としてブリュッセルに置く（一致語: EU）",
-        "confidence": 0.56,
-        "rule_id": "region_europe_brussels"
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQkZVc3hGZm9XV18tUVktRmJidV9jdk5rT3d3TUc0Q3dkNUpiamc5ek9ETFdyejBQOXlnNjBlUG5Sd3RtMU9wVVdNbVNpX0k5Y2NsamJRalJ5NmtRVWlHZW5zRWxvZ1BJWU9PMjVmZG9TZlVGS1lqcmw1SldxM1dIeFZoX3djdDV3SGtMWVp2Yy1oOEVSOS1hVHh5Q3Y1WmRPbGtSMEQ1eGNEdDdsQWZ5WTJFUTRocS1wclozaTdpbw?oc=5",
+        "published_at": "2026-06-27T09:53:03+00:00",
+        "representative_place": "国会議事堂",
+        "geocode_query": "国会議事堂 東京都千代田区永田町",
+        "place_type": "decision_site",
+        "location_precision": "building",
+        "place_reason": "法律・国会審議に関するニュースの制度的な決定地点",
+        "confidence": 0.78,
+        "rule_id": "national_diet_bill"
       }
     },
     {
@@ -5330,22 +5215,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.5654,
-          25.033
+          125.7625,
+          39.0392
         ]
       },
       "properties": {
-        "title": "7年ぶり訪朝の習近平氏「中朝の伝統的友好を重視」…金正恩氏は台湾問題めぐり「一つの中国」原則を支持 - 東京新聞デジタル",
-        "source": "東京新聞デジタル",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HbW1sVGctdGM0a2tnWE1nV3dqMG4xYUhlQ0FoUGZMVVVqWng4MkRmbHhwazgxcC1manVjczdidEFONGo2ZTBMcC13T0czZTVLSG5z?oc=5",
+        "title": "習近平主席「双方の主権守護」、北朝鮮「領土完整」肯定的回答…台湾問題念頭に置いたか - ｄメニューニュース",
+        "source": "ｄメニューニュース",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSjBfV2RZSnQwcnRqWFJkT3FtWHdqWDVsbG9yaDJocElmbi1YQUk5ckVrNDFIZk5PS0tTUy1FanRxUjVmZDFKUFBVdnRVVWpWMDBaVGR6X25hazllSnExbXRGTlhQM2NiUnNXekYxVllfS1lnYWNURkRTMGJPaEVYLVBnZTM4ODTSAYwBQVVfeXFMUE1uZkNuRmxyOWY4Sm0wdVl2WnAtSlFqckpaMmhtMGJFTmoycElyd2txWkZYU0VzSFp5d0dYR3N4d2ZpakFyUUMwOHZ6NExkNmFiRENobS1xS3laY1ZQbGt3Y3hZYVZFRTVkdzY5d2Z3RDZxbnlLa1N3V2JNMUJvX293bXM1Rko3VHBUWXo?oc=5",
         "published_at": "2026-06-08T07:00:00+00:00",
-        "representative_place": "台湾・台北",
-        "geocode_query": "Taipei Taiwan",
+        "representative_place": "北朝鮮・平壌",
+        "geocode_query": "Pyongyang North Korea",
         "place_type": "affected_site",
-        "location_precision": "city",
-        "place_reason": "記事タイトルに台湾・台北が現れるため、地域または都市の代表地点に置く（一致語: 台湾）",
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルに北朝鮮・平壌が現れるため、国または都市の代表地点に置く（一致語: 北朝鮮）",
         "confidence": 0.64,
-        "rule_id": "taiwan_taipei"
+        "rule_id": "north_korea_pyongyang"
       }
     },
     {
@@ -5381,10 +5266,10 @@
         ]
       },
       "properties": {
-        "title": "General Intuition、3億ドル調達へ｜OpenAIが5億ドルで欲しがったゲームデータでAIエージェントを育てる - innovaTopia",
+        "title": "OpenAIが「デプロイ・シミュレーション」発表｜AIを出す前に挙動を予測する新手法 - innovaTopia",
         "source": "innovaTopia",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JYWNlVWR3blNLZDBvOTdwWjZUZ2hQcDd5Q2V2a0gxMno2b3pFaGl1QjJFZzdpQ2M5Q0FaVDVOYWQ1NU02U1c2Ukw3N09vZ292WmRZ?oc=5",
-        "published_at": "2026-06-19T03:45:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YOFNiV1lnNWZQckRBQ3d1TmJVUVVkSHY5ejM1SXpNaHNPTzBKYVYtc3BBdDNCRlNqQm04VUtFTlhDM1V5ME9MbU9zNlcyUVc1RjhV?oc=5",
+        "published_at": "2026-06-18T07:00:00+00:00",
         "representative_place": "OpenAI本社周辺",
         "geocode_query": "OpenAI headquarters San Francisco",
         "place_type": "institution_site",
@@ -5445,22 +5330,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.9106,
-          31.9539
+          34.4668,
+          31.5017
         ]
       },
       "properties": {
-        "title": "MSF responds to conflict in the Middle East - Doctors Without Borders",
-        "source": "Doctors Without Borders",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUwyN2hhcW85Mk5wN3lMM0hfY3oyQU1IelBYd0tmaEl0NFJQLU5uejFVZ1VKLXJaS1lQQ1BQUEU0bjdKUEtwaGdtMFdnQUx1UHBTMmxCUDdpQ3FKa09QU2NIYzR6cWdJbUpWUkFZUVN1MjItU0MwdTQ3bWpyQ1VjMXRGMjJfLVNOeTFDUUZFaGhabFU?oc=5",
-        "published_at": "2026-06-22T22:32:32+00:00",
-        "representative_place": "中東・アンマン",
-        "geocode_query": "Amman Jordan",
+        "title": "Netanyahu and Katz say Israel will remain in Lebanon, Syria and Gaza 'without time limit' - Middle East Eye",
+        "source": "Middle East Eye",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmpiclp3TU5vMEwxUFJnVnlQeXlKMklkTFNKX3ZLa0ptZHkwdzFSeE1aVE9kalBFWmhPMzVFYm90ckdFR1lKWVFHTlpINm1ILVVLUnBoTE1ZdkxWMjhDSWdiRWczWVdCM2U5cVY4dnV2T1pIaEVNSWVWNS1LRGdPSG5CR0xnZ2g3NE5JdW90SkRwY25faEFHUUFHUXdsZkRaRTNVbUFqLThZSmdoWnhtdE83bw?oc=5",
+        "published_at": "2026-06-26T10:13:59+00:00",
+        "representative_place": "ガザ",
+        "geocode_query": "Gaza City Palestine",
         "place_type": "affected_site",
-        "location_precision": "region",
-        "place_reason": "記事タイトルに中東が現れるため、広域地域の中間的な代表地点としてアンマンに置く（一致語: Middle East）",
-        "confidence": 0.46,
-        "rule_id": "region_middle_east"
+        "location_precision": "city",
+        "place_reason": "記事タイトルにパレスチナ・ガザが現れるため、関係地域の代表地点に置く（一致語: Gaza）",
+        "confidence": 0.66,
+        "rule_id": "palestine_gaza"
       }
     },
     {
@@ -5491,22 +5376,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.5684,
-          35.6639
+          139.7447,
+          35.6758
         ]
       },
       "properties": {
-        "title": "来週はじめは真夏日増加 その後も湿度が高く蒸し暑い日続く - ウェザーニュース",
-        "source": "ウェザーニュース",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01Vzk3d0g5d1NQU1N1dHFpQXdXU1lXa3J4MEF1NWtiNEh1aVFKWUJUN3pJS3IwaWI5cUlURFFQZ1ZGUzJOUVZ5N0pQZXhaZFdHUTlBQg?oc=5",
-        "published_at": "2026-06-27T09:00:00+00:00",
-        "representative_place": "山梨県庁",
-        "geocode_query": "山梨県庁 山梨県甲府市",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨）",
-        "confidence": 0.7,
-        "rule_id": "yamanashi_prefecture"
+        "title": "野党が全法案審議に応じない方針、自民ベテラン「先が見通せず打開策がない」…国会が緊迫化（読売新聞オンライン） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxdnlGbndBNDRycmhna1RDLUxNYnNuczhhQUNzUVdNSXNOeXlrc2NteGhSRmZDeWNRNG5MZmk4d0M2Q29jOGw4dURkaDQwMTFldXBHaHFWeHFraGdkVjdwLWVpRndMcGk1TnBGdGVGTVo1SF92SVFzTU1oN3B4UEk?oc=5",
+        "published_at": "2026-06-27T09:05:30+00:00",
+        "representative_place": "国会議事堂",
+        "geocode_query": "国会議事堂 東京都千代田区永田町",
+        "place_type": "decision_site",
+        "location_precision": "building",
+        "place_reason": "法律・国会審議に関するニュースの制度的な決定地点",
+        "confidence": 0.78,
+        "rule_id": "national_diet_bill"
       }
     },
     {
@@ -5514,22 +5399,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.389,
-          35.6892
+          -66.9036,
+          10.4806
         ]
       },
       "properties": {
-        "title": "US strikes Iran after attack on cargo ship - BBC",
+        "title": "Venezuela earthquakes kill 920 people as families desperate for news - BBC",
         "source": "BBC",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tQjhhNDhhLTVYMWZLTFhVa3Y5and2bVJrZ3YwcHlkUjlMWWNpSVlMVTV3RXdFanE5b2JSWEVLN2Z5RDFKNzhTTFczRjNHYUkxUnNTdm1OcTROZw?oc=5",
-        "published_at": "2026-06-27T08:25:43+00:00",
-        "representative_place": "イラン・テヘラン",
-        "geocode_query": "Tehran Iran",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40U1N0b2VicmpGTzZSQWJCYm1SVnBwcDRFMkdRY2NBRHRfTF9ramg3aE1pbnVsdTdHLUpWMDRKYmtGSkQyX04zQ2dEcEl2OVhKN3czQUo2SERXZw?oc=5",
+        "published_at": "2026-06-27T08:56:30+00:00",
+        "representative_place": "ベネズエラ・カラカス",
+        "geocode_query": "Caracas Venezuela",
         "place_type": "affected_site",
         "location_precision": "country_capital",
-        "place_reason": "記事タイトルにIran・Tehranが現れるため、国または都市の代表地点に置く（一致語: Iran）",
+        "place_reason": "記事タイトルにVenezuela・ベネズエラが現れるため、国を代表する首都に置く（一致語: Venezuela）",
+        "confidence": 0.62,
+        "rule_id": "venezuela_caracas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      },
+      "properties": {
+        "title": "Parents booking air-conditioned hotels to keep babies safe in UK heatwave - The Guardian",
+        "source": "The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTlKTEJobWVsSUk0SGVxTWc1TUlpVE9LOEk3MHVjSVZqcWc5VEJBX1dRV0lFOGk0bENWM2U3TGFPLXZVUlBlSkhOOGoxXzFMTTFYZm5JV0V1ZFdGNWFfc0FXaTBQendvNjJGWGlwSDNfaVhTRzVYTld1aWluNHZQQklqOFhwejluUVNvNFVhSmgxanFmdHBEQVd5bVE5QXhDM0lNYnJwTF91d29F?oc=5",
+        "published_at": "2026-06-27T09:18:00+00:00",
+        "representative_place": "ロンドン",
+        "geocode_query": "London United Kingdom",
+        "place_type": "affected_site",
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルに英国・ロンドンが現れるため、国または都市の代表地点に置く（一致語: UK）",
         "confidence": 0.64,
-        "rule_id": "iran_tehran_english"
+        "rule_id": "uk_london"
       }
     },
     {
@@ -5698,29 +5606,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.5684,
-          35.6639
-        ]
-      },
-      "properties": {
-        "title": "【更新終了】山梨県で震度6弱 最新情報まとめ - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DNjMxV2hTNE5QM0czWlA2V2lBQ04tamgzTWpLYmZ2VVFsakpwNHlKbjFKTFBuaE11dGZJejB0ZTZ4MGRySVM3azFadndMdV95?oc=5",
-        "published_at": "2026-06-27T10:00:00+00:00",
-        "representative_place": "山梨県庁",
-        "geocode_query": "山梨県庁 山梨県甲府市",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨県）",
-        "confidence": 0.7,
-        "rule_id": "yamanashi_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           138.9453,
           34.6795
         ]
@@ -5790,38 +5675,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7447,
-          35.6758
-        ]
-      },
-      "properties": {
-        "title": "政治の動きを写真で：衆院で「国家情報会議」設置法案可決 政治の動きを写真で4月23日 [写真特集11/10] - 毎日新聞",
-        "source": "毎日新聞",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRklYckhfRDhvcjBLbDNQemVTS09leXBsejcwYXNfUzVJeG9VR19fRFBQSEhsQkI2MTI5REdJTy1WS1RLNUVHYURCR00telBqWFVjYzAwUDNUd3BOdU0tRW9KR0t6MTA1ZGN4aC1RNzdYLUVMRzdVd3RXS2xDUGx0eUV4RDJiY1E?oc=5",
-        "published_at": "2026-04-23T07:00:00+00:00",
-        "representative_place": "国会議事堂",
-        "geocode_query": "国会議事堂 東京都千代田区永田町",
-        "place_type": "decision_site",
-        "location_precision": "building",
-        "place_reason": "法律・国会審議に関するニュースの制度的な決定地点",
-        "confidence": 0.78,
-        "rule_id": "national_diet_bill"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.7414,
           35.6731
         ]
       },
       "properties": {
-        "title": "首相は、政策立案において国民にいかなる困難も課さないよう要請した。 - Vietnam.vn",
-        "source": "Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ2FnUFB1SHhzeWlsRkFsTHRvaDl2N0xfM21KNHRuR3prd0o4aHR2b29DdUhWZFNxT2hVVWVrLVlZN0htQjI5RUVRQW1xcHhIRzJaNEVRQ3ltUFRFU2lTWUhkX1dCTHZxTGdEd1B1cXd3d2VKOEJrZHM3TU9adFVYSzhWV3RyVDNUeWp0c3ZmbFlPUmpqNG55MkVkYl9xcG1MMl9GWA?oc=5",
-        "published_at": "2026-06-27T09:35:02+00:00",
+        "title": "高市首相、維新・藤田氏と昼食 後半国会の対応協議 - 時事ドットコム",
+        "source": "時事ドットコム",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vSTBKMXBQVVI1bWM3UWpoVlBFckFGd0lOUG9UaUFycE92bWh3SW5LbUJkei15OTd4YVBSTGFhNVVYSmZXU0RLOWtqcVdYZTh1Q2VzREVEZFB2OEFCRlFxX09wOA?oc=5",
+        "published_at": "2026-04-24T07:00:00+00:00",
         "representative_place": "首相官邸",
         "geocode_query": "首相官邸 東京都千代田区永田町",
         "place_type": "decision_site",
@@ -5829,6 +5691,29 @@
         "place_reason": "記事タイトルに首相・自民党総裁など日本政治の中枢表現が現れるため、首相官邸に置く（一致語: 首相）",
         "confidence": 0.64,
         "rule_id": "prime_minister_office_japan_general"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "title": "副総理：「97歳の女性に手続きを完了させるために区役所まで来させた」件から、真摯に教訓を得るべきだ。 - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVcyanJnQjI2UUZGLWpLcjJDZTJGbUVRYnVtWHUzMDdEUUM2eWdCWVRfdVB0aEpyMFNUMmZjU3dEQnFwRkhBSzlJeVRGcjZkRG1VdzJyVU85d3I5OW12Y3RKSzNFcUp1VnhlVHRvT0ZLM3l6TFItclAyLVRyY3NScDd4VjFQZW1RSzNTenQtdWVYaXkzMldNNWQ5bXNfaWEtM0FrN1pvYzhjQV9LMFVNQQ?oc=5",
+        "published_at": "2026-06-27T09:48:49+00:00",
+        "representative_place": "欧州・ブリュッセル",
+        "geocode_query": "Brussels Belgium European Union",
+        "place_type": "institution_site",
+        "location_precision": "region",
+        "place_reason": "記事タイトルに欧州・ヨーロッパ・EUが現れるため、欧州政治・制度の代表地点としてブリュッセルに置く（一致語: EU）",
+        "confidence": 0.56,
+        "rule_id": "region_europe_brussels"
       }
     },
     {
@@ -6020,22 +5905,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.7625,
-          39.0392
+          121.5654,
+          25.033
         ]
       },
       "properties": {
-        "title": "習近平主席「双方の主権守護」、北朝鮮「領土完整」肯定的回答…台湾問題念頭に置いたか - ｄメニューニュース",
-        "source": "ｄメニューニュース",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSjBfV2RZSnQwcnRqWFJkT3FtWHdqWDVsbG9yaDJocElmbi1YQUk5ckVrNDFIZk5PS0tTUy1FanRxUjVmZDFKUFBVdnRVVWpWMDBaVGR6X25hazllSnExbXRGTlhQM2NiUnNXekYxVllfS1lnYWNURkRTMGJPaEVYLVBnZTM4ODTSAYwBQVVfeXFMUE1uZkNuRmxyOWY4Sm0wdVl2WnAtSlFqckpaMmhtMGJFTmoycElyd2txWkZYU0VzSFp5d0dYR3N4d2ZpakFyUUMwOHZ6NExkNmFiRENobS1xS3laY1ZQbGt3Y3hZYVZFRTVkdzY5d2Z3RDZxbnlLa1N3V2JNMUJvX293bXM1Rko3VHBUWXo?oc=5",
-        "published_at": "2026-06-08T07:00:00+00:00",
-        "representative_place": "北朝鮮・平壌",
-        "geocode_query": "Pyongyang North Korea",
+        "title": "アメリカが「台湾を見捨てる」シナリオはある？「ボロボロの米軍と自衛隊で中国と第2ラウンド」の可能性 - ダイヤモンド・オンライン",
+        "source": "ダイヤモンド・オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XMENqb0JnbEgzM2ZfU1lQd3I0NXl4UG45elRObWNkeXlpZnFqaFhRdXBNS0VwMW11RktjaHJhSFozenhIbEppZkdQMUNLcXAwd2I4TFFn?oc=5",
+        "published_at": "2026-05-20T07:00:00+00:00",
+        "representative_place": "台湾・台北",
+        "geocode_query": "Taipei Taiwan",
         "place_type": "affected_site",
-        "location_precision": "country_capital",
-        "place_reason": "記事タイトルに北朝鮮・平壌が現れるため、国または都市の代表地点に置く（一致語: 北朝鮮）",
+        "location_precision": "city",
+        "place_reason": "記事タイトルに台湾・台北が現れるため、地域または都市の代表地点に置く（一致語: 台湾）",
         "confidence": 0.64,
-        "rule_id": "north_korea_pyongyang"
+        "rule_id": "taiwan_taipei"
       }
     },
     {
@@ -6048,10 +5933,10 @@
         ]
       },
       "properties": {
-        "title": "OpenAIが「デプロイ・シミュレーション」発表｜AIを出す前に挙動を予測する新手法 - innovaTopia",
-        "source": "innovaTopia",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YOFNiV1lnNWZQckRBQ3d1TmJVUVVkSHY5ejM1SXpNaHNPTzBKYVYtc3BBdDNCRlNqQm04VUtFTlhDM1V5ME9MbU9zNlcyUVc1RjhV?oc=5",
-        "published_at": "2026-06-18T07:00:00+00:00",
+        "title": "OpenAIは「知能工場」になる――AIの価値はトークン数から仕事の完了へ - 株式会社エクサウィザーズ",
+        "source": "株式会社エクサウィザーズ",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yU0t4eHdGZzktY21kbFFHMU94NmFMdzdvMWYwcjRZZ3RBODlZOHJyYk04S2tnc2VpNmdlUWNvaGhyMDZhUWUtMHUwTXIxQWo4dVZrcFlZTVBwTWlQUzN2M2g3b0hvNmRX?oc=5",
+        "published_at": "2026-06-17T07:00:00+00:00",
         "representative_place": "OpenAI本社周辺",
         "geocode_query": "OpenAI headquarters San Francisco",
         "place_type": "institution_site",
@@ -6117,10 +6002,10 @@
         ]
       },
       "properties": {
-        "title": "Middle East: Trump threatens US tolls on Strait of Hormuz if Iran talks collapse - France 24",
-        "source": "France 24",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMmRnNzZZTlFIU3ZXWXp0TEtUNy1nR0g0MnpFTkR1d1hlQWtiSWdKZ2JwM3luSml1MkdkcVZadGRpZHJiTEY4YnNpSkdYdm9vYWlBRWhlWFBIQTVTYjl1SnhuNzIxNi1mdFBpOEJHTXlBZ3FSTXU3VUdvVU1kOHQ1MGFzT0wyWFRWSFpvYTZjd1cxcUI5ZUxlcXRQcGlJbTdiU1RaTWM1eWZwaG9HSll1QlRRbEdQVl9Wd1hfYnlQU1JFdU1B?oc=5",
-        "published_at": "2026-06-20T05:24:03+00:00",
+        "title": "The Iran Deal Comes at a Cost to Israel. The White House Hasn’t Acknowledged It. - Council on Foreign Relations",
+        "source": "Council on Foreign Relations",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUpEOTNBZlJGc25hYzBYZGpFUjRHemNPd1VXdERaUkNpS2JncmRzRXdlaUNralVlQ05iNnBiQ2V0Yk9zQU5HRlR5T1hXNEtmWTk3SzhLT1c2QWliVG1nNEhBVVJNQ2lmRWRoRk02cGJONXI0R0VmUnkxSTlnUHN2TTJJSWJ5bExSTTRhTzgxQWY1Rk1GLTZ2cGZ4Q1hXOWNWTWFXWFVZVWNDUQ?oc=5",
+        "published_at": "2026-06-26T09:00:00+00:00",
         "representative_place": "イラン・テヘラン",
         "geocode_query": "Tehran Iran",
         "place_type": "affected_site",
@@ -6135,22 +6020,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.355,
-          34.75
+          138.5684,
+          35.6639
         ]
       },
       "properties": {
-        "title": "【台風情報】台風7号の最新進路予想を気象庁が発表 27日夜に東日本太平洋側進み伊豆諸島付近に接近 浸水や氾濫に警戒を - FNNプライムオンライン",
-        "source": "FNNプライムオンライン",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEN2FMQjFzdlNkVTlMOHZqaWRXYVBLV0MtYTI5S1dRZWk4LXhiRGZ0djFNYXByTmZBcWFXWlM5bFhSdVpxSm5US255ZnU4Zw?oc=5",
-        "published_at": "2026-06-27T08:29:00+00:00",
-        "representative_place": "伊豆諸島・大島",
-        "geocode_query": "伊豆大島 東京都大島町",
+        "title": "来週はじめは真夏日増加 その後も湿度が高く蒸し暑い日続く - ウェザーニュース",
+        "source": "ウェザーニュース",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01Vzk3d0g5d1NQU1N1dHFpQXdXU1lXa3J4MEF1NWtiNEh1aVFKWUJUN3pJS3IwaWI5cUlURFFQZ1ZGUzJOUVZ5N0pQZXhaZFdHUTlBQg?oc=5",
+        "published_at": "2026-06-27T09:00:00+00:00",
+        "representative_place": "山梨県庁",
+        "geocode_query": "山梨県庁 山梨県甲府市",
         "place_type": "affected_site",
-        "location_precision": "area",
-        "place_reason": "記事タイトルに伊豆諸島が現れるため、広域の代表地点として大島周辺に置く（一致語: 伊豆諸島）",
-        "confidence": 0.68,
-        "rule_id": "izu_islands"
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨）",
+        "confidence": 0.7,
+        "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.009,
+          37.3349
+        ]
+      },
+      "properties": {
+        "title": "Best Prime Day laptop deals: Save up to $850 on MacBooks, gaming laptops - Mashable",
+        "source": "Mashable",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qQXh6emtld1RqTDdWWWtOTHZBQUVQLVcxcW1uZ2h4WVVnUlRJSUUtREtDczk1cWdqQVVWbW5idEpycVRWcGZNM3BLNFZMZmZIZWF4blBvVzMzOF9TX0lwMVA5SlFmTTdJNGNmQkdJVzBtX2c5a3FDWkVR?oc=5",
+        "published_at": "2026-06-27T08:55:22+00:00",
+        "representative_place": "Apple本社",
+        "geocode_query": "Apple Park Cupertino California",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "記事タイトルにApple・Mac・iPadが現れるため、関係企業の代表地点に置く（一致語: Mac）",
+        "confidence": 0.58,
+        "rule_id": "apple_cupertino"
       }
     },
     {
@@ -6163,10 +6071,10 @@
         ]
       },
       "properties": {
-        "title": "Parents booking air-conditioned hotels to keep babies safe in UK heatwave - The Guardian",
-        "source": "The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTlKTEJobWVsSUk0SGVxTWc1TUlpVE9LOEk3MHVjSVZqcWc5VEJBX1dRV0lFOGk0bENWM2U3TGFPLXZVUlBlSkhOOGoxXzFMTTFYZm5JV0V1ZFdGNWFfc0FXaTBQendvNjJGWGlwSDNfaVhTRzVYTld1aWluNHZQQklqOFhwejluUVNvNFVhSmgxanFmdHBEQVd5bVE5QXhDM0lNYnJwTF91d29F?oc=5",
-        "published_at": "2026-06-27T09:18:00+00:00",
+        "title": "UK heatwave latest: Thunderstorm threat after June temperature record broken three days in a row - The Independent",
+        "source": "The Independent",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcVBTNHB0VnQxbS1ZUHZIR2ROVVI5eXZfbjZES0VDMXltdzZzYkNZYTJ1MXNYZWJnLXd1UFByTWdEN2stX0ZZcjFja2pHVWljVFMtcUZETlhlMWwxdTlYQ0sxdTFZbG5lTTdBX1ZYZDNBSFZycE9heU55R1V5SU8wTVhvTWwzRmg5ci1jMHZNcDZ5QzA2dHVUWGtyX085ellMbzlneW02dG8?oc=5",
+        "published_at": "2026-06-27T08:30:00+00:00",
         "representative_place": "ロンドン",
         "geocode_query": "London United Kingdom",
         "place_type": "affected_site",
@@ -6319,6 +6227,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.1233,
+          35.6046
+        ]
+      },
+      "properties": {
+        "title": "台風7号、東海・関東に接近「27日午後9時には千葉県の東で温帯低気圧に変わる予想。夜のうちには抜けていく」 - ABEMA TIMES",
+        "source": "ABEMA TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JQlIyU0pUN25zSFVBdWxQSXFhRUJIUWl5UUowZ0NCd29FeEY2TTZOeE9lTWc2dUc2NldWVG11cXpOQlVad2ZSNXlNVEd2SmJ1Nldhcw?oc=5",
+        "published_at": "2026-06-27T08:54:00+00:00",
+        "representative_place": "千葉県庁",
+        "geocode_query": "千葉県庁 千葉県千葉市中央区市場町",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに千葉県・千葉県沖・千葉県内の広域災害表現が現れるため、県を代表する自治体機関の所在地に置く（一致語: 千葉県）",
+        "confidence": 0.72,
+        "rule_id": "chiba_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5684,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "【更新終了】山梨県で震度6弱 最新情報まとめ - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DNjMxV2hTNE5QM0czWlA2V2lBQ04tamgzTWpLYmZ2VVFsakpwNHlKbjFKTFBuaE11dGZJejB0ZTZ4MGRySVM3azFadndMdV95?oc=5",
+        "published_at": "2026-06-27T10:00:00+00:00",
+        "representative_place": "山梨県庁",
+        "geocode_query": "山梨県庁 山梨県甲府市",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨県）",
+        "confidence": 0.7,
+        "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           138.9453,
           34.6795
         ]
@@ -6388,22 +6342,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          140.4677,
-          37.7503
+          139.7414,
+          35.6731
         ]
       },
       "properties": {
-        "title": "首相就任半年「経済強く」 野党、国会軽視と批判:政治 - 福島民友新聞社",
-        "source": "福島民友新聞社",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wWHlEVHJpZnlNZWxjNlNFMWFOQ2dmamM2Y1BFc3A5WkM1ajVOYURQMGFTcEZIZzIyZE8ydXBvV3FnaXRXbEc5SFVjYU12QmFDTFJGSTdTVXQtaWFrZ290LUZla2czX0FIX2c?oc=5",
-        "published_at": "2026-04-21T07:00:00+00:00",
-        "representative_place": "福島県庁",
-        "geocode_query": "福島県庁 福島県福島市",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに福島県・福島が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 福島）",
-        "confidence": 0.68,
-        "rule_id": "fukushima_prefecture"
+        "title": "首相は、政策立案において国民にいかなる困難も課さないよう要請した。 - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ2FnUFB1SHhzeWlsRkFsTHRvaDl2N0xfM21KNHRuR3prd0o4aHR2b29DdUhWZFNxT2hVVWVrLVlZN0htQjI5RUVRQW1xcHhIRzJaNEVRQ3ltUFRFU2lTWUhkX1dCTHZxTGdEd1B1cXd3d2VKOEJrZHM3TU9adFVYSzhWV3RyVDNUeWp0c3ZmbFlPUmpqNG55MkVkYl9xcG1MMl9GWA?oc=5",
+        "published_at": "2026-06-27T09:35:02+00:00",
+        "representative_place": "首相官邸",
+        "geocode_query": "首相官邸 東京都千代田区永田町",
+        "place_type": "decision_site",
+        "location_precision": "building",
+        "place_reason": "記事タイトルに首相・自民党総裁など日本政治の中枢表現が現れるため、首相官邸に置く（一致語: 首相）",
+        "confidence": 0.64,
+        "rule_id": "prime_minister_office_japan_general"
       }
     },
     {
@@ -6577,10 +6531,10 @@
         ]
       },
       "properties": {
-        "title": "サウジアラビア、イランとの中東不可侵条約を浮上：フィナンシャル・タイムズ - arabnews.jp",
+        "title": "ガザ、レバノン、イランでの停戦は、この言葉の意味を薄めている - arabnews.jp",
         "source": "arabnews.jp",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UNUNiUlFLRXZ4bzJVcHNSb1JPWmFQS1EydHduaGtQeGVxYk5IamNPd2g3ancweEtFQm4wV0NBTDNaZGp5SHlOeDJPNkdLVnFCU0pMTkFOSXluV0RmZzAxYmRUT0REN0RaVjRoZA?oc=5",
-        "published_at": "2026-05-15T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1paEM0eF8xMkxPRlExTC1URjVNSlNiWGNLRThWemxuN3doMWJIMWtDYl9aN3VydGV2dEZXTjU3a2tZcG1IS2Z2dG1OMGE0TkxCZlpRaDJxR25ONFRrakR5dlZsUnNnUy01WXY4?oc=5",
+        "published_at": "2026-06-02T07:00:00+00:00",
         "representative_place": "イラン・テヘラン",
         "geocode_query": "Tehran Iran",
         "place_type": "affected_site",
@@ -6595,22 +6549,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.5654,
-          25.033
+          125.7625,
+          39.0392
         ]
       },
       "properties": {
-        "title": "アメリカが「台湾を見捨てる」シナリオはある？「ボロボロの米軍と自衛隊で中国と第2ラウンド」の可能性 - ダイヤモンド・オンライン",
-        "source": "ダイヤモンド・オンライン",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XMENqb0JnbEgzM2ZfU1lQd3I0NXl4UG45elRObWNkeXlpZnFqaFhRdXBNS0VwMW11RktjaHJhSFozenhIbEppZkdQMUNLcXAwd2I4TFFn?oc=5",
-        "published_at": "2026-05-20T07:00:00+00:00",
-        "representative_place": "台湾・台北",
-        "geocode_query": "Taipei Taiwan",
+        "title": "日本と韓国、台湾・北朝鮮・ホルムズをめぐる視点からトランプ・習近平会談を注視 - INPS Japan",
+        "source": "INPS Japan",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbnBzTS1UZ2NfVGp1c2lwVUVDYWNKWUw1clZDckQ5N1RsYThWQ1R3TE1weTFFbzFFLTk5OHVfNUIzV2NDYUQ2aHBxUGdScU1mVkZBdzUzc203c1JVZExHWVBQUnFHUzhVYVBZNTNBaGtDbzdzSExueDhCbklUWl81SkdBMGJfOGlOQ19GdkhwcElLdDNfTjliNExjX3NVeFBBWDgtSkl4VkRjNmY5c0g5bm84REQzdnhYNUhHQWxFYWpDWFp1RlRTVnNvc08?oc=5",
+        "published_at": "2026-05-17T07:00:00+00:00",
+        "representative_place": "北朝鮮・平壌",
+        "geocode_query": "Pyongyang North Korea",
         "place_type": "affected_site",
-        "location_precision": "city",
-        "place_reason": "記事タイトルに台湾・台北が現れるため、地域または都市の代表地点に置く（一致語: 台湾）",
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルに北朝鮮・平壌が現れるため、国または都市の代表地点に置く（一致語: 北朝鮮）",
         "confidence": 0.64,
-        "rule_id": "taiwan_taipei"
+        "rule_id": "north_korea_pyongyang"
       }
     },
     {
@@ -6641,22 +6595,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4194,
-          37.7749
+          126.978,
+          37.5665
         ]
       },
       "properties": {
-        "title": "OpenAIは「知能工場」になる――AIの価値はトークン数から仕事の完了へ - 株式会社エクサウィザーズ",
-        "source": "株式会社エクサウィザーズ",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yU0t4eHdGZzktY21kbFFHMU94NmFMdzdvMWYwcjRZZ3RBODlZOHJyYk04S2tnc2VpNmdlUWNvaGhyMDZhUWUtMHUwTXIxQWo4dVZrcFlZTVBwTWlQUzN2M2g3b0hvNmRX?oc=5",
-        "published_at": "2026-06-17T07:00:00+00:00",
-        "representative_place": "OpenAI本社周辺",
-        "geocode_query": "OpenAI headquarters San Francisco",
-        "place_type": "institution_site",
-        "location_precision": "city",
-        "place_reason": "記事タイトルにOpenAIやGPTの発表表現が現れるため、組織の代表地点としてサンフランシスコに置く（一致語: OpenAI）",
-        "confidence": 0.58,
-        "rule_id": "openai_san_francisco"
+        "title": "韓国、OpenAIとAI安全協約を締結…米・英・日に次ぐ4番目の同盟 - finance.biggo.jp",
+        "source": "finance.biggo.jp",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XWkxMZWd0c1hSN0xJckFnRnZXcVprREw2WktoYm9ZZTViRl91Sm45ZHh6SnpzNEFnd3ZicTdLQjdfWkxUWDRaNTl2bnI4bWJOOWdYcHpMRGpKLWJzWk1TNlduTFZ0MThKQU85MDdxWVJFaGZH?oc=5",
+        "published_at": "2026-06-17T02:16:00+00:00",
+        "representative_place": "韓国・ソウル",
+        "geocode_query": "Seoul South Korea",
+        "place_type": "affected_site",
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルに韓国・ソウルが現れるため、国または都市の代表地点に置く（一致語: 韓国）",
+        "confidence": 0.64,
+        "rule_id": "south_korea_seoul"
       }
     },
     {
@@ -6738,10 +6692,10 @@
         ]
       },
       "properties": {
-        "title": "Israel, Stunned by Trump’s Iran Deal, Sees It as a ‘Catastrophic Capitulation’ - The New York Times",
-        "source": "The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVXR3S19Db2twaGl2VWFwSk1HVXZraEhKdFI0TnVJX3B4TmNCTkZ5cUEtbnF4MHlyMGdBRzBOeVZ5TlVrX25nT0JDZXpVUDdmZTlrbWtzUW9BVUhBb3VQR3RuaDJaQ1Bfemk5c3RzblNvaHFZU0lBNDl4bnVqY3hKb3R6Q2NJbzlxQzVtbFgzQzdtdTNVYTln?oc=5",
-        "published_at": "2026-06-18T07:00:00+00:00",
+        "title": "US considering moving Gulf bases damaged by Iran to Israel - Middle East Eye",
+        "source": "Middle East Eye",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTJqakY1c3hPQmhoNE5WblNCY3h2Z0VhTFhleHRhQnlSbFRmS1psMFEyV1J0ekFTU1lrekl1WC0wUjhfazhueHJkeWtnbjBFc0xFR1kySzJnSm91VjFneW9FRnFGTXgzYk55cjJSV2dIa19sazJEZEhTRVh5bTlOMzNBaElLODN0U0N2MXl2YWU?oc=5",
+        "published_at": "2026-06-26T08:54:25+00:00",
         "representative_place": "イラン・テヘラン",
         "geocode_query": "Tehran Iran",
         "place_type": "affected_site",
@@ -6779,15 +6733,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          126.978,
+          37.5665
+        ]
+      },
+      "properties": {
+        "title": "韓国、崖っぷちに立たされる 3位通過は残り3枠 W杯、1次リーグは残り6試合 - 産経ニュース",
+        "source": "産経ニュース",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaW5rVkd1bDhCTGYzaEV5RXkwYnpDVFgxUTZHUFpoMTlqYmtCczZtcGR5Q0hFeDhNVE5ZTjlIRkIyVG1pZ01FZE9CUEdsaWQyUkVvbldKVzZleXotMl9jbTMwLWJsSm5WWnh1ZS1Semk4SGhHRTV3eUhoa2RBU1RIbXhmZGs2bTVYUnNmU0pBdUV5NTdJQmYyakFiZXN2SmJ1UEt2a2t1Zw?oc=5",
+        "published_at": "2026-06-27T08:48:15+00:00",
+        "representative_place": "韓国・ソウル",
+        "geocode_query": "Seoul South Korea",
+        "place_type": "affected_site",
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルに韓国・ソウルが現れるため、国または都市の代表地点に置く（一致語: 韓国）",
+        "confidence": 0.64,
+        "rule_id": "south_korea_seoul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.3517,
           50.8503
         ]
       },
       "properties": {
-        "title": "【阪神】４日ぶり試合で痛恨逆転負け　藤川政権初の月間負け越し　広島戦は４勝４敗１分けの五分 - 日刊スポーツ",
-        "source": "日刊スポーツ",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FSnduWmF2Z293d2lHUEFxemUxNnV1dlFlX0pWZjdNQTJYYW5ueDNLa3g0VlZCUm9mSFl1bUJKblBOTl9fUDR4bUJmQnFRZU5LSHlqbnRwc2FpQUh1TzFDMzJOM1hxOUN3WGlzRnFRdm_SAXhBVV95cUxNTkJGbUNJRVNJQ2REdk5nXzZLWk1kT29UNlZhODFaV2N2b21JMElFeU43c0JLWmNvcGZ5V3I1cXpmYlZpT1F1aEZveGhSTnB3NHktS3BDaFg0cXptNm9uaFNEVlU3NkJGQmFDOUdHRWs0THFJb0RFNEk?oc=5",
-        "published_at": "2026-06-27T08:24:34+00:00",
+        "title": "Developing | China confirms death of pilot in Citic Tower plane crash - South China Morning Post",
+        "source": "South China Morning Post",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc2NidWpFRXJ2ZUVacVkzbVlEZ3pmN3NoVHdtNC1MdllxTTN4b3M5WkFsdVBWVmx5WE1wY0o4dDNEUEl6dUdzTDZTR0VuMmpKTFdyX0pTZUVYSW80clNManFIWlp5clBWQXBaT3JYYWtxU09NNmt4MkFPc1hYWWxvb3JJRDVmTXpWb2J3dDBKMEhPb3VBdy1lSzNLMTVLT3VqR1N0TkcxaG9wWnPSAasBQVVfeXFMUFQxTFZxYW1fRjZTUGViUU1kYzZweUpiVk1UbVdGeGVKcnhlSXZaZFczZUJBamRJU3BSdkFhSGUzZVBsRXhzUWlZbFUzQnc1RUpWQ1I2emJZZHdwYU91RmhSVEExUW54YlZVSDNCTlVzZUV0OTNfU0dYNmlnb1p2VERnbFdhT1FnZnVPNy1hOEVodjFlMlItbDRpRFFGQmtZSVFzcTZXMU5rZ19B?oc=5",
+        "published_at": "2026-06-27T08:48:11+00:00",
         "representative_place": "欧州・ブリュッセル",
         "geocode_query": "Brussels Belgium European Union",
         "place_type": "institution_site",
@@ -6830,10 +6807,10 @@
         ]
       },
       "properties": {
-        "title": "My mum had stroke – Isha Sesay explains shock CNN exit - The Sun Nigeria",
-        "source": "The Sun Nigeria",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HSWQzN2poc0lHa3lnNkoyZlJ3aGdFMGl1aExJYmEtMDdXN1BFSXAzTzNkQVlObzBMWXJ4NnpZZ2N3ME11dkFhaXhpN3NQZkVGMHhSck1nbmJRUDhSbHlBRUN5SXFMSEJKOTBock52UXB3cm5VU2lnS2VrMNIBgAFBVV95cUxOdmhVOXltV0hHNzJ3Vkt0akVsSTQ1Z0w3OWFqYXJCaFVvVUFrbUZrOGRTSzEtWXc4a2VacmlvT05uX0pZaUdaUVZLWUY0OUxrUjM3aEI1QmdYaHhrbVVMc1Z3Y2RzbFhyTEdORTctSUUwNGJqQk4yR3dzVHZ4WEtnZw?oc=5",
-        "published_at": "2026-06-27T08:26:48+00:00",
+        "title": "Army redeploys 19 Generals - The Guardian Nigeria News",
+        "source": "The Guardian Nigeria News",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nTE1lM2dFY2V6QmhfblQzMkZ5MHVlc0l4WEltYWlQd3JiMUNfdjRZTkZwRHVlMDNMRWdDQVNkSjJMNm9FOGFIZkJSWW9rZmhiZjhEU0dHdWxnSklvalNmdHoyYU1EU0R4V0Jldw?oc=5",
+        "published_at": "2026-06-27T08:39:00+00:00",
         "representative_place": "ナイジェリア・アブジャ",
         "geocode_query": "Abuja Nigeria",
         "place_type": "affected_site",
@@ -6917,6 +6894,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.1233,
+          35.6046
+        ]
+      },
+      "properties": {
+        "title": "【レベル３大雨警報】千葉県・銚子市に発表 17:44時点 - TBS NEWS DIG",
+        "source": "TBS NEWS DIG",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yWDZGS3ROWUhvQU1NRDhxNktaVlU0ZHV3X2EycmVTcnU4WVpBTVVFNlZ2Y2ltaG1mYTdnemd3V3gwV1IzVGlzTGVYdHNrS1F0LTMwRDdnaVpEdVoxbXd0SVRWS0s?oc=5",
+        "published_at": "2026-06-27T08:44:00+00:00",
+        "representative_place": "千葉県庁",
+        "geocode_query": "千葉県庁 千葉県千葉市中央区市場町",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに千葉県・千葉県沖・千葉県内の広域災害表現が現れるため、県を代表する自治体機関の所在地に置く（一致語: 千葉県）",
+        "confidence": 0.72,
+        "rule_id": "chiba_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.473,
           35.786
         ]
@@ -6940,22 +6940,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7414,
-          35.6731
+          140.4677,
+          37.7503
         ]
       },
       "properties": {
-        "title": "首相：政策立案の際には、国民や企業に困難を生じさせてはならない。 - Vietnam.vn",
-        "source": "Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGgwck11NDJ0NHZoQ1BSTUFaVVdiWHgzY3RncG1lNEhGNEQ0WTJIdFg3bUtqTEhHMC1yNG5WdGxNYjFjR0xPVHBsNVg1bFJjTDQ4YmJqb2Z6d1FvX1dKczE0X3k3MzVza05mclJjTGN2WXJRcEY0WnpyeWdKUWp6blpCZjJMLXk5VUo2dVVxdFBDZ1VhMXhaWm1oLS1KcVhSS0NvQm9ZZTE?oc=5",
-        "published_at": "2026-06-27T08:22:13+00:00",
-        "representative_place": "首相官邸",
-        "geocode_query": "首相官邸 東京都千代田区永田町",
-        "place_type": "decision_site",
-        "location_precision": "building",
-        "place_reason": "記事タイトルに首相・自民党総裁など日本政治の中枢表現が現れるため、首相官邸に置く（一致語: 首相）",
-        "confidence": 0.64,
-        "rule_id": "prime_minister_office_japan_general"
+        "title": "首相就任半年「経済強く」 野党、国会軽視と批判:政治 - 福島民友新聞社",
+        "source": "福島民友新聞社",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wWHlEVHJpZnlNZWxjNlNFMWFOQ2dmamM2Y1BFc3A5WkM1ajVOYURQMGFTcEZIZzIyZE8ydXBvV3FnaXRXbEc5SFVjYU12QmFDTFJGSTdTVXQtaWFrZ290LUZla2czX0FIX2c?oc=5",
+        "published_at": "2026-04-21T07:00:00+00:00",
+        "representative_place": "福島県庁",
+        "geocode_query": "福島県庁 福島県福島市",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに福島県・福島が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 福島）",
+        "confidence": 0.68,
+        "rule_id": "fukushima_prefecture"
       }
     },
     {
@@ -7106,10 +7106,10 @@
         ]
       },
       "properties": {
-        "title": "AERA Books『イランとアメリカ、そしてイスラエル 「ガザ以後」の中東』切り出し(6)（高橋和夫） - エキスパート - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3p3NTlEaHA5WlJVcFR6NUxTUUVoank1dFRMaWJOUmUxdzB0Ri1abHlHSGVDN0FxMTVZTjZzRVJ5NVBDeTJhR3dicWNuQ2dZcmRsdFFXYk1KQmRjOHlRZE5pX3lyalY5S2pvaklJaHBCd3o4dEJtV3JhcUhGTUNYSWFMVjlXa1E4?oc=5",
-        "published_at": "2026-04-29T07:00:00+00:00",
+        "title": "サウジアラビア、イランとの中東不可侵条約を浮上：フィナンシャル・タイムズ - arabnews.jp",
+        "source": "arabnews.jp",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UNUNiUlFLRXZ4bzJVcHNSb1JPWmFQS1EydHduaGtQeGVxYk5IamNPd2g3ancweEtFQm4wV0NBTDNaZGp5SHlOeDJPNkdLVnFCU0pMTkFOSXluV0RmZzAxYmRUT0REN0RaVjRoZA?oc=5",
+        "published_at": "2026-05-15T07:00:00+00:00",
         "representative_place": "イラン・テヘラン",
         "geocode_query": "Tehran Iran",
         "place_type": "affected_site",
@@ -7129,10 +7129,10 @@
         ]
       },
       "properties": {
-        "title": "日本と韓国、台湾・北朝鮮・ホルムズをめぐる視点からトランプ・習近平会談を注視 - INPS Japan",
-        "source": "INPS Japan",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbnBzTS1UZ2NfVGp1c2lwVUVDYWNKWUw1clZDckQ5N1RsYThWQ1R3TE1weTFFbzFFLTk5OHVfNUIzV2NDYUQ2aHBxUGdScU1mVkZBdzUzc203c1JVZExHWVBQUnFHUzhVYVBZNTNBaGtDbzdzSExueDhCbklUWl81SkdBMGJfOGlOQ19GdkhwcElLdDNfTjliNExjX3NVeFBBWDgtSkl4VkRjNmY5c0g5bm84REQzdnhYNUhHQWxFYWpDWFp1RlRTVnNvc08?oc=5",
-        "published_at": "2026-05-17T07:00:00+00:00",
+        "title": "福岡アジア美術館でコレクション展 中国や北朝鮮など「東アジア編」 [福岡県] - 朝日新聞",
+        "source": "朝日新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZURLbHVSck9sSEFJSDNNeTJfbE1DMFMyN1hFU1YwSHBJeXhUVFJYX0hEYXJ4cUw1WmdxVm54N2JIT2JNR1ptUlBoS3UxWVhLczlJMThmWXNCWk4ydWlhOWN4NW1tZGM?oc=5",
+        "published_at": "2026-05-04T07:00:00+00:00",
         "representative_place": "北朝鮮・平壌",
         "geocode_query": "Pyongyang North Korea",
         "place_type": "affected_site",
@@ -7147,22 +7147,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.978,
-          37.5665
+          -122.4194,
+          37.7749
         ]
       },
       "properties": {
-        "title": "韓国、OpenAIとAI安全協約を締結…米・英・日に次ぐ4番目の同盟 - finance.biggo.jp",
-        "source": "finance.biggo.jp",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XWkxMZWd0c1hSN0xJckFnRnZXcVprREw2WktoYm9ZZTViRl91Sm45ZHh6SnpzNEFnd3ZicTdLQjdfWkxUWDRaNTl2bnI4bWJOOWdYcHpMRGpKLWJzWk1TNlduTFZ0MThKQU85MDdxWVJFaGZH?oc=5",
-        "published_at": "2026-06-17T02:16:00+00:00",
-        "representative_place": "韓国・ソウル",
-        "geocode_query": "Seoul South Korea",
-        "place_type": "affected_site",
-        "location_precision": "country_capital",
-        "place_reason": "記事タイトルに韓国・ソウルが現れるため、国または都市の代表地点に置く（一致語: 韓国）",
-        "confidence": 0.64,
-        "rule_id": "south_korea_seoul"
+        "title": "OpenAI Academy が新コース3種を発表、AIを「使える組織」へ導く学習ロードマップ - innovaTopia",
+        "source": "innovaTopia",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TYUYwS01JeWZmWm9QZ3pOVGotY0x6aE02ay1aVU1SZHU5SzBEWWZ1aGp6MWU1dlVNaERIN0lYNExXTEM0XzNhRXoxTnBMclk1QlJZ?oc=5",
+        "published_at": "2026-06-15T04:05:00+00:00",
+        "representative_place": "OpenAI本社周辺",
+        "geocode_query": "OpenAI headquarters San Francisco",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "記事タイトルにOpenAIやGPTの発表表現が現れるため、組織の代表地点としてサンフランシスコに置く（一致語: OpenAI）",
+        "confidence": 0.58,
+        "rule_id": "openai_san_francisco"
       }
     },
     {
@@ -7175,10 +7175,10 @@
         ]
       },
       "properties": {
-        "title": "Steam MachineがPlayStationの最大の競合に？元Xbox幹部が語る次世代ゲーム機の勢力図 - スマホダイジェスト",
-        "source": "スマホダイジェスト",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EUnRQd0haU3FKc3pMNld6WmlYTU5TenlHbVh6eVpKVy1aZEpsVmY2TmNyVWFBSFdCeG04UjMzYWlhV1IweVo3bQ?oc=5",
-        "published_at": "2026-03-08T08:00:00+00:00",
+        "title": "Steam早期アクセス中の「グーニャモンスター」派生タイトル4本が4月27日正式リリース決定 - GAME Watch",
+        "source": "GAME Watch",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50UndwWmVWWWQzcUFmdkNwVzViZmNEZmFfRFF3OE5uN2VpS01aci1ZeXlub0ROQmZHYy1fNlotV0ZUZFdSN2d3ZnFhMUpIMUo2M09HSFN5YWoyMDVTLXVZUDh5b09xQQ?oc=5",
+        "published_at": "2026-04-20T07:00:00+00:00",
         "representative_place": "Valve本社",
         "geocode_query": "Valve headquarters Bellevue Washington",
         "place_type": "institution_site",
@@ -7186,29 +7186,6 @@
         "place_reason": "記事タイトルにSteam・Valve関連製品が現れるため、関係企業の代表地点に置く（一致語: Steam）",
         "confidence": 0.58,
         "rule_id": "valve_headquarters"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.5018,
-          13.7563
-        ]
-      },
-      "properties": {
-        "title": "アニメ『青ブタ』完結編劇場公開日決定 新規イラストなど一挙解禁！【アニメジャパン2026】 - アニメイトタイムズ",
-        "source": "アニメイトタイムズ",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84VDJIbDFwNHYtWXJqQnBoNG1qRTVIQjlmRUJVZkQyNllZd1duN0hYRzhqMVNWRklkS2RhelpGU0Nwc2hXTTNhYTZaTS1wQ1prV2UzMEpKWTFFSzNldzdHVzlCaHloSFR2UnV3?oc=5",
-        "published_at": "2026-03-29T07:00:00+00:00",
-        "representative_place": "タイ・バンコク",
-        "geocode_query": "Bangkok Thailand",
-        "place_type": "affected_site",
-        "location_precision": "country_capital",
-        "place_reason": "記事タイトルにタイ・バンコクが現れるため、国または都市の代表地点に置く（一致語: タイ）",
-        "confidence": 0.58,
-        "rule_id": "thailand_bangkok"
       }
     },
     {
@@ -7285,22 +7262,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.389,
-          35.6892
+          -77.0369,
+          38.9072
         ]
       },
       "properties": {
-        "title": "Trump's U-turn on Iran war has ended Israel's Middle East dream - Middle East Eye",
-        "source": "Middle East Eye",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXpCUUlvNWp4czBOY0tpMWVGTEFlMk9xXzZPTTFoeDU3ZkIzZTZPN2gzTjlzemZ3VnRVdlgtNmhrRnhPYmo2eHo1WDN1N2V3SElpT2tNYTdJM2duYkhPSEJFNGZHSk1SUzgxa3dZU01kWWo5WW50WE12SXFvUmxGRHN2bUFlaG9qZlRhRng3MXpiaElF?oc=5",
-        "published_at": "2026-06-17T07:00:00+00:00",
-        "representative_place": "イラン・テヘラン",
-        "geocode_query": "Tehran Iran",
-        "place_type": "affected_site",
-        "location_precision": "country_capital",
-        "place_reason": "記事タイトルにIran・Tehranが現れるため、国または都市の代表地点に置く（一致語: Iran）",
-        "confidence": 0.64,
-        "rule_id": "iran_tehran_english"
+        "title": "Opinion | A punching bag. ‘A graveyard.’ A new temptation for Trump. - The Washington Post",
+        "source": "The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWZZU252TUNJRDJaaWpUMzM1dXRUNlpIMWx1VWZ3Zjc4TTdXVm9UZmM1NVdIVVVrWUc1WncxNk5aTWlNdDE0NVhhZmtadS1XaFdad2FVTDJPV0o3YnUtWUtHRmM4clpnb0tjazJmWl8xamRZWXk1VXNmZExFQUJ6TWg4WTNRdUIwMi1vOVpXd0t0azhhNDBpM2Q3MU05X21q?oc=5",
+        "published_at": "2026-06-25T17:00:01+00:00",
+        "representative_place": "ワシントンD.C.",
+        "geocode_query": "Washington DC United States",
+        "place_type": "decision_site",
+        "location_precision": "city",
+        "place_reason": "米国政治・米中関係に関する見出しのため、米国政治の代表地点に置く（一致語: Trump）",
+        "confidence": 0.58,
+        "rule_id": "us_democratic_party_washington"
       }
     },
     {
@@ -7331,22 +7308,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          130.4181,
-          33.6064
+          138.7274,
+          35.3606
         ]
       },
       "properties": {
-        "title": "2つの台風と梅雨前線で雨量かさむ 九州北部や瀬戸内は5日間で1か月分の雨 - ウェザーニュース",
-        "source": "ウェザーニュース",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PdDMxcnBjYmZTQ1pvSURUdjZwbFF0aVVkNGR0UlZvT0JDQ3c3T3RkaUpnMEVwZjhlbzVNcTBIU3REY1BMeW0wTUltcnlvQnVkNUhiOQ?oc=5",
-        "published_at": "2026-06-27T08:14:00+00:00",
-        "representative_place": "福岡県庁",
-        "geocode_query": "福岡県庁 福岡県福岡市博多区",
+        "title": "富士山の火山活動、気象庁「特段の変化はない」「心配はしていない」…山梨震度６弱受け - 読売新聞",
+        "source": "読売新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04OVBTWFJFR3dwZFlncW5pQnp4c0E0eVZaZGN1TGVva2FKUWtjSDczNTJDaUxVNVJ3VEpxa0lreFBDbUdRX3ZmanBDNEFGeWZmTXdxd0pKaTFCTHJsNEhJa2UydkQ?oc=5",
+        "published_at": "2026-06-27T08:47:00+00:00",
+        "representative_place": "富士山",
+        "geocode_query": "富士山",
         "place_type": "affected_site",
-        "location_precision": "region",
-        "place_reason": "記事タイトルに九州が現れるため、広域地域の代表地点として福岡県庁に置く（一致語: 九州）",
-        "confidence": 0.58,
-        "rule_id": "japan_kyushu_region"
+        "location_precision": "landmark",
+        "place_reason": "記事タイトルに富士山が現れるため、対象となる山体の代表地点に置く（一致語: 富士山）",
+        "confidence": 0.86,
+        "rule_id": "mt_fuji"
       }
     },
     {
@@ -7382,10 +7359,10 @@
         ]
       },
       "properties": {
-        "title": "DSS releases, compensates man wrongfully arrested over alleged Boko Haram links - Vanguard News",
-        "source": "Vanguard News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVy1vZkx3ckRaM01zYU5OdkRxYy1YLWR2N3hMekEwRFdDZ2hWQjNMakdlTE1LYVV1eGJIYTdDN0dFcUxNbUZNZzJYbFdTMzRid094ZGpUVHh0TXcyNk9zazFMajZNakxidnhid1JBanM4S09wRmNEZVZ4OWZJUkVRb003bU1aRHJOX0FGTFpaTkwxa0xtRGVOTXB4eW1kamQtVjhWZndiMl9WT1ZBcUh5MzNSSkhZZ9IBuwFBVV95cUxQWlZsZGloeTRuel9zbEVKS2hKS3hOcHhqUFViSUFFblFhVEpRZjJOempzN2QwdGxpNmtNQjFqV0FyUEpaSHNtQUdTS3RLbVp3QXAwWVlrLWZDNUoyNko0X1dtNjF1ckVZWDNXaWFmOUduTThBSktTcFh3QktRT2o1dlQyUTN0dFFRRFFIbkZsM05uOUxSbmp1bTNxU2pxaVY5M0xCQTFyMVRLY2Rzckk0dDlxS1IyUnNVYjk4?oc=5",
-        "published_at": "2026-06-27T07:48:57+00:00",
+        "title": "My mum had stroke – Isha Sesay explains shock CNN exit - The Sun Nigeria",
+        "source": "The Sun Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HSWQzN2poc0lHa3lnNkoyZlJ3aGdFMGl1aExJYmEtMDdXN1BFSXAzTzNkQVlObzBMWXJ4NnpZZ2N3ME11dkFhaXhpN3NQZkVGMHhSck1nbmJRUDhSbHlBRUN5SXFMSEJKOTBock52UXB3cm5VU2lnS2VrMNIBgAFBVV95cUxOdmhVOXltV0hHNzJ3Vkt0akVsSTQ1Z0w3OWFqYXJCaFVvVUFrbUZrOGRTSzEtWXc4a2VacmlvT05uX0pZaUdaUVZLWUY0OUxrUjM3aEI1QmdYaHhrbVVMc1Z3Y2RzbFhyTEdORTctSUUwNGJqQk4yR3dzVHZ4WEtnZw?oc=5",
+        "published_at": "2026-06-27T08:26:48+00:00",
         "representative_place": "ナイジェリア・アブジャ",
         "geocode_query": "Abuja Nigeria",
         "place_type": "affected_site",
@@ -7515,29 +7492,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          140.1233,
-          35.6046
-        ]
-      },
-      "properties": {
-        "title": "台風7号、東海・関東に接近「27日午後9時には千葉県の東で温帯低気圧に変わる予想。夜のうちには抜けていく」 - ABEMA TIMES",
-        "source": "ABEMA TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JQlIyU0pUN25zSFVBdWxQSXFhRUJIUWl5UUowZ0NCd29FeEY2TTZOeE9lTWc2dUc2NldWVG11cXpOQlVad2ZSNXlNVEd2SmJ1Nldhcw?oc=5",
-        "published_at": "2026-06-27T08:54:00+00:00",
-        "representative_place": "千葉県庁",
-        "geocode_query": "千葉県庁 千葉県千葉市中央区市場町",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに千葉県・千葉県沖・千葉県内の広域災害表現が現れるため、県を代表する自治体機関の所在地に置く（一致語: 千葉県）",
-        "confidence": 0.72,
-        "rule_id": "chiba_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           138.5684,
           35.6639
         ]
@@ -7612,33 +7566,10 @@
         ]
       },
       "properties": {
-        "title": "首相官邸も裁判所も「喫煙NG」なのに「国会内はOK」一体なぜなのか (2026年4月18日掲載) - ライブドアニュース",
-        "source": "ライブドアニュース",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrcDhVcGdDUXQxdVpwdXhMQXBwb21jZUZJdEdBUWg3VmJpZ01iNzBRU3pCWEZYZGY2T3VtQ0xsOWdIdC0tUTk3ZXFDZzRLajU0czNvMDBYWVJzbGRXY3c?oc=5",
-        "published_at": "2026-04-18T07:00:00+00:00",
-        "representative_place": "首相官邸",
-        "geocode_query": "首相官邸 東京都千代田区永田町",
-        "place_type": "decision_site",
-        "location_precision": "building",
-        "place_reason": "記事タイトルに首相・自民党総裁など日本政治の中枢表現が現れるため、首相官邸に置く（一致語: 首相）",
-        "confidence": 0.64,
-        "rule_id": "prime_minister_office_japan_general"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7414,
-          35.6731
-        ]
-      },
-      "properties": {
-        "title": "首相：法案および決議案を早急に最終決定し、質、適時性、有効性を確保すること。 - Vietnam.vn",
+        "title": "首相：政策立案の際には、国民や企業に困難を生じさせてはならない。 - Vietnam.vn",
         "source": "Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNW92RGRyb0VYX1BtVlZBNjhSUUFIaWhSb0JUQU0yVWVmTndna0EwVGZuaXRBbk1OMHo0dDVKUGRadzdOU28ybHQ4LWZEOFJLOVZEUmZBOE9rNVNxMF9zQ2EzbXo0d1RlcmZNblEyTlN5OXE0ak92OUoycnN4Y2pQbXNBS2I0dXdra1gzNmp1Y2xLSHFVeHZKeHF3emc0ZmR3Rno4dDdZVzdLT3JBcm5mWUlRVkVhbTg?oc=5",
-        "published_at": "2026-06-27T08:02:08+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGgwck11NDJ0NHZoQ1BSTUFaVVdiWHgzY3RncG1lNEhGNEQ0WTJIdFg3bUtqTEhHMC1yNG5WdGxNYjFjR0xPVHBsNVg1bFJjTDQ4YmJqb2Z6d1FvX1dKczE0X3k3MzVza05mclJjTGN2WXJRcEY0WnpyeWdKUWp6blpCZjJMLXk5VUo2dVVxdFBDZ1VhMXhaWm1oLS1KcVhSS0NvQm9ZZTE?oc=5",
+        "published_at": "2026-06-27T08:22:13+00:00",
         "representative_place": "首相官邸",
         "geocode_query": "首相官邸 東京都千代田区永田町",
         "place_type": "decision_site",
@@ -7814,22 +7745,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.4668,
-          31.5017
+          51.389,
+          35.6892
         ]
       },
       "properties": {
-        "title": "「アメリカ人の手はガザの人々の血で汚れている」 バイデンとハリスが演じた無料の“バー”とは？ | AERA Books - AERA DIGITAL",
-        "source": "AERA DIGITAL",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ObmFuUGk1RHVyRjYwR2UxdDVNbktoWTNfUTA2cDhxUVh5RkNfOHZONmN4Z3JlTU9FcUJjaVFjeDZOUE0zbUx3bmlqZEJ3ekpYQnppU041dFlxUQ?oc=5",
-        "published_at": "2026-04-25T07:00:00+00:00",
-        "representative_place": "ガザ",
-        "geocode_query": "Gaza City Palestine",
+        "title": "AERA Books『イランとアメリカ、そしてイスラエル 「ガザ以後」の中東』切り出し(7)（高橋和夫） - エキスパート - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGtpUlpWQzBmeEdTWnQzQWNhUnBXOWQ3V1FXWWo1eW9fT2VSM2h0VUVacXNMekkwU1lKRE5fZHVvcXpIWkJLSUdfYTBsQ3hRMjRKc1Q0N1BuSW9HbklJci1TOXd2TWhLMVM0N2hldmhJcmRhRFQ1NjZKS1ZCYXFUbEZjVG1pZTd5?oc=5",
+        "published_at": "2026-04-30T07:00:00+00:00",
+        "representative_place": "イラン・テヘラン",
+        "geocode_query": "Tehran Iran",
         "place_type": "affected_site",
-        "location_precision": "city",
-        "place_reason": "記事タイトルにパレスチナ・ガザが現れるため、関係地域の代表地点に置く（一致語: ガザ）",
-        "confidence": 0.66,
-        "rule_id": "palestine_gaza"
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルにイランが現れるため、影響を受ける国を代表する首都に置く。具体的な軍事施設名が不明なため国の代表地点として扱う（一致語: イラン）",
+        "confidence": 0.62,
+        "rule_id": "iran_tehran"
       }
     },
     {
@@ -7837,22 +7768,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          125.7625,
-          39.0392
+          121.5654,
+          25.033
         ]
       },
       "properties": {
-        "title": "福岡アジア美術館でコレクション展 中国や北朝鮮など「東アジア編」 [福岡県] - 朝日新聞",
-        "source": "朝日新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZURLbHVSck9sSEFJSDNNeTJfbE1DMFMyN1hFU1YwSHBJeXhUVFJYX0hEYXJ4cUw1WmdxVm54N2JIT2JNR1ptUlBoS3UxWVhLczlJMThmWXNCWk4ydWlhOWN4NW1tZGM?oc=5",
-        "published_at": "2026-05-04T07:00:00+00:00",
-        "representative_place": "北朝鮮・平壌",
-        "geocode_query": "Pyongyang North Korea",
+        "title": "李在明の誤算、台湾表記巡る「戦略的妥協」が中台双方から猛反発、王毅外相の訪韓は延期、良好だった韓中関係も一転(3/4) - JBpress",
+        "source": "JBpress",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CWUdGcTU2U3FfYU5LYlhGUzFQWXBZZ3dXY0R3QkMxOHd2bHVqcHpxZWJDWG94NmpPWnpkUk9hbndzbGZVb0liNF9HbG1GYTA5cHBPRnV6NVpZU2F2YU9v?oc=5",
+        "published_at": "2026-04-23T07:00:00+00:00",
+        "representative_place": "台湾・台北",
+        "geocode_query": "Taipei Taiwan",
         "place_type": "affected_site",
-        "location_precision": "country_capital",
-        "place_reason": "記事タイトルに北朝鮮・平壌が現れるため、国または都市の代表地点に置く（一致語: 北朝鮮）",
+        "location_precision": "city",
+        "place_reason": "記事タイトルに台湾・台北が現れるため、地域または都市の代表地点に置く（一致語: 台湾）",
         "confidence": 0.64,
-        "rule_id": "north_korea_pyongyang"
+        "rule_id": "taiwan_taipei"
       }
     },
     {
@@ -7888,10 +7819,10 @@
         ]
       },
       "properties": {
-        "title": "OpenAI Academy が新コース3種を発表、AIを「使える組織」へ導く学習ロードマップ - innovaTopia",
-        "source": "innovaTopia",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TYUYwS01JeWZmWm9QZ3pOVGotY0x6aE02ay1aVU1SZHU5SzBEWWZ1aGp6MWU1dlVNaERIN0lYNExXTEM0XzNhRXoxTnBMclk1QlJZ?oc=5",
-        "published_at": "2026-06-15T04:05:00+00:00",
+        "title": "米OpenAIを複数州の司法長官が共同で調査（Bloomberg） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbFJpdlFnSklKdHk0UWpfTzF4bHY0VWhndjFucTFHU2VIWEpQWkRxcm9fTjh0YWx3dzk5am8wVmNYOW1mMkhtNVMtZkVqWTl5bzR6SVM4ZjdKRGtoaWJXRWNFZFR6LVdXSTNrcjhGeUpkTml2YjcweDk1NS1Hc0E?oc=5",
+        "published_at": "2026-06-13T07:00:00+00:00",
         "representative_place": "OpenAI本社周辺",
         "geocode_query": "OpenAI headquarters San Francisco",
         "place_type": "institution_site",
@@ -7906,15 +7837,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.2015,
+          47.6101
+        ]
+      },
+      "properties": {
+        "title": "Steam MachineがPlayStationの最大の競合に？元Xbox幹部が語る次世代ゲーム機の勢力図 - スマホダイジェスト",
+        "source": "スマホダイジェスト",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EUnRQd0haU3FKc3pMNld6WmlYTU5TenlHbVh6eVpKVy1aZEpsVmY2TmNyVWFBSFdCeG04UjMzYWlhV1IweVo3bQ?oc=5",
+        "published_at": "2026-03-08T08:00:00+00:00",
+        "representative_place": "Valve本社",
+        "geocode_query": "Valve headquarters Bellevue Washington",
+        "place_type": "institution_site",
+        "location_precision": "city",
+        "place_reason": "記事タイトルにSteam・Valve関連製品が現れるため、関係企業の代表地点に置く（一致語: Steam）",
+        "confidence": 0.58,
+        "rule_id": "valve_headquarters"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           100.5018,
           13.7563
         ]
       },
       "properties": {
-        "title": "SonyのPC向けPS5タイトル移植撤退——「発売タイミング」が売上を決めていたという新データ - 自作ユーザーが解説するゲーミングPCガイド",
-        "source": "自作ユーザーが解説するゲーミングPCガイド",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04VWVBWXBFSGZwY2tiY1RCNkNPUXlZMElIVzJiaXBva0MzR0ZDd3dxbnk1ZjZvS2lRZGswLUdZRHNmamJ4dktzZw?oc=5",
-        "published_at": "2026-03-07T08:00:00+00:00",
+        "title": "アニメ『青ブタ』完結編劇場公開日決定 新規イラストなど一挙解禁！【アニメジャパン2026】 - アニメイトタイムズ",
+        "source": "アニメイトタイムズ",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84VDJIbDFwNHYtWXJqQnBoNG1qRTVIQjlmRUJVZkQyNllZd1duN0hYRzhqMVNWRklkS2RhelpGU0Nwc2hXTTNhYTZaTS1wQ1prV2UzMEpKWTFFSzNldzdHVzlCaHloSFR2UnV3?oc=5",
+        "published_at": "2026-03-29T07:00:00+00:00",
         "representative_place": "タイ・バンコク",
         "geocode_query": "Bangkok Thailand",
         "place_type": "affected_site",
@@ -8003,10 +7957,10 @@
         ]
       },
       "properties": {
-        "title": "US refused to share Iran deal text with Israel: Report - Middle East Eye",
-        "source": "Middle East Eye",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQVk0Si0zR2cyY18zOWM1SlM0TXloZmlVZWkyZG5JdU9BRDBWYklwLVJhRDFkUEItUks4Y1B1cHkwMWp5WmI1MGZpQ0p3WS04Y1RGNkM2NXc5d2U0M2Q0bUlEZ3JpQk1kS0NZX2NSSjdjc1ltM0NWS1BXUDdQWHZYdFBnSnp6RTBUZ2RMMQ?oc=5",
-        "published_at": "2026-06-16T07:00:00+00:00",
+        "title": "To protect the Iran peace talks, will Trump finally restrain Netanyahu? | Mohamad Bazzi - The Guardian",
+        "source": "The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1BrMDVsWWpBdUJrZWRLZTI5VlpZZTVvbXpWR3Q4QlFZcGNhcDc1RTVHOVZSYWtxZkdYckFnUlR4a3kxV3htc28xX2hnZWFzNnNHOEpMR3htVk9EenJ1V210ZEViN2dWSndDcDNxRWF2T3QzLUkyazlZSXlvbm1iaXFZMVA?oc=5",
+        "published_at": "2026-06-25T15:14:00+00:00",
         "representative_place": "イラン・テヘラン",
         "geocode_query": "Tehran Iran",
         "place_type": "affected_site",

@@ -3,18 +3,23 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>geographic-news</title>
+  <title>ニュース地図</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
-  <link rel="stylesheet" href="./style.css?v=20260627-5">
+  <link rel="stylesheet" href="./style.css?v=20260627-6">
 </head>
 <body>
   <div id="map"></div>
   <button id="panelToggle" class="panel-toggle" type="button" aria-expanded="true">一覧を閉じる</button>
   <div id="updatedAtBadge" class="updated-at-badge">更新日を取得中</div>
   <aside class="panel" id="sidePanel">
-    <h1>geographic-news</h1>
-    <div id="status" class="muted">loading latest.geojson...</div>
-    <div id="topicList" class="topic-list"></div>
+    <div class="panel-header">
+      <h1>ニュース地図</h1>
+      <div class="schedule-note">毎日6時に更新です</div>
+      <div id="status" class="muted">loading latest.geojson...</div>
+    </div>
+    <div class="panel-scroll">
+      <div id="topicList" class="topic-list"></div>
+    </div>
   </aside>
   <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="./app.js?v=20260627-5"></script>

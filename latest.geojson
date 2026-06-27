@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "created_at": "2026-06-27T09:38:48.225767+00:00",
+    "count": 2
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.7785, 35.6826]
+      },
+      "properties": {
+        "title": "今週の【早わかり株式市況】反落、最高値更新もAI・半導体に思惑錯綜し乱高下 - 株探",
+        "source": "株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zYWlUdm9zNURMaTJuZ2tzMXFQX3FmTmxHd2hqYWo1UTI5dkN6SmM3c1VITnhtWGY3ZGdmM2p3bmhILTZCNjNLbzl3b29JRVQ3UmhsQUNXeU1qN0NURWU1Tg?oc=5",
+        "published_at": "2026-06-26T21:40:00+00:00",
+        "representative_place": "東京証券取引所",
+        "geocode_query": "東京証券取引所 東京都中央区日本橋兜町",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "株式市場・上場関連ニュースを代表させる市場機関の所在地",
+        "confidence": 0.74,
+        "rule_id": "tokyo_stock_exchange"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.355, 34.75]
+      },
+      "properties": {
+        "title": "【レベル４土砂災害危険警報】東京都・大島町に発表 12:30時点 - ｄメニューニュース",
+        "source": "ｄメニューニュース",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aelJzdlJWeDlvZTk5LXI3d21aVWU4Zy1LczF5U1RRTG5RaHlQTERlMHlDUjJQUWRjQ19IS3F6TnRFSU9aYUM5VHhsVUFUM2MwQ3VYS1UyaVBfVjV1OWRWZjFBREpKM0VhS3JoNm01QdIBdEFVX3lxTFBPdTV3ZlgtdmRFZkdBY2NKZU9kQVVKbUxNRm03bjk1akYtVm5vS2syWWRJU3ZKNi1tX29LN2ZobTdXODh2OHUzSjhfYzN5TnA4U2NpVnBnMXd6cC0xZE02cm8wX25TcVRJRjlhYjU0S1QtZm8w?oc=5",
+        "published_at": "2026-06-27T03:30:00+00:00",
+        "representative_place": "大島町役場",
+        "geocode_query": "大島町役場 東京都大島町元町",
+        "place_type": "affected_site",
+        "location_precision": "municipality",
+        "place_reason": "記事中に大島町・伊豆大島が現れるため、その地域を代表する自治体所在地に置く（一致語: 大島町）",
+        "confidence": 0.78,
+        "rule_id": "tokyo_oshima_town"
+      }
+    }
+  ]
+}

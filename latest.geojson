@@ -1,8 +1,15 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-27T10:27:52.934069+00:00",
-    "count": 3
+    "created_at": "2026-06-27T10:40:23.474545+00:00",
+    "count": 3,
+    "stats": {
+      "collected": 40,
+      "resolved": 3,
+      "topics": 3,
+      "unresolved": 37,
+      "deduped": 0
+    }
   },
   "features": [
     {
@@ -15,7 +22,7 @@
         ]
       },
       "properties": {
-        "title": "藤沢の住宅街で土砂崩れ のり面が高さ１０メートル - カナロコ",
+        "title": "藤沢の住宅街で土砂崩れ 台風８号影響、のり面が高さ１０メートル - カナロコ",
         "source": "カナロコ",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mSUdfNmdYREE1bHRYS3dqUWY4OXdLTGJ2LWNXRHMtTHFYbE5DXzhUQXBpLTNPNzNNb0lOS3NPenI1Y3llZWdLeUE4bXkzU2lwZzBGRjc3T3JvTDBkRmNKV2czMDZaT0U?oc=5",
         "published_at": "2026-06-27T03:00:00+00:00",
@@ -56,22 +63,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.355,
-          34.75
+          139.6921,
+          35.6896
         ]
       },
       "properties": {
-        "title": "【レベル４土砂災害危険警報】東京都・大島町に発表 12:30時点 - ｄメニューニュース",
-        "source": "ｄメニューニュース",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aelJzdlJWeDlvZTk5LXI3d21aVWU4Zy1LczF5U1RRTG5RaHlQTERlMHlDUjJQUWRjQ19IS3F6TnRFSU9aYUM5VHhsVUFUM2MwQ3VYS1UyaVBfVjV1OWRWZjFBREpKM0VhS3JoNm01QdIBdEFVX3lxTFBPdTV3ZlgtdmRFZkdBY2NKZU9kQVVKbUxNRm03bjk1akYtVm5vS2syWWRJU3ZKNi1tX29LN2ZobTdXODh2OHUzSjhfYzN5TnA4U2NpVnBnMXd6cC0xZE02cm8wX25TcVRJRjlhYjU0S1QtZm8w?oc=5",
-        "published_at": "2026-06-27T03:30:00+00:00",
-        "representative_place": "大島町役場",
-        "geocode_query": "大島町役場 東京都大島町元町",
-        "place_type": "affected_site",
-        "location_precision": "municipality",
-        "place_reason": "記事タイトルに大島町・伊豆大島が現れるため、その地域を代表する自治体所在地に置く（一致語: 大島町）",
-        "confidence": 0.78,
-        "rule_id": "tokyo_oshima_town"
+        "title": "【男性が選ぶ】子どもを進学させたい「東京都の私立大学」人気ランキング！ 2位は「早稲田大学」、1位は？（ねとらぼ） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52RUROTUZOQ0h4UXBUMHpiSXpqSjZhZGpxZkdGcU1udEtrN0p4aE9TMXNKUUFfMEVwNGVSZnBUMVpwXy1EV2wzRTJIRTM0d0pXNjRxNG0wSXZkbUNVME5ZOFVuN2hmUTdBOVQ4QWkyVFFXN3prVTVCTmYwekQ0a0U?oc=5",
+        "published_at": "2026-06-27T10:30:00+00:00",
+        "representative_place": "東京都庁",
+        "geocode_query": "東京都庁 東京都新宿区西新宿",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "東京都全域に関するニュースを代表する自治体機関の所在地（一致語: 東京都）",
+        "confidence": 0.7,
+        "rule_id": "tokyo_metropolitan_government"
       }
     }
   ]

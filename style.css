@@ -13,6 +13,7 @@ body { overflow: hidden; }
 .section-title { margin-top: 12px; font-weight: 700; font-size: 13px; }
 .topic-list { margin-top: 10px; display: grid; gap: 8px; }
 .topic-item { border-top: 1px solid #ddd; padding-top: 8px; cursor: pointer; }
+.topic-item.active { background: rgba(17,85,204,.10); border-left: 4px solid #1155cc; border-radius: 8px; padding-left: 8px; padding-right: 6px; padding-bottom: 8px; }
 .unresolved-list { margin-top: 8px; display: grid; gap: 8px; }
 .unresolved-item { border-top: 1px solid #ddd; padding-top: 8px; }
 .topic-title { font-weight: 650; }

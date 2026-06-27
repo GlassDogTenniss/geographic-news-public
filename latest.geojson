@@ -1,14 +1,14 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-27T11:20:32.246780+00:00",
-    "count": 53,
+    "created_at": "2026-06-27T11:27:57.123999+00:00",
+    "count": 59,
     "stats": {
-      "collected": 100,
-      "resolved": 66,
-      "topics": 53,
-      "unresolved": 34,
-      "deduped": 13
+      "collected": 200,
+      "resolved": 99,
+      "topics": 59,
+      "unresolved": 101,
+      "deduped": 40
     }
   },
   "features": [
@@ -17,114 +17,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.389,
-          35.6892
+          139.6816,
+          35.561
         ]
       },
       "properties": {
-        "title": "米、イラン軍事施設を空爆 前日の貨物船攻撃への報復 バンス氏「暴力には暴力で応じる」 - 産経ニュース",
-        "source": "産経ニュース",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aRHM3UURKMkRkX1RuVVdFVFo4cDFPZGJUSFc0WU9JRDlXdWhmVTdxVnJ5c0RXMVFrc0VrOFIyMWRYU3BnUGVNRmlSOUx6MUZKMkgzUGN6UkZ4M1ZzT3E0SjhXbnJzMUVONllpTWo3cG9JU1d2dHc?oc=5",
-        "published_at": "2026-06-27T00:31:46+00:00",
-        "representative_place": "イラン・テヘラン",
-        "geocode_query": "Tehran Iran",
-        "place_type": "affected_site",
-        "location_precision": "country_capital",
-        "place_reason": "記事タイトルにイランが現れるため、影響を受ける国を代表する首都に置く。具体的な軍事施設名が不明なため国の代表地点として扱う（一致語: イラン）",
-        "confidence": 0.62,
-        "rule_id": "iran_tehran"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.355,
-          34.75
-        ]
-      },
-      "properties": {
-        "title": "2つの台風と梅雨前線で雨量かさむ 九州北部や瀬戸内は5日間で1か月分の雨 - ウェザーニュース",
-        "source": "ウェザーニュース",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PdDMxcnBjYmZTQ1pvSURUdjZwbFF0aVVkNGR0UlZvT0JDQ3c3T3RkaUpnMEVwZjhlbzVNcTBIU3REY1BMeW0wTUltcnlvQnVkNUhiOQ?oc=5",
-        "published_at": "2026-06-27T08:14:00+00:00",
-        "representative_place": "伊豆諸島・大島",
-        "geocode_query": "伊豆大島 東京都大島町",
+        "title": "濱野谷憲吾が多摩川の最高勝率エンジンを獲得/ボートレース多摩川（マクール） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hZnVPTjNSM0RwYUFJb3p4Nll3ZlpWZ0k3QTFQcWlGWHlMbks4NEhOa2hpdE9Dbm9OVGltU1gxQWJmc0hsTEZ0WWdxcGI1UDNYVTN0RnRNQ1A0M1I5aXA1cGdfeHR2bVpZSGpKRWV5MmZTZUo5RFhxa3J6em5lMUU?oc=5",
+        "published_at": "2026-06-27T11:07:21+00:00",
+        "representative_place": "多摩川河川敷",
+        "geocode_query": "多摩川河川敷 東京都大田区",
         "place_type": "affected_site",
         "location_precision": "area",
-        "place_reason": "記事タイトルに伊豆諸島が現れるため、広域の代表地点として大島周辺に置く（一致語: 伊豆諸島）",
+        "place_reason": "多摩川に関する出来事・影響を代表する河川周辺地点（一致語: 多摩川）",
         "confidence": 0.68,
-        "rule_id": "izu_islands"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.4074,
-          39.9042
-        ]
-      },
-      "properties": {
-        "title": "北京の高層ビルに小型航空機衝突、操縦士１人死亡・１３人けが…現地報道 - 読売新聞",
-        "source": "読売新聞",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zU0RERDJCQXEzcDdPWFZHNGp4cEZJWFZ6dGhQNmtxSTRlOWkwX3cxTXZjbkYwSjhXZkRvSndRRW9MRU5OUkpLUVJtNVNmSFdOZVdWM284SE81WXRsNkNtTHhn?oc=5",
-        "published_at": "2026-06-27T10:08:00+00:00",
-        "representative_place": "北京市",
-        "geocode_query": "Beijing China",
-        "place_type": "event_site",
-        "location_precision": "city",
-        "place_reason": "記事タイトルに北京が現れるため、出来事の発生都市に置く（一致語: 北京）",
-        "confidence": 0.82,
-        "rule_id": "china_beijing"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          132.0737,
-          33.9382
-        ]
-      },
-      "properties": {
-        "title": "山口県平生町で裏山が崩れ住宅に土砂流入 1人が行方不明 午前6時半から捜索開始 - 日テレNEWS NNN",
-        "source": "日テレNEWS NNN",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xUlZqRmVRMU5qT1ZTQ0JHcFFEaGxieVdOTmhtcWtXc2tXcFZkZzNSUnI2NTQ4UW9pUmtaUF9WX2lpZmJEUUlLMmhWMGFyTVNIUFN1a2M4ejVzUkdUMTlwcUxYWHN5MXJjQ2dtOGprcW0tWXozbkwtSnpSZWhxM28?oc=5",
-        "published_at": "2026-06-26T21:36:01+00:00",
-        "representative_place": "平生町役場",
-        "geocode_query": "平生町役場 山口県熊毛郡平生町",
-        "place_type": "event_site",
-        "location_precision": "municipality",
-        "place_reason": "記事タイトルに山口県平生町・平生町が現れるため、災害発生地域を代表する自治体所在地に置く（一致語: 山口県平生町）",
-        "confidence": 0.82,
-        "rule_id": "yamaguchi_hirao_town"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.355,
-          34.75
-        ]
-      },
-      "properties": {
-        "title": "【台風情報】台風7号の最新進路予想を気象庁が発表 27日夜に東日本太平洋側進み伊豆諸島付近に接近 浸水や氾濫に警戒を - FNNプライムオンライン",
-        "source": "FNNプライムオンライン",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEN2FMQjFzdlNkVTlMOHZqaWRXYVBLV0MtYTI5S1dRZWk4LXhiRGZ0djFNYXByTmZBcWFXWlM5bFhSdVpxSm5US255ZnU4Zw?oc=5",
-        "published_at": "2026-06-27T08:29:00+00:00",
-        "representative_place": "伊豆諸島・大島",
-        "geocode_query": "伊豆大島 東京都大島町",
-        "place_type": "affected_site",
-        "location_precision": "area",
-        "place_reason": "記事タイトルに伊豆諸島が現れるため、広域の代表地点として大島周辺に置く（一致語: 伊豆諸島）",
-        "confidence": 0.68,
-        "rule_id": "izu_islands"
+        "rule_id": "tokyo_tamagawa"
       }
     },
     {
@@ -137,15 +45,15 @@
         ]
       },
       "properties": {
-        "title": "日本列島で相次ぐ地震　昨夜は山梨県で震度6弱の揺れを観測　日頃から備えを(気象予報士 伊藤　杏子 2026年06月27日) - tenki.jp",
-        "source": "tenki.jp",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBabVo5YjBIVVVIOWZ1NjBxLTV1cUYyMXJNRVFSVkFCZnM4WDhGdDBZZHdGSlJjbU1tVm1WYWN4SGc1NEVEVFNpRi1ibWhGalgxTC1hNFQxWFoyT25BRllxcHl2Rms5OE3SAWxBVV95cUxPR2M5ZkxBMnhjaFRZSzR5SnNWdGp6N2s1aFMxaDhxcEo1WG1ReUlZMjhnRi1rdUp0UHpicVlJLXVtR0RsN0FrMXUxWXctN1RCdVBWdS1BX0EzbzNUNVo3cVhxZ09UTlRpWWVFckE?oc=5",
-        "published_at": "2026-06-27T03:54:04+00:00",
+        "title": "山梨で震度６弱、１都４県で２１人けが…神社やビルに被害（読売新聞オンライン） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhWE12RHJlSkg2aHpITWVBdjA0MWRQUXFJYTF6bDBOREwwcGJTaVVlYVhpVDBYaTdPdzJ5aUlyOEF1YWlhR3BhZmROc3pnTnhvRVVzeHlOWi1OdjR2SUlCYzlzV2M4TTY0T2ZPN19nay1CVFdibUJfanZweFozOWM?oc=5",
+        "published_at": "2026-06-27T10:49:13+00:00",
         "representative_place": "山梨県庁",
         "geocode_query": "山梨県庁 山梨県甲府市",
         "place_type": "affected_site",
         "location_precision": "prefecture",
-        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨県）",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨）",
         "confidence": 0.7,
         "rule_id": "yamanashi_prefecture"
       }
@@ -155,45 +63,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7556,
-          35.0214
+          138.7552,
+          35.4973
         ]
       },
       "properties": {
-        "title": "【速報】京都の国道９号「老ノ坂」27日も復旧見通し立たず 京都縦貫道の一部、引き続き無料開放 - 京都新聞デジタル",
-        "source": "京都新聞デジタル",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtVTloNEx5N0pkaDZVTVZCcGZ3bW5vM1VZX3p2b2RJVEtueHY3ZHJrVl80OUFJdDFlelE3S2s5M1ZLMHZmSHU3X1FfMkZpWHNINkYzZUZpRGE?oc=5",
-        "published_at": "2026-06-27T07:02:00+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.4914,
-          35.3392
-        ]
-      },
-      "properties": {
-        "title": "藤沢の住宅街で土砂崩れ のり面が高さ１０メートル - カナロコ",
-        "source": "カナロコ",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mSUdfNmdYREE1bHRYS3dqUWY4OXdLTGJ2LWNXRHMtTHFYbE5DXzhUQXBpLTNPNzNNb0lOS3NPenI1Y3llZWdLeUE4bXkzU2lwZzBGRjc3T3JvTDBkRmNKV2czMDZaT0U?oc=5",
-        "published_at": "2026-06-27T03:00:00+00:00",
-        "representative_place": "藤沢市役所",
-        "geocode_query": "藤沢市役所 神奈川県藤沢市朝日町",
-        "place_type": "affected_site",
+        "title": "富士河口湖町で震度6弱 山梨、神奈川、静岡で13人軽傷 - 朝日新聞",
+        "source": "朝日新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KaFVhTGJyVHpIbVhTRnVwdU5ROWJKT09JVVpfS3V4LTNqTjdSSGFzSzlRdUM3cWpnOWdrRVhJR2hCSjFTOEQ1X1kwUVV4UE5xbWlNOXF4Ny1EVnZLVTlrT3JqeVlqbUk?oc=5",
+        "published_at": "2026-06-27T10:48:19+00:00",
+        "representative_place": "富士河口湖町役場",
+        "geocode_query": "富士河口湖町役場 山梨県南都留郡富士河口湖町",
+        "place_type": "event_site",
         "location_precision": "municipality",
-        "place_reason": "記事タイトルに藤沢市・藤沢が現れるため、その地域を代表する自治体所在地に置く（一致語: 藤沢）",
-        "confidence": 0.78,
-        "rule_id": "kanagawa_fujisawa_city"
+        "place_reason": "記事タイトルに富士河口湖町が現れるため、その地域を代表する自治体所在地に置く（一致語: 富士河口湖町）",
+        "confidence": 0.82,
+        "rule_id": "yamanashi_fujikawaguchiko_town"
       }
     },
     {
@@ -201,22 +86,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          140.4677,
-          37.7503
+          138.7552,
+          35.4973
         ]
       },
       "properties": {
-        "title": "福島の漁港で「港に車が落ちて車内に人影が見える」と通報…高齢夫婦が死亡、運転操作を誤り転落したか - 読売新聞",
-        "source": "読売新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4TUtWYnozS1NTYU0tdGYtQjVaN2NhbUxHNXNRb01GdjJucExVR1VMRG1Pdm5yY1I1VkdVc2ZEQ3c1azZOeUU4eXViS1o0bGM3NDg1VldxYmpEMC1QbGNEa2h1TTROQQ?oc=5",
-        "published_at": "2026-06-27T03:41:00+00:00",
-        "representative_place": "福島県庁",
-        "geocode_query": "福島県庁 福島県福島市",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに福島県・福島が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 福島）",
-        "confidence": 0.68,
-        "rule_id": "fukushima_prefecture"
+        "title": "「パニックになりそうに」震度6弱の富士河口湖町、外国人客も不安に [山梨県] - 朝日新聞",
+        "source": "朝日新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MY2hiV01jZ0FMdHlSelpRbDFPNjg4VG5ncXFzcF84TEE0V0VZeFhlR19JQ3dxWVBFblN6bzhpRGZxbDd6NXFSMFRrcUphLWV1Y2Q1OFJ0cEZyaUgza0NZb3I4VC1icnM?oc=5",
+        "published_at": "2026-06-27T10:46:45+00:00",
+        "representative_place": "富士河口湖町役場",
+        "geocode_query": "富士河口湖町役場 山梨県南都留郡富士河口湖町",
+        "place_type": "event_site",
+        "location_precision": "municipality",
+        "place_reason": "記事タイトルに富士河口湖町が現れるため、その地域を代表する自治体所在地に置く（一致語: 富士河口湖町）",
+        "confidence": 0.82,
+        "rule_id": "yamanashi_fujikawaguchiko_town"
       }
     },
     {
@@ -229,10 +114,10 @@
         ]
       },
       "properties": {
-        "title": "個人の国債保有増へ、自民に相続減税論 国民民主「NISA対象に」 - 日本経済新聞",
-        "source": "日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xZzdPWWR1MGpQbWxMM1drLUlOSFVQYVdQSVg2bXZ3cDEzREU4WDBvMmdxUUQ1Rlg0alhybUtaTGctVjN2NUg0Z2taRWllVFJMeTdna1VEVHAxWmJiMmNjNXlrakNqVW8tckthYw?oc=5",
-        "published_at": "2026-06-27T02:00:00+00:00",
+        "title": "【独自】政府「骨太方針」、日銀けん制へ - 適切な金融政策「非常に重要」 - 奈良新聞",
+        "source": "奈良新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96ckM3dDlObVhXM2d6U29CYVRiRHluTWthb2VlREVRSFQzUDdDdHBiaUFMVVROWUtmdUtIOHQ4Z0piVFpieG9EUEtOM204a2tsb2VxdnZTZUF2UGVjcGVDZW5JdE4?oc=5",
+        "published_at": "2026-06-27T10:44:47+00:00",
         "representative_place": "日本銀行本店",
         "geocode_query": "日本銀行本店 東京都中央区日本橋本石町",
         "place_type": "decision_site",
@@ -247,68 +132,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.389,
-          35.6892
+          139.703,
+          35.5308
         ]
       },
       "properties": {
-        "title": "【Ｗ杯】韓国、３位突破争いで８番手まで後退 正真正銘の崖っぷち セネガル大勝＆イランドロー…あす残り３組の結果次第 - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80Q3VoR0RKZUtWZWJjRUN5eTBsYWxLMjNKUnNIQjZ1M0dSVkhoRmIzMTBKZWJLdlFZVEdJQ3IyTHdvVUtJLUEwd3FRcFNpSU1GeGxXMDF5QUhlYlRPLWhGMTEzdXVsdkZicDltN2VoYzNaQ2Y1dW9RMWFsOTNtWWs?oc=5",
-        "published_at": "2026-06-26T21:05:14+00:00",
-        "representative_place": "イラン・テヘラン",
-        "geocode_query": "Tehran Iran",
-        "place_type": "affected_site",
-        "location_precision": "country_capital",
-        "place_reason": "記事タイトルにイランが現れるため、影響を受ける国を代表する首都に置く。具体的な軍事施設名が不明なため国の代表地点として扱う（一致語: イラン）",
-        "confidence": 0.62,
-        "rule_id": "iran_tehran"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.389,
-          35.6892
-        ]
-      },
-      "properties": {
-        "title": "サッカーW杯 エジプトが初の決勝T進出 イランと引き分け - NHKニュース",
-        "source": "NHKニュース",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yamRMSUhQZFRma0M3d0RoYXhfNzZmX1RHNXVWdzBDOV82Zy1uZGJnaXZtSUk5RzZyVEVuXy1mamtKRWFXX2I2UU5NU2k0bU1aTGVDRk84Rm1NWm9DS1Fj?oc=5",
-        "published_at": "2026-06-27T05:47:35+00:00",
-        "representative_place": "イラン・テヘラン",
-        "geocode_query": "Tehran Iran",
-        "place_type": "affected_site",
-        "location_precision": "country_capital",
-        "place_reason": "記事タイトルにイランが現れるため、影響を受ける国を代表する首都に置く。具体的な軍事施設名が不明なため国の代表地点として扱う（一致語: イラン）",
-        "confidence": 0.62,
-        "rule_id": "iran_tehran"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.7714,
-          35.6864
-        ]
-      },
-      "properties": {
-        "title": "政府「骨太方針」で日銀けん制へ",
-        "source": "Yahoo!ニュース・トピックス - 主要",
-        "link": "https://news.yahoo.co.jp/pickup/6585913?source=rss",
-        "published_at": "2026-06-27T10:37:01+00:00",
-        "representative_place": "日本銀行本店",
-        "geocode_query": "日本銀行本店 東京都中央区日本橋本石町",
-        "place_type": "decision_site",
+        "title": "大師地区　８商店街に５千枚の短冊　６月27日から「活気願い」〈川崎市川崎区・川崎市幸区〉 - ｄメニューニュース",
+        "source": "ｄメニューニュース",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbzZEd3FLSnNDcE5mV3NHZU45Uk1aNFYyMWFiMXEwYm5pVmhXeXJDM1pKQTd4V3pkVE9hNGEzMHhrVmIyTXBweWlLRXphOHc3YjJ6SW13MEItYUdvd1d2M0wyS0xDSHpnMHIyOWIwc3RJSlotRENPRHFxQ21TY1Q2aWUyaUFhSUNpaDFOOUM4TktNbEJjV2djYkRDcW9FeEo1TWVBZnRIamlLQ19ZRUZOUDU1S2E5ZkVSb2J6WHlVOW9fVDlVT19DdGR2Y01YU0lK0gGAAUFVX3lxTE56alJVZDliT0FraHFBV0VISldvQVBJOGNOX1VBSnMwS1F1czdlazJtUERsb0cwTEVaeG9HdmVEbDFnS05wTHg5a3NuOEtYMzZCYnUtQ2xSYzRTUURuY3ZiT0lNTDBzTWx1TW1CdnZzY0F4TEgzVVFRSmhQZHBFazZm?oc=5",
+        "published_at": "2026-06-27T10:40:48+00:00",
+        "representative_place": "川崎市役所",
+        "geocode_query": "川崎市役所 神奈川県川崎市川崎区宮本町",
+        "place_type": "institution_site",
         "location_precision": "building",
-        "place_reason": "金融政策を決定・発表する中心機関の所在地",
-        "confidence": 0.86,
-        "rule_id": "boj_policy"
+        "place_reason": "川崎市に関するニュースを代表する自治体機関の所在地（一致語: 川崎市）",
+        "confidence": 0.72,
+        "rule_id": "kanagawa_kawasaki_city"
       }
     },
     {
@@ -344,17 +183,109 @@
         ]
       },
       "properties": {
-        "title": "【レベル４土砂災害危険警報】東京都・大島町に発表 12:30時点 - ｄメニューニュース",
+        "title": "【台風情報】台風7号 27日夜にかけて伊豆諸島へ最接近…関東や東海地方は激しい大雨や高波に厳重警戒、山梨県の地震被災地は土砂災害に警戒【雨と風のシミュレーション】 - TBS NEWS DIG",
+        "source": "TBS NEWS DIG",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tQ21jVnBaeFNDb0lZdUhENXJqYXNqRXZTdnRROVNkWUd6b2w4MGpJdGI0UWpER05IOUJ5U2F0U2YyQVlrLUIyeUl0WDBxWlhtdG9zMFpxVU1BQQ?oc=5",
+        "published_at": "2026-06-27T10:25:00+00:00",
+        "representative_place": "伊豆諸島・大島",
+        "geocode_query": "伊豆大島 東京都大島町",
+        "place_type": "affected_site",
+        "location_precision": "area",
+        "place_reason": "記事タイトルに伊豆諸島が現れるため、広域の代表地点として大島周辺に置く（一致語: 伊豆諸島）",
+        "confidence": 0.68,
+        "rule_id": "izu_islands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4074,
+          39.9042
+        ]
+      },
+      "properties": {
+        "title": "北京ビルに小型機 1人死亡と当局",
+        "source": "Yahoo!ニュース・トピックス - 主要",
+        "link": "https://news.yahoo.co.jp/pickup/6585912?source=rss",
+        "published_at": "2026-06-27T10:22:52+00:00",
+        "representative_place": "北京市",
+        "geocode_query": "Beijing China",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "記事タイトルに北京が現れるため、出来事の発生都市に置く（一致語: 北京）",
+        "confidence": 0.82,
+        "rule_id": "china_beijing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4074,
+          39.9042
+        ]
+      },
+      "properties": {
+        "title": "北京の高層ビルに小型航空機衝突、操縦士１人死亡・１３人けが…現地報道 - 読売新聞",
+        "source": "読売新聞",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zU0RERDJCQXEzcDdPWFZHNGp4cEZJWFZ6dGhQNmtxSTRlOWkwX3cxTXZjbkYwSjhXZkRvSndRRW9MRU5OUkpLUVJtNVNmSFdOZVdWM284SE81WXRsNkNtTHhn?oc=5",
+        "published_at": "2026-06-27T10:08:00+00:00",
+        "representative_place": "北京市",
+        "geocode_query": "Beijing China",
+        "place_type": "event_site",
+        "location_precision": "city",
+        "place_reason": "記事タイトルに北京が現れるため、出来事の発生都市に置く（一致語: 北京）",
+        "confidence": 0.82,
+        "rule_id": "china_beijing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5684,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "最大震度6弱 ワインなど300本が落下の店舗も 1都3県で17人が軽いケガ 県内で震度6以上は102年ぶり 山梨（UTYテレビ山梨） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96cHE4V2lobTl6MWo0TDYzUi0xOXBfcU9YRThYOV9mdHMxMVhSWXByZWF4OW5tZXFDTTJzNFIxSGlkX2JTdkNucWpmc09yNTVmcDRWemhOYjgwbWRUdXJwQ1hnZDV3Z21KRS0xb0VnNVlxY1gtUDI5Z0t6bndOdDg?oc=5",
+        "published_at": "2026-06-27T10:04:21+00:00",
+        "representative_place": "山梨県庁",
+        "geocode_query": "山梨県庁 山梨県甲府市",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨）",
+        "confidence": 0.7,
+        "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703,
+          35.5308
+        ]
+      },
+      "properties": {
+        "title": "介護保険料見直しに尽力　浜田昌利市議が強調〈川崎市川崎区・川崎市幸区〉 - ｄメニューニュース",
         "source": "ｄメニューニュース",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aelJzdlJWeDlvZTk5LXI3d21aVWU4Zy1LczF5U1RRTG5RaHlQTERlMHlDUjJQUWRjQ19IS3F6TnRFSU9aYUM5VHhsVUFUM2MwQ3VYS1UyaVBfVjV1OWRWZjFBREpKM0VhS3JoNm01QdIBdEFVX3lxTFBPdTV3ZlgtdmRFZkdBY2NKZU9kQVVKbUxNRm03bjk1akYtVm5vS2syWWRJU3ZKNi1tX29LN2ZobTdXODh2OHUzSjhfYzN5TnA4U2NpVnBnMXd6cC0xZE02cm8wX25TcVRJRjlhYjU0S1QtZm8w?oc=5",
-        "published_at": "2026-06-27T03:30:00+00:00",
-        "representative_place": "大島町役場",
-        "geocode_query": "大島町役場 東京都大島町元町",
-        "place_type": "affected_site",
-        "location_precision": "municipality",
-        "place_reason": "記事タイトルに大島町・伊豆大島が現れるため、その地域を代表する自治体所在地に置く（一致語: 大島町）",
-        "confidence": 0.78,
-        "rule_id": "tokyo_oshima_town"
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EUEtYZ0xpMUd2ZjRwMW9GUkVUTGpSNG84djVVYUFnbzhKQmtnWXliUjRYQ2VKb0FkS3ZTUHZ1OG5zX1poaGRKZ1BraW5EVVI4WVZuTnRhaGFxenJQWnlmbldiNklNUkxqLURzV1RIclgyUGNna2FsSE9zc9IBgAFBVV95cUxOUGlMMWlXVS05cFRVeXZxTmRkWEliWl83MVhWbHhYN3R0WDNRYzB0ZEg3Yk5Tbk5mcTk1dkZTQUstUnRLbVhtdHktREVnaDNENm5xTXV2Z1lKX3hGdU1TMDdUQTlwN3RGTWZTYndKbUU3YWU5U0NiZFExMWx1SUF6Yg?oc=5",
+        "published_at": "2026-06-27T10:00:00+00:00",
+        "representative_place": "川崎市役所",
+        "geocode_query": "川崎市役所 神奈川県川崎市川崎区宮本町",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "川崎市に関するニュースを代表する自治体機関の所在地（一致語: 川崎市）",
+        "confidence": 0.72,
+        "rule_id": "kanagawa_kawasaki_city"
       }
     },
     {
@@ -362,22 +293,229 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.2823,
-          34.529
+          138.5684,
+          35.6639
         ]
       },
       "properties": {
-        "title": "【レベル４土砂災害危険警報】東京都・利島村に発表 14:15時点 - au Webポータル",
+        "title": "【更新終了】山梨県で震度6弱 最新情報まとめ - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DNjMxV2hTNE5QM0czWlA2V2lBQ04tamgzTWpLYmZ2VVFsakpwNHlKbjFKTFBuaE11dGZJejB0ZTZ4MGRySVM3azFadndMdV95?oc=5",
+        "published_at": "2026-06-27T10:00:00+00:00",
+        "representative_place": "山梨県庁",
+        "geocode_query": "山梨県庁 山梨県甲府市",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨県）",
+        "confidence": 0.7,
+        "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5684,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "山梨 震度6弱 “今後1週間程度注意 土砂災害にも注意” 気象庁 - NHKニュース",
+        "source": "NHKニュース",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CNzJBUzZlRGdJT19rQVkxNkhoam13bF9CUmdzNnB1aE94dmJ0WFBrd1hubk84TlVna1dqdEQza0ZnSkNUSjNZZjVTeVpwUnFQQWdXOWZwX1JGV29CY1F3?oc=5",
+        "published_at": "2026-06-27T09:56:21+00:00",
+        "representative_place": "山梨県庁",
+        "geocode_query": "山梨県庁 山梨県甲府市",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨）",
+        "confidence": 0.7,
+        "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7447,
+          35.6758
+        ]
+      },
+      "properties": {
+        "title": "法案や決議案の策定を指揮・促進し、進捗と質の双方を確保することに重点を置く。 - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQkZVc3hGZm9XV18tUVktRmJidV9jdk5rT3d3TUc0Q3dkNUpiamc5ek9ETFdyejBQOXlnNjBlUG5Sd3RtMU9wVVdNbVNpX0k5Y2NsamJRalJ5NmtRVWlHZW5zRWxvZ1BJWU9PMjVmZG9TZlVGS1lqcmw1SldxM1dIeFZoX3djdDV3SGtMWVp2Yy1oOEVSOS1hVHh5Q3Y1WmRPbGtSMEQ1eGNEdDdsQWZ5WTJFUTRocS1wclozaTdpbw?oc=5",
+        "published_at": "2026-06-27T09:53:03+00:00",
+        "representative_place": "国会議事堂",
+        "geocode_query": "国会議事堂 東京都千代田区永田町",
+        "place_type": "decision_site",
+        "location_precision": "building",
+        "place_reason": "法律・国会審議に関するニュースの制度的な決定地点",
+        "confidence": 0.78,
+        "rule_id": "national_diet_bill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7714,
+          35.6864
+        ]
+      },
+      "properties": {
+        "title": "骨太方針、利上げ志向の日銀けん制へ - nnn.co.jp",
+        "source": "nnn.co.jp",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BMHFDRGQ4X1psSkhYNWpLX1BKV2VEWTVMYWJGZUt1Q2xpSlVKaXBYaHNPdnFPcVh5b1Y3SVZkVG5NMHlScHJmNGtnUzd5YWhh?oc=5",
+        "published_at": "2026-06-27T09:51:18+00:00",
+        "representative_place": "日本銀行本店",
+        "geocode_query": "日本銀行本店 東京都中央区日本橋本石町",
+        "place_type": "decision_site",
+        "location_precision": "building",
+        "place_reason": "金融政策を決定・発表する中心機関の所在地",
+        "confidence": 0.86,
+        "rule_id": "boj_policy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7556,
+          35.0214
+        ]
+      },
+      "properties": {
+        "title": "【独自】政府「骨太方針」、日銀けん制へ - 京都新聞デジタル",
+        "source": "京都新聞デジタル",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13WjBGZVdSMlNZM3dkWFZiY1JQczM5X0JtWU1IS2xFRVk2YjhOcGZYalFCeTdGY0dvaXZmOUVRMVpMTXFkUTdsNnJ1bW5tMmtobEV5cHMyTURHTU0?oc=5",
+        "published_at": "2026-06-27T09:46:22+00:00",
+        "representative_place": "京都府庁",
+        "geocode_query": "京都府庁 京都府京都市上京区",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
+        "confidence": 0.7,
+        "rule_id": "kyoto_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5684,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "茨城 岩手 千葉 山梨…相次ぐ地震 専門家“関連ないが備えを” - NHKニュース",
+        "source": "NHKニュース",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yanF5b1YtbGRTbm5JRDRpUTZLbjRZWGo4b2pwQWpvNk5sTHcxUTlGTC1CQkt4U1d3Z3E2LVVKVmxiUUUzeTE1UWJ1ZHc3UE1tUzAzQTR0REVNWDJQQWh3?oc=5",
+        "published_at": "2026-06-27T09:38:20+00:00",
+        "representative_place": "山梨県庁",
+        "geocode_query": "山梨県庁 山梨県甲府市",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨）",
+        "confidence": 0.7,
+        "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5684,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "「今後1週間は震度6弱程度の地震に注意」気象庁が呼びかけ 山梨で最大震度6弱 墓石や灯ろうが壊れるなどの被害 1都3県であわせて17人がけが - TBS NEWS DIG",
+        "source": "TBS NEWS DIG",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SajlYdS1vcXdSTWdMaVVoNUZ0RTVYeHQxaTRxdjh0MXU4Skl5b0NVejJHWURPalU1TE12dWloM3B5dEVuVlhIM2JfT05tRVc1TXpzVExYRQ?oc=5",
+        "published_at": "2026-06-27T09:14:20+00:00",
+        "representative_place": "山梨県庁",
+        "geocode_query": "山梨県庁 山梨県甲府市",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨）",
+        "confidence": 0.7,
+        "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5684,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "山梨・震度6弱の地震から一夜…これまでに8人ケガ 地蔵落下や灯ろうが倒れる被害も - au Webポータル",
         "source": "au Webポータル",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JOEQzNWxKUUNxTzFpbG13VFNfbEo2dXNDOWpGaUFMMnpRUXNZVXJnSkdTZUxUTG1rQzk0XzdLQVRMX0l0WFRsa3lIdEVZMU5wRVc2dWFQWUVoYVFIbXJ4Ukdrc3F4YUN5Yk10N181NTdVbEg3WGEwX01wZw?oc=5",
-        "published_at": "2026-06-27T05:15:00+00:00",
-        "representative_place": "利島村役場",
-        "geocode_query": "利島村役場 東京都利島村",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4UGNLT0FDSlRWSjdQWWk1UzMxOUJpLTltdzdyZGhub0RnVUNoLVpFMV9NcGFxejVHdUhhT2pMc0ZtR1pnQ2JTdnZLQnBaMkVwVm53cmhCS3ZjNno4MWFTTHpXT0lWb245R0s0QnNvUFUwdF80Vk82MC14WQ?oc=5",
+        "published_at": "2026-06-27T09:13:00+00:00",
+        "representative_place": "山梨県庁",
+        "geocode_query": "山梨県庁 山梨県甲府市",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨）",
+        "confidence": 0.7,
+        "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7447,
+          35.6758
+        ]
+      },
+      "properties": {
+        "title": "野党が全法案審議に応じない方針、自民ベテラン「先が見通せず打開策がない」…国会が緊迫化（読売新聞オンライン） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxdnlGbndBNDRycmhna1RDLUxNYnNuczhhQUNzUVdNSXNOeXlrc2NteGhSRmZDeWNRNG5MZmk4d0M2Q29jOGw4dURkaDQwMTFldXBHaHFWeHFraGdkVjdwLWVpRndMcGk1TnBGdGVGTVo1SF92SVFzTU1oN3B4UEk?oc=5",
+        "published_at": "2026-06-27T09:05:30+00:00",
+        "representative_place": "国会議事堂",
+        "geocode_query": "国会議事堂 東京都千代田区永田町",
+        "place_type": "decision_site",
+        "location_precision": "building",
+        "place_reason": "法律・国会審議に関するニュースの制度的な決定地点",
+        "confidence": 0.78,
+        "rule_id": "national_diet_bill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6532,
+          35.6466
+        ]
+      },
+      "properties": {
+        "title": "関根大輝がドイツ２部へ 欧州サッカー - 二子玉川経済新聞",
+        "source": "二子玉川経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kR2NHX2lVTTlVdDduWmFDc2ozZ1B6X3pOcFVmU1JHUm40OTJTVU5MdnNqTjBhbFU4WmtmclJoNC03cGplVm9IbG5hU0d5enp0N2FzRjF3?oc=5",
+        "published_at": "2026-06-27T09:01:45+00:00",
+        "representative_place": "世田谷区役所",
+        "geocode_query": "世田谷区役所 東京都世田谷区世田谷",
         "place_type": "affected_site",
         "location_precision": "municipality",
-        "place_reason": "記事タイトルに利島村・利島が現れるため、その地域を代表する自治体所在地に置く（一致語: 利島村）",
-        "confidence": 0.78,
-        "rule_id": "tokyo_toshima_village"
+        "place_reason": "記事タイトルに世田谷区内の地名が現れるため、区の代表地点に置く（一致語: 二子玉川）",
+        "confidence": 0.66,
+        "rule_id": "tokyo_setagaya_city"
       }
     },
     {
@@ -385,22 +523,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.1345,
-          34.2056
+          139.6921,
+          35.6896
         ]
       },
       "properties": {
-        "title": "【波浪警報】東京都・利島村、新島村、神津島村などに発表 13:10時点 - Excite エキサイト",
-        "source": "Excite エキサイト",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RcTV1V0lSRl9jRHJpYzRicGxyZ0kxcnQzYWpnelhla2VCVklGRC01dnlZVms3dU5DbS1DS3Y0TTl5OHNtV0dJTk1XTXR2T1dtRlhBaWpTNGNsRzhoQTRmeThLYWk3Zm96WFQ4MDJQSGpoNGc?oc=5",
-        "published_at": "2026-06-27T04:19:00+00:00",
-        "representative_place": "神津島村役場",
-        "geocode_query": "神津島村役場 東京都神津島村",
+        "title": "台風7号、東海・関東に接近「27日午後9時には千葉県の東で温帯低気圧に変わる予想。夜のうちには抜けていく」 - ABEMA TIMES",
+        "source": "ABEMA TIMES",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JQlIyU0pUN25zSFVBdWxQSXFhRUJIUWl5UUowZ0NCd29FeEY2TTZOeE9lTWc2dUc2NldWVG11cXpOQlVad2ZSNXlNVEd2SmJ1Nldhcw?oc=5",
+        "published_at": "2026-06-27T08:54:00+00:00",
+        "representative_place": "東京都庁",
+        "geocode_query": "東京都庁 東京都新宿区西新宿",
         "place_type": "affected_site",
-        "location_precision": "municipality",
-        "place_reason": "記事タイトルに神津島村・神津島が現れるため、その地域を代表する自治体所在地に置く（一致語: 神津島村）",
-        "confidence": 0.78,
-        "rule_id": "tokyo_kozushima_village"
+        "location_precision": "region",
+        "place_reason": "記事タイトルに関東が現れるため、広域影響を代表させる地点として東京都庁に置く（一致語: 関東）",
+        "confidence": 0.58,
+        "rule_id": "kanto_region"
       }
     },
     {
@@ -408,22 +546,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7556,
-          35.0214
+          51.389,
+          35.6892
         ]
       },
       "properties": {
-        "title": "【PR】尾瀬・三陸・やんばるをフィールドに——東京都と淑徳大学、自然資源で観光人材育てる無料講座を9月開講 - 観光経済新聞",
-        "source": "観光経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3ME4yZ1FRYmJZWlpadTE3WEhLRGh5NDMzV2JEeW8yQnA1c2lKem1NVzNUS196NTBJenZ0RmVVSXNqQ2xXSllzUldrR2JXRVpPNk5zRk84N1dnNktvS0ZrdFN3UXFNeG0zaHg3aA?oc=5",
-        "published_at": "2026-06-27T05:04:18+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
+        "title": "韓国、崖っぷちに立たされる 3位通過は残り3枠 W杯、1次リーグは残り6試合 - 産経ニュース",
+        "source": "産経ニュース",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaW5rVkd1bDhCTGYzaEV5RXkwYnpDVFgxUTZHUFpoMTlqYmtCczZtcGR5Q0hFeDhNVE5ZTjlIRkIyVG1pZ01FZE9CUEdsaWQyUkVvbldKVzZleXotMl9jbTMwLWJsSm5WWnh1ZS1Semk4SGhHRTV3eUhoa2RBU1RIbXhmZGs2bTVYUnNmU0pBdUV5NTdJQmYyakFiZXN2SmJ1UEt2a2t1Zw?oc=5",
+        "published_at": "2026-06-27T08:48:15+00:00",
+        "representative_place": "イラン・テヘラン",
+        "geocode_query": "Tehran Iran",
         "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルにイランが現れるため、影響を受ける国を代表する首都に置く。具体的な軍事施設名が不明なため国の代表地点として扱う（一致語: イラン）",
+        "confidence": 0.62,
+        "rule_id": "iran_tehran"
       }
     },
     {
@@ -431,22 +569,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7556,
-          35.0214
+          138.7274,
+          35.3606
         ]
       },
       "properties": {
-        "title": "【中学受験】【高校受験】東京都私立学校展8/29-30…全415校 1枚目の写真・画像 - リセマム",
-        "source": "リセマム",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IdUhvV0JMcC1nTnBkb3dWd3JoVk03cEVuakpza1JzVWVvOURrVjQ5aDJmZk93MFNobmxPRzhYRHJwdnlsQkFBdVpKSWNIelh3bzFPX1pRMkNHVVdmOWtGVkhXSlR4WUlScnNz?oc=5",
-        "published_at": "2026-06-25T08:15:03+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
+        "title": "富士山の火山活動、気象庁「特段の変化はない」「心配はしていない」…山梨震度６弱受け - 読売新聞",
+        "source": "読売新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04OVBTWFJFR3dwZFlncW5pQnp4c0E0eVZaZGN1TGVva2FKUWtjSDczNTJDaUxVNVJ3VEpxa0lreFBDbUdRX3ZmanBDNEFGeWZmTXdxd0pKaTFCTHJsNEhJa2UydkQ?oc=5",
+        "published_at": "2026-06-27T08:47:00+00:00",
+        "representative_place": "富士山",
+        "geocode_query": "富士山",
         "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
+        "location_precision": "landmark",
+        "place_reason": "記事タイトルに富士山が現れるため、対象となる山体の代表地点に置く（一致語: 富士山）",
+        "confidence": 0.86,
+        "rule_id": "mt_fuji"
       }
     },
     {
@@ -454,22 +592,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7556,
-          35.0214
+          51.389,
+          35.6892
         ]
       },
       "properties": {
-        "title": "東京都が困難女性支援の補助事業者５団体を決定 - 福祉新聞Web",
-        "source": "福祉新聞Web",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vR2tPemxSYi1zNXhQMWJsa1l5SnduMkxjaEpWdGFkTWZCQzFxZ1JaU3A5LUhEQlUyLWhpbzhyZnlXRmlXa2NXSDBlazVmMWVodnZjM0YxRWI?oc=5",
-        "published_at": "2026-06-26T01:26:10+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
+        "title": "イラン 米の空爆は覚書違反と非難",
+        "source": "Yahoo!ニュース・トピックス - 国際",
+        "link": "https://news.yahoo.co.jp/pickup/6585900?source=rss",
+        "published_at": "2026-06-27T08:45:15+00:00",
+        "representative_place": "イラン・テヘラン",
+        "geocode_query": "Tehran Iran",
         "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルにイランが現れるため、影響を受ける国を代表する首都に置く。具体的な軍事施設名が不明なため国の代表地点として扱う（一致語: イラン）",
+        "confidence": 0.62,
+        "rule_id": "iran_tehran"
       }
     },
     {
@@ -477,45 +615,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7556,
-          35.0214
+          138.5684,
+          35.6639
         ]
       },
       "properties": {
-        "title": "東京都の過去の天気(実況天気・2026年06月26日) - tenki.jp",
-        "source": "tenki.jp",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNWmJzbGJNRzRYWVJQU1BJU003QnFpSnVyb19kTUh0VHlvQzU4VGN3NjVqRV9xUnpaUldSZnJIYWUtZ3Z3cmdfSWR1bHNWWE81ZWxyRnJabHpPZw?oc=5",
-        "published_at": "2026-06-26T15:44:24+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "東京都「2035年までにバイクを100％非ガソリン化」 電動化に向けた整備体制を強化 バイクショップと整備業界が「EVバイク整備環境委員会」結成 - バイクのニュース",
-        "source": "バイクのニュース",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBUFltRHBGeUZMcEt4RzBDYTAtU0FZX0Nnc0l2T1poRGozQTVYSzI1b3N6WFBmc0VVeHRGb3R1LVNtMVNtU2pB?oc=5",
-        "published_at": "2026-06-26T03:27:20+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
+        "title": "山梨“最大震度6弱”けが1都3県で19人に 大きな揺れ…外壁落ちる“瞬間映像” - テレ朝NEWS",
+        "source": "テレ朝NEWS",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04SlAyS1BKX2pLbGRoNGhtVXY3akM3QnhTXy1iNzk3SXRmcVJ4dkh5TXZsNTdCU0ZNZEJCLWJOVmhzMGt1TWEzRjBrNkRBUWtfZ0ZUSzNSOWJOcURhbDlScXpNaVVZcVBkYVFaX2lnb3dvdw?oc=5",
+        "published_at": "2026-06-27T08:29:05+00:00",
+        "representative_place": "山梨県庁",
+        "geocode_query": "山梨県庁 山梨県甲府市",
         "place_type": "affected_site",
         "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨）",
         "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
+        "rule_id": "yamanashi_prefecture"
       }
     },
     {
@@ -523,38 +638,268 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7556,
-          35.0214
+          139.355,
+          34.75
         ]
       },
       "properties": {
-        "title": "【30万人突破】東京都と日本動画協会が運営の「アニメ東京ステーション」（池袋で入場無料） - 美術展ナビ",
-        "source": "美術展ナビ",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uWjhqYXlzcnN5WXBEMVZmX0J5VksyTkRzblU3LXZxc25HMTBiam1EWk9UdllsREtBSk9FdEt3Tk5BdDlJbndwUjVIY1JHbUpyYXZWaWJDWUE5SFRndzN0NDh4S3JqSXdy?oc=5",
-        "published_at": "2026-06-26T15:03:00+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "【台風情報】東京はダブル台風できょう夕方から浸水や氾濫に警戒を 気象庁の東京都気象解説情報 8号は朝7号は夕方から夜最接近 - FNNプライムオンライン",
+        "title": "【台風情報】台風7号の最新進路予想を気象庁が発表 27日夜に東日本太平洋側進み伊豆諸島付近に接近 浸水や氾濫に警戒を - FNNプライムオンライン",
         "source": "FNNプライムオンライン",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QNmdpZ19NYU5MZG8tbXhsamNuLVpIczNoQ19jWXVFcVdvdTVPbnBkLVl0NzVwSnJCVlBaZ1A0VHA1cmMwWERWNUkxeFhXdw?oc=5",
-        "published_at": "2026-06-26T21:40:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEN2FMQjFzdlNkVTlMOHZqaWRXYVBLV0MtYTI5S1dRZWk4LXhiRGZ0djFNYXByTmZBcWFXWlM5bFhSdVpxSm5US255ZnU4Zw?oc=5",
+        "published_at": "2026-06-27T08:29:00+00:00",
+        "representative_place": "伊豆諸島・大島",
+        "geocode_query": "伊豆大島 東京都大島町",
+        "place_type": "affected_site",
+        "location_precision": "area",
+        "place_reason": "記事タイトルに伊豆諸島が現れるため、広域の代表地点として大島周辺に置く（一致語: 伊豆諸島）",
+        "confidence": 0.68,
+        "rule_id": "izu_islands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5684,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "山梨の地震で相模原など震度５弱 神奈川県内２人けが 中井町で土砂崩落（カナロコ by 神奈川新聞） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBILTVkRm9fYk9sZ21Tcml4TGxQbDZlWDhSLTVoOWRlVlJvazZwdXFhZlJOd0Znb1RhRW5kTVhzVTZSN0lPb1ByMFZJU3N0RUxlZjlza2V1ZUZxeDFST2E3S3Rxd2RhQTVsaHZYN1hZbUFuNWRYbG5sd2NJU1Qya3M?oc=5",
+        "published_at": "2026-06-27T08:14:02+00:00",
+        "representative_place": "山梨県庁",
+        "geocode_query": "山梨県庁 山梨県甲府市",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨）",
+        "confidence": 0.7,
+        "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.355,
+          34.75
+        ]
+      },
+      "properties": {
+        "title": "2つの台風と梅雨前線で雨量かさむ 九州北部や瀬戸内は5日間で1か月分の雨 - ウェザーニュース",
+        "source": "ウェザーニュース",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PdDMxcnBjYmZTQ1pvSURUdjZwbFF0aVVkNGR0UlZvT0JDQ3c3T3RkaUpnMEVwZjhlbzVNcTBIU3REY1BMeW0wTUltcnlvQnVkNUhiOQ?oc=5",
+        "published_at": "2026-06-27T08:14:00+00:00",
+        "representative_place": "伊豆諸島・大島",
+        "geocode_query": "伊豆大島 東京都大島町",
+        "place_type": "affected_site",
+        "location_precision": "area",
+        "place_reason": "記事タイトルに伊豆諸島が現れるため、広域の代表地点として大島周辺に置く（一致語: 伊豆諸島）",
+        "confidence": 0.68,
+        "rule_id": "izu_islands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5684,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "震度1 山梨県東部・富士五湖 2026年06月27日16:57ごろ 地震詳細 | 長崎のニュース | 天気 | NBC長崎放送 - TBS NEWS DIG",
+        "source": "TBS NEWS DIG",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaDFwZXJqekZlbk1ISnFBeklqck1fQlhkU3dzeWNxWW9ES250TnVNVzFqV2tYZk1WTUROM0Fva0VNNWlCbE9CMU1pX1pjenpNNlZKRFhsSU5uSDJfa1NJdDA4UnFNTjA4TlpHYWZLZkxhNlk4bDUyZzVWa3dXZEJ1OGxsaHZKWUk?oc=5",
+        "published_at": "2026-06-27T08:12:24+00:00",
+        "representative_place": "山梨県庁",
+        "geocode_query": "山梨県庁 山梨県甲府市",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨県）",
+        "confidence": 0.7,
+        "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5684,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "山梨県で最大震度1の地震 山梨県・大月市（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hNUJkVTBkWkdVWEFkcUFUTzBRSWMtTkwzbGZaNndCVWdLX1pVdWhSMEVCQ25peUlRU2thRFNRVFY0TWZILWpvZjJnc1l5aDlJZk1naGtiSlhiY09Db2kwMFJwemNKckpETzhBZktSb0taeWdKbFpaTkZ0N0NLcEk?oc=5",
+        "published_at": "2026-06-27T08:02:13+00:00",
+        "representative_place": "山梨県庁",
+        "geocode_query": "山梨県庁 山梨県甲府市",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨県）",
+        "confidence": 0.7,
+        "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7447,
+          35.6758
+        ]
+      },
+      "properties": {
+        "title": "首相：法案および決議案を早急に最終決定し、質、適時性、有効性を確保すること。 - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNW92RGRyb0VYX1BtVlZBNjhSUUFIaWhSb0JUQU0yVWVmTndna0EwVGZuaXRBbk1OMHo0dDVKUGRadzdOU28ybHQ4LWZEOFJLOVZEUmZBOE9rNVNxMF9zQ2EzbXo0d1RlcmZNblEyTlN5OXE0ak92OUoycnN4Y2pQbXNBS2I0dXdra1gzNmp1Y2xLSHFVeHZKeHF3emc0ZmR3Rno4dDdZVzdLT3JBcm5mWUlRVkVhbTg?oc=5",
+        "published_at": "2026-06-27T08:02:08+00:00",
+        "representative_place": "国会議事堂",
+        "geocode_query": "国会議事堂 東京都千代田区永田町",
+        "place_type": "decision_site",
+        "location_precision": "building",
+        "place_reason": "法律・国会審議に関するニュースの制度的な決定地点",
+        "confidence": 0.78,
+        "rule_id": "national_diet_bill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5684,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "山梨県で最大震度1の地震 山梨県・大月市（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FaUY1Rml5TkxmLVEzUnlJQWxfUkdxWXZBdHJQUkhDTTlUR2JKNDNKTW0tOGJNdGVwYUxmZEJOajJkX0YtdXpQVDVfUVlaNFo3THRnRmZoVVRfMmNLREVScXBCc3RTTXJpVncyamJvUWI5eWlIRHVWaFJSU1V1Njg?oc=5",
+        "published_at": "2026-06-27T08:01:31+00:00",
+        "representative_place": "山梨県庁",
+        "geocode_query": "山梨県庁 山梨県甲府市",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨県）",
+        "confidence": 0.7,
+        "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6921,
+          35.6896
+        ]
+      },
+      "properties": {
+        "title": "台風7号は今夜関東に最接近 警戒",
+        "source": "Yahoo!ニュース・トピックス - 国内",
+        "link": "https://news.yahoo.co.jp/pickup/6585887?source=rss",
+        "published_at": "2026-06-27T07:40:27+00:00",
+        "representative_place": "東京都庁",
+        "geocode_query": "東京都庁 東京都新宿区西新宿",
+        "place_type": "affected_site",
+        "location_precision": "region",
+        "place_reason": "記事タイトルに関東が現れるため、広域影響を代表させる地点として東京都庁に置く（一致語: 関東）",
+        "confidence": 0.58,
+        "rule_id": "kanto_region"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703,
+          35.5308
+        ]
+      },
+      "properties": {
+        "title": "夕焼けのチャイムまで | 川崎市宮前区土橋(宮前平駅)の物件トップ【cowcamo】 - cowcamo.jp",
+        "source": "cowcamo.jp",
+        "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPd2dVdDVOZ2tNQjhFdnk2dVVJS0x1S3NkWEM5Q3JLM0VUMGtvb0ZOd21oTkZ6M09oQVRaYjFGZW1FTXhWM0JzY1JqQnlCSzJYdDBYdzIxLV9oN1B4UkVPWnoxSjhsbGFlaHV2MjFUUkJTUl84QUZEb2FoVkkzT0NGNnRVU0dXOHA4djJKSVlaNjVSVWRXWkdNZTlBSEZLQ2VxMWZSX1dLaFg0N0ZTN1M2c2RlWjBWM21kOW1CaXk1ZGRZelJhUENBT05JWThCRWJFbkk2RmxSSDg2bXBKZHhhTzVHVENMVTJlSV9xZms5bW8ycTV5WG16WUt3NnRrSVBnNXY0OUJzVmo4X1ZZN2Rpdk04Si1fMDI2TGNnWG9weG1LbGxpVDJwVg?oc=5",
+        "published_at": "2026-06-27T07:26:26+00:00",
+        "representative_place": "川崎市役所",
+        "geocode_query": "川崎市役所 神奈川県川崎市川崎区宮本町",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "川崎市に関するニュースを代表する自治体機関の所在地（一致語: 川崎市）",
+        "confidence": 0.72,
+        "rule_id": "kanagawa_kawasaki_city"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6921,
+          35.6896
+        ]
+      },
+      "properties": {
+        "title": "台風7号は今夜27日関東地方に最も接近　大雨による土砂災害や低い土地の浸水に警戒(気象予報士 伊藤　杏子 2026年06月27日) - tenki.jp",
+        "source": "tenki.jp",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Td0h1SXIxWjdBamxiOFpMTnEzLXBaSS01Rk8wLVl6ZUt1eDNfOEpfZ3Z0SWNfdkFoT3I1VXhBOFM4NjFoNTJJa2RHelVKZUNDbHdidl9jOHk2MnozVTRoWWJIcUFhUHfSAWxBVV95cUxQM3VONVhLUmhsckI3b2hjSDdSZTJfZDlvOGFyQjVSUW9VWGtOMXJFcmRMWFZ0LXVJR0NSN2NkeWR2RFNZU2s5Rzc3QXlOSG1Pckl0cFNZS0tqTU02US0yLXpiamcxd19mSFJLV0Y?oc=5",
+        "published_at": "2026-06-27T07:08:28+00:00",
+        "representative_place": "東京都庁",
+        "geocode_query": "東京都庁 東京都新宿区西新宿",
+        "place_type": "affected_site",
+        "location_precision": "region",
+        "place_reason": "記事タイトルに関東が現れるため、広域影響を代表させる地点として東京都庁に置く（一致語: 関東地方）",
+        "confidence": 0.58,
+        "rule_id": "kanto_region"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6816,
+          35.561
+        ]
+      },
+      "properties": {
+        "title": "【ボート】多摩川 黄金井力良が素性の確かな２８号機を獲得「楽しみですね」（デイリースポーツ） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15NjR3UlQ2Sk9fSkd3YW14V0Q3OGZEdXk1eV9MTUtzZlJvZ193NTNXUkI0THAxZXU3eGttd2dXNGhEUTljLVowbXVuakFhTV8ybkhobU90aUktMUx3N0l2T0ctZy1SUG93bURCLTNEcHg3QWhWb2U4VS1UbVhJN3M?oc=5",
+        "published_at": "2026-06-27T07:05:55+00:00",
+        "representative_place": "多摩川河川敷",
+        "geocode_query": "多摩川河川敷 東京都大田区",
+        "place_type": "affected_site",
+        "location_precision": "area",
+        "place_reason": "多摩川に関する出来事・影響を代表する河川周辺地点（一致語: 多摩川）",
+        "confidence": 0.68,
+        "rule_id": "tokyo_tamagawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7556,
+          35.0214
+        ]
+      },
+      "properties": {
+        "title": "【速報】京都の国道９号「老ノ坂」27日も復旧見通し立たず 京都縦貫道の一部、引き続き無料開放 - 京都新聞デジタル",
+        "source": "京都新聞デジタル",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtVTloNEx5N0pkaDZVTVZCcGZ3bW5vM1VZX3p2b2RJVEtueHY3ZHJrVl80OUFJdDFlelE3S2s5M1ZLMHZmSHU3X1FfMkZpWHNINkYzZUZpRGE?oc=5",
+        "published_at": "2026-06-27T07:02:00+00:00",
         "representative_place": "京都府庁",
         "geocode_query": "京都府庁 京都府京都市上京区",
         "place_type": "affected_site",
@@ -569,15 +914,130 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          138.5684,
+          35.6639
+        ]
+      },
+      "properties": {
+        "title": "山梨・富士吉田市 地震で外壁はがれ落ちる瞬間（ABEMA TIMES） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1ZE5ld2dWLURVYkhlV3JxWUdoeHd6clUtWWpXNjlEd0stbUpxNk9UckVRVUVBNEtwSXhDY0duYzY0OE9TMXJVSGtuMnJLNC0xV0VPOHZQSFFaeW1GbDZXV2V4Y3RKNmF0MGFSRDFmeUZ5TTZJSVVfZjBKeGpkLVE?oc=5",
+        "published_at": "2026-06-27T06:57:19+00:00",
+        "representative_place": "山梨県庁",
+        "geocode_query": "山梨県庁 山梨県甲府市",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨）",
+        "confidence": 0.7,
+        "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6532,
+          35.6466
+        ]
+      },
+      "properties": {
+        "title": "好投した松井 大リーグ - 二子玉川経済新聞",
+        "source": "二子玉川経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54bTYyZ0IxckFnMExBempIT3pzMXczVzJwNEtHTkhmZmh4RWp0RWVSanBNbEt1OTl1VUgwcGd5UnRJSmRPd1l3TEtuZHlnMjhwWlJXSXpn?oc=5",
+        "published_at": "2026-06-27T06:56:27+00:00",
+        "representative_place": "世田谷区役所",
+        "geocode_query": "世田谷区役所 東京都世田谷区世田谷",
+        "place_type": "affected_site",
+        "location_precision": "municipality",
+        "place_reason": "記事タイトルに世田谷区内の地名が現れるため、区の代表地点に置く（一致語: 二子玉川）",
+        "confidence": 0.66,
+        "rule_id": "tokyo_setagaya_city"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6816,
+          35.561
+        ]
+      },
+      "properties": {
+        "title": "【多摩川ボート 5日間開催】26年後期勝率7・01の内堀学に注目「しっかり合わせる」（スポニチアネックス） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PT2NBZWJqb2lpM2VkV1RJQ2duUk84Tnh1dXgyR0VUZmdMR2xhX2g0dFdGcjJrbVM1OGxxRlljWGY0cnhIak5SYWhYQXhXMEdCRzB4UGh4UUZHeEN5VjlMdjNpbDNrTWtXajFfTDZ2UE1xWktOa3pOR2c3V0lDU0E?oc=5",
+        "published_at": "2026-06-27T06:53:51+00:00",
+        "representative_place": "多摩川河川敷",
+        "geocode_query": "多摩川河川敷 東京都大田区",
+        "place_type": "affected_site",
+        "location_precision": "area",
+        "place_reason": "多摩川に関する出来事・影響を代表する河川周辺地点（一致語: 多摩川）",
+        "confidence": 0.68,
+        "rule_id": "tokyo_tamagawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716,
+          35.5613
+        ]
+      },
+      "properties": {
+        "title": "大田区 水防監視カメラ : ブログ : - komei.or.jp",
+        "source": "komei.or.jp",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ1h0Z1FEVTB2YnM5elhoSldMQXA3SkFHREstU3lhdmxBa1VzWjItcGV6REhxVkk4anhPLUZpaUFhYXdjelpCeTlWUGdxTDlRd1EyUHJFRGRmM2FCUFpaRGNMdlVqUXZPSDEzendFa21iWGZYOURjSkFESDZrRDlfbDQ1bmh0QUxhNmhtYzkwb1hyU2pkZEctdS1ZcGNkUEFvOVpPbEZyYld2VWZxemNaenRJejFta3FEWTdjenRlQk52ODVjMlBCOER2S1hlZ0c4LVgwZVdoMHFleU9RV1o5QzZDN3pLa3BuRjI0UjRaLWNwUFQy?oc=5",
+        "published_at": "2026-06-27T06:40:00+00:00",
+        "representative_place": "大田区役所",
+        "geocode_query": "大田区役所 東京都大田区蒲田",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "大田区に関するニュースを代表する自治体機関の所在地（一致語: 大田区）",
+        "confidence": 0.72,
+        "rule_id": "tokyo_ota_city"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6816,
+          35.561
+        ]
+      },
+      "properties": {
+        "title": "＃狛江市長選挙 ＃松原としお 多摩川住宅で、新しい温水プール付きグランドと体育館スポーツ施設を語る - 選挙ドットコム",
+        "source": "選挙ドットコム",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54clBrX3F6OFc0UTJvZ3lWZHNVR1RRR0Fua0MyVHF2MDE5UU55dDhWSFI3Wk9ESDNnSEJSQnBDdW9KWmp6ZDR3NDBfSjFEWWNPLW5feEV1dndOeUx2NkpN?oc=5",
+        "published_at": "2026-06-27T06:33:26+00:00",
+        "representative_place": "多摩川河川敷",
+        "geocode_query": "多摩川河川敷 東京都大田区",
+        "place_type": "affected_site",
+        "location_precision": "area",
+        "place_reason": "多摩川に関する出来事・影響を代表する河川周辺地点（一致語: 多摩川）",
+        "confidence": 0.68,
+        "rule_id": "tokyo_tamagawa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           135.7556,
           35.0214
         ]
       },
       "properties": {
-        "title": "東京都、7月1日より令和8年度バッテリEV・PHEVの補助上限額を引き上げ バッテリEV最大130万円、PHEV最大115万円 - Car Watch",
-        "source": "Car Watch",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JbDFNZzNYZmdwM3d2MzhTWkdGcU1ZdmRaNktNYzd4c2NuMVJfQWlPenZiTVlMd1JSeUtFa2wwQlZSZ0hsNC00eDkwODQzaUJxajdaT0dmalNmZXNHTnQ2b3o0ZUI?oc=5",
-        "published_at": "2026-06-25T05:39:38+00:00",
+        "title": "東京都の過去の天気(実況天気・2026年06月) - tenki.jp",
+        "source": "tenki.jp",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iSWsxVElFZHJKenhiRnkzcFFLbDZ6cDdNM2g4MFA5Rkw4bnRaTVpxNWEwWDZDaVN2N1dheVpBSzJoNmpNeTlDRmdZZHhONGo3SFpBb2Zn?oc=5",
+        "published_at": "2026-06-27T06:31:47+00:00",
         "representative_place": "京都府庁",
         "geocode_query": "京都府庁 京都府京都市上京区",
         "place_type": "affected_site",
@@ -592,22 +1052,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7556,
-          35.0214
+          139.7536,
+          35.694
         ]
       },
       "properties": {
-        "title": "上野動物園など東京都所管の15施設、27日は終日閉園 台風の影響 [東京都] - 朝日新聞",
-        "source": "朝日新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84YnNFYVpNc01rZG9kUmZ2M25QT1JEeUpDLVJiWURGWjBUZWJ2cF85MTJkLWNlUUhadmMzX1k4eTBWZUlSTXUxSnR0TmZWX1RCdm5uanlZV0E5NGpORlRIM01LMzVnUzQ?oc=5",
-        "published_at": "2026-06-26T08:40:37+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
+        "title": "東京都心(大手町)(東京都)の過去の天気(実況天気・2026年06月) - tenki.jp",
+        "source": "tenki.jp",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3UVdGcHJrSGNpaFUyVFJWdmxaRWJsRGQ2N2NvVGtTa091bERlZHpaeU1hYmFfWTRKMTllc0QxMVI3YkM4Z3lrS3RURkREQ0lWYTF1VGdhLWN4OVMwd0E?oc=5",
+        "published_at": "2026-06-27T06:31:47+00:00",
+        "representative_place": "千代田区役所",
+        "geocode_query": "千代田区役所 東京都千代田区九段南",
         "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
+        "location_precision": "municipality",
+        "place_reason": "記事タイトルに千代田区内の地名が現れるため、区の代表地点に置く（一致語: 大手町）",
+        "confidence": 0.66,
+        "rule_id": "tokyo_chiyoda_city"
       }
     },
     {
@@ -615,22 +1075,91 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7556,
-          35.0214
+          138.5684,
+          35.6639
         ]
       },
       "properties": {
-        "title": "イオンフードスタイル／東京都江戸川区に「フードスタイル船堀店」7月3日オープン - 流通ニュース",
-        "source": "流通ニュース",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrN2xRbjdKdXpBM2V2d01DbWpFUjNSdEk1VkZBOEV2c0NJSkJ6T1g3T2w2RjFUREJpSm5vcEcxd0dIY0YybVpOUHBzTkNtaGd5R3B3bQ?oc=5",
-        "published_at": "2026-06-26T07:28:00+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
+        "title": "“瞬間映像”大きく揺れ…外壁はがれ落ちる 山梨県で最大震度6弱の地震（テレビ朝日系（ANN）） - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDLUdGcjI0TGRGUFh2SVBGNHh3SzROTzRwSHZaNmY0R290OVRKSkNra3Npel9hRUpEZGY3TW1OUHRNSjU1aDMxMXhxWF9UNEVSVEJZcVFleUNDekFEN1lSZEdlMU95aWh0cjIxZU1oMC1oU0tSeWVOOGZvUWlmelk?oc=5",
+        "published_at": "2026-06-27T06:27:32+00:00",
+        "representative_place": "山梨県庁",
+        "geocode_query": "山梨県庁 山梨県甲府市",
         "place_type": "affected_site",
         "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨県）",
         "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
+        "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7714,
+          35.6864
+        ]
+      },
+      "properties": {
+        "title": "日銀の国債買入減額停止について、主な意見より（久保田博幸） - エキスパート - Yahoo!ニュース",
+        "source": "Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1JmX2hHNmRXRmhqa2RZWjlrWXc0UTJrUEtUelRuempsSTd0OEc0cXd5THBoY3MyUklrZVlMRGtkTnFwcGJpcjVacFd5dUFZcmRQTjd3R3hxT0thTEdvSHZMUDkwcHZleWlxQm5PdDgtZUFNSW00dzMzN3lIckV5eTF6TjNmYU8t?oc=5",
+        "published_at": "2026-06-27T06:15:43+00:00",
+        "representative_place": "日本銀行本店",
+        "geocode_query": "日本銀行本店 東京都中央区日本橋本石町",
+        "place_type": "decision_site",
+        "location_precision": "building",
+        "place_reason": "金融政策を決定・発表する中心機関の所在地",
+        "confidence": 0.86,
+        "rule_id": "boj_policy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703,
+          35.5308
+        ]
+      },
+      "properties": {
+        "title": "（川崎市多摩区）青山圭一議員の質問を契機に実現へ - 選挙ドットコム",
+        "source": "選挙ドットコム",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCcVV2NnEtQ0NfNkYwbmtsYkRRMTVZaFJZdUs1ZjJwVnhUZjBzSE5PdG44dkl5b2NwX2c5b2NENVVQQ2gtZUF4TGRFbGtITElVSnFZY0d1elAyN20xN1E?oc=5",
+        "published_at": "2026-06-27T06:12:54+00:00",
+        "representative_place": "川崎市役所",
+        "geocode_query": "川崎市役所 神奈川県川崎市川崎区宮本町",
+        "place_type": "institution_site",
+        "location_precision": "building",
+        "place_reason": "川崎市に関するニュースを代表する自治体機関の所在地（一致語: 川崎市）",
+        "confidence": 0.72,
+        "rule_id": "kanagawa_kawasaki_city"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.389,
+          35.6892
+        ]
+      },
+      "properties": {
+        "title": "サッカーW杯 エジプトが初の決勝T進出 イランと引き分け - NHKニュース",
+        "source": "NHKニュース",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yamRMSUhQZFRma0M3d0RoYXhfNzZmX1RHNXVWdzBDOV82Zy1uZGJnaXZtSUk5RzZyVEVuXy1mamtKRWFXX2I2UU5NU2k0bU1aTGVDRk84Rm1NWm9DS1Fj?oc=5",
+        "published_at": "2026-06-27T05:47:35+00:00",
+        "representative_place": "イラン・テヘラン",
+        "geocode_query": "Tehran Iran",
+        "place_type": "affected_site",
+        "location_precision": "country_capital",
+        "place_reason": "記事タイトルにイランが現れるため、影響を受ける国を代表する首都に置く。具体的な軍事施設名が不明なため国の代表地点として扱う（一致語: イラン）",
+        "confidence": 0.62,
+        "rule_id": "iran_tehran"
       }
     },
     {
@@ -661,68 +1190,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7556,
-          35.0214
+          139.703,
+          35.5308
         ]
       },
       "properties": {
-        "title": "東京都の「昆布水つけ麺」の名店10選！　あなたの好きなお店はどこ？【人気投票実施中】 | ラーメン ねとらぼリサーチ - ねとらぼ",
-        "source": "ねとらぼ",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DeWtWd1NFN19ZSkZFWnRNMFVEb243U3I1Q2EtWGNCc3VHcHk1R29sSEVsZHNGb1c0TUh3bUg4T2VLMnJvZ0F2R1A1aVQ4V1M3djFGMU8zcWdyOFQzdjFGa3h5d9IBaEFVX3lxTFBsaWFMNFF0X0htbm5yWk9ad19FRG5rVHljbldHZWNjdUNRM0NMYnNfUERDLTM3VmdUdjFmLWdXMWxFc1RBdUR5Z1Nlc0EtTG1iN19ZQy1kQnZUeEoxOEtidnd3N241UGRG?oc=5",
-        "published_at": "2026-06-26T14:40:00+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "東京都「容積率2倍」政策の構造…アフォーダブル住宅整備が不動産市場と都市に与える多層的影響 - au Webポータル",
-        "source": "au Webポータル",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aWUNzdm5KR2t2YmxoakVYWGF4T3Y0RmszbVpXQ1BPTDdEbDhkWUZjRUQ1YWpFaGgwYTVTQk9iNkxIMVMxSmFGWmwyNGRYaW1QMEQ2R2hqUUhoRTRnZkVVNkFpT2tmeVN6WVJfSmhoNHhkUTgtbjhON2FkSQ?oc=5",
-        "published_at": "2026-06-26T21:13:00+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.716,
-          35.5613
-        ]
-      },
-      "properties": {
-        "title": "【東京都大田区】湾岸エリアの魅力を発見する体験型ツアー「東京・大田7つの島をめぐる旅」開催！ - ガジェット通信 GetNews",
-        "source": "ガジェット通信 GetNews",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQQnFLcmx1U203T2tmckhtSFAxSXN5TThJN1FFMTdpR2NGRjkwM1l5LXR1bTlXT2NXM19pMkp2cWp6cTFLRHVwZVNwYw?oc=5",
-        "published_at": "2026-06-27T01:30:01+00:00",
-        "representative_place": "大田区役所",
-        "geocode_query": "大田区役所 東京都大田区蒲田",
+        "title": "【川崎市】台風第７号と台風第８号の接近による大雨の影響が懸念される中、川崎市危機管理本部がＸ（旧ツイッター）の投稿で「土のうステーション」の利用を考えている人向けに情報を発信 - タウンニュース",
+        "source": "タウンニュース",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MTmMwd25jaVlDZnlvUnRRcl9Bb1J2bjJVelRjOVV1Z3VveWRBVmtjaUNzVnctR3VlRDNTYWFnbTlVUHZTenljYWNaR1NNc25GTnhXbXVGb3YyLUp5RmdNb0dFQ0s?oc=5",
+        "published_at": "2026-06-27T05:17:04+00:00",
+        "representative_place": "川崎市役所",
+        "geocode_query": "川崎市役所 神奈川県川崎市川崎区宮本町",
         "place_type": "institution_site",
         "location_precision": "building",
-        "place_reason": "大田区に関するニュースを代表する自治体機関の所在地（一致語: 大田区）",
+        "place_reason": "川崎市に関するニュースを代表する自治体機関の所在地（一致語: 川崎市）",
         "confidence": 0.72,
-        "rule_id": "tokyo_ota_city"
+        "rule_id": "kanagawa_kawasaki_city"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2823,
+          34.529
+        ]
+      },
+      "properties": {
+        "title": "【レベル４土砂災害危険警報】東京都・利島村に発表 14:15時点 - au Webポータル",
+        "source": "au Webポータル",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JOEQzNWxKUUNxTzFpbG13VFNfbEo2dXNDOWpGaUFMMnpRUXNZVXJnSkdTZUxUTG1rQzk0XzdLQVRMX0l0WFRsa3lIdEVZMU5wRVc2dWFQWUVoYVFIbXJ4Ukdrc3F4YUN5Yk10N181NTdVbEg3WGEwX01wZw?oc=5",
+        "published_at": "2026-06-27T05:15:00+00:00",
+        "representative_place": "利島村役場",
+        "geocode_query": "利島村役場 東京都利島村",
+        "place_type": "affected_site",
+        "location_precision": "municipality",
+        "place_reason": "記事タイトルに利島村・利島が現れるため、その地域を代表する自治体所在地に置く（一致語: 利島村）",
+        "confidence": 0.78,
+        "rule_id": "tokyo_toshima_village"
       }
     },
     {
@@ -735,10 +1241,10 @@
         ]
       },
       "properties": {
-        "title": "「洋館 明治の夢と挑戦」が両国・東京都江戸東京博物館で開幕。200点超からたどる、日本建築史の大変革期 - Tokyo Art Beat",
-        "source": "Tokyo Art Beat",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzU2enFCMTMtbnk1MXB3YnFRb0JoRnpCREJsWVVxcFp4VUhOb0NzR190Sk0xOUcyeVE2ZmhCZXB1N21EelhZZ1BtanZWSEQ1UnZhWk1heTBiM19kSmM0ZzV3MmI2VmE0LVZzTGdjVVVxVEhlNFZDYVVlUS1lVW1VRHJybVVCSk9HWFQ3MmJ0REJuc0tJNVg1NHZrVC11Zw?oc=5",
-        "published_at": "2026-06-25T02:47:30+00:00",
+        "title": "【PR】尾瀬・三陸・やんばるをフィールドに——東京都と淑徳大学、自然資源で観光人材育てる無料講座を9月開講 - 観光経済新聞",
+        "source": "観光経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3ME4yZ1FRYmJZWlpadTE3WEhLRGh5NDMzV2JEeW8yQnA1c2lKem1NVzNUS196NTBJenZ0RmVVSXNqQ2xXSllzUldrR2JXRVpPNk5zRk84N1dnNktvS0ZrdFN3UXFNeG0zaHg3aA?oc=5",
+        "published_at": "2026-06-27T05:04:18+00:00",
         "representative_place": "京都府庁",
         "geocode_query": "京都府庁 京都府京都市上京区",
         "place_type": "affected_site",
@@ -753,91 +1259,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7556,
-          35.0214
+          139.2565,
+          34.377
         ]
       },
       "properties": {
-        "title": "政策金利1％で東京都中古マンション市場に二極化 都心は流動性低下、住宅地は実需が支える底堅い市場へ - アットプレス",
-        "source": "アットプレス",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwMlduOE5yaWR3RnVER2Jaay1IRnU3a2RYRzU3RzNDVzY4Q3Y5X2dmZW9hUkpJNHYwcW85VXFVWFdVdnEwM1RqWERzMjdoUQ?oc=5",
-        "published_at": "2026-06-27T01:00:00+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.5684,
-          35.6639
-        ]
-      },
-      "properties": {
-        "title": "【速報】関東・東北・中部・近畿・中国で最大震度6弱の地震 M5．6 東京、神奈川、大阪、愛知、埼玉などで揺れ 震源は山梨県東部・富士五湖（千葉日報オンライン） - Yahoo!ニュース",
+        "title": "【レベル4土砂災害危険警報】東京都・新島村に発表 14:00時点（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
         "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05ZmdzVjlNUGRJQXZELTg5cGNYNEd6eUU4RUtGcjFqWUFHY3RsazJHS2hRanpST0lXNHJUNzE3YVVjeTdOUTZ3d0VvTTl6YUtFZDJBakNOZW10TXYzOFRRYUJfNWZLMDhtQTc0RmxfdFgyeXZycWlPUl9fdVo4aTA?oc=5",
-        "published_at": "2026-06-26T13:44:36+00:00",
-        "representative_place": "山梨県庁",
-        "geocode_query": "山梨県庁 山梨県甲府市",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54c21MN0tUSjFCdTc0T0lPNFJ6b3k0bU1mOUI3RFRMNG83YUhMWmctSWFQbUowVUVTcTAzTmJWOXU4LVgtS2V4ODNMOHk5N1NIOTFuTldIMXp4TkRETkxRY0VCMmlVazA4TXRJbXUwOVB5Vi04aTk1b0JPdC10dGc?oc=5",
+        "published_at": "2026-06-27T05:02:15+00:00",
+        "representative_place": "新島村役場",
+        "geocode_query": "新島村役場 東京都新島村本村",
         "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨県）",
-        "confidence": 0.7,
-        "rule_id": "yamanashi_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "不自然な代議員差し替え…立憲民主の東京都連会長選挙で介入疑惑 「事務局職員が特定候補への投票要求」も - 東京新聞デジタル",
-        "source": "東京新聞デジタル",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zOHpXZUlmbDlocmc0LTFBcmE4cXpSNktkZ1ZMRTZaMDZlNFppdWtETDhLLVJNbUNQTWg5ZzBid3ZPUUs2bHk0Q09JX1hlZjBlTXdR?oc=5",
-        "published_at": "2026-05-16T07:00:00+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "立憲民主党東京都連の会長選、蓮舫氏が武蔵野市議の川名雄児氏に敗れる…「勝てる体制を」と敗因に触れず - 読売新聞",
-        "source": "読売新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nX3RlRHA4ZTVRVDVwRnp3Tld5aVIzZVBPQWFnU0xfMXFrMGtSWWEwOVMwUEtGRW9MLThaUWFWcEJkOHNtOXFEdUphQlRkZzh1TUdxSU5LcFlBTXpEb2Q2WENuYjJ6UQ?oc=5",
-        "published_at": "2026-05-15T07:00:00+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
+        "location_precision": "municipality",
+        "place_reason": "記事タイトルに新島村・新島が現れるため、その地域を代表する自治体所在地に置く（一致語: 新島村）",
+        "confidence": 0.78,
+        "rule_id": "tokyo_niijima_village"
       }
     },
     {
@@ -850,10 +1287,10 @@
         ]
       },
       "properties": {
-        "title": "【速報】関東・東北・中部で地震 M5．8 東京、神奈川、埼玉、千葉、静岡などで揺れ 最大震度4 震源は千葉県北東部 - Yahoo!ニュース",
+        "title": "「ダブル台風」関東に接近、店舗前に土のう・早めの避難など備え…「被害がないことを祈るばかり」（読売新聞オンライン） - Yahoo!ニュース",
         "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZUUFkSTRNb2Y4MFJrV1BfVUxoR1FLRVpKX05tM2ZuZ2cxbFF0dThteHZoTHB5ekFSWDNaT0FNcGRaQVAzUDlmdFZlNDAtS2VVTzhuTkpNMUtnMHlCZnN0X0xsQ3FtRm5odTlyLWdjUHVCaGthR2hYUTlKSnhuRXc?oc=5",
-        "published_at": "2026-06-26T04:00:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YV2dfcVp2RUc4ckFkRzd6THZmS2t1c2NUdVFyXzJpRDRVeURLT3hoazNlVTJXYU5RWmZ4R2FYRzlLaEFHQnVHMHdMaFpwZVZzMzRFRVdaWHlDLVJ2R0h0M1VZM3VsVUdhNFJJOGVTWjRLeXBnM1lvZTN3dVVhdGM?oc=5",
+        "published_at": "2026-06-27T05:00:23+00:00",
         "representative_place": "東京都庁",
         "geocode_query": "東京都庁 東京都新宿区西新宿",
         "place_type": "affected_site",
@@ -868,367 +1305,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7556,
-          35.0214
+          138.5684,
+          35.6639
         ]
       },
       "properties": {
-        "title": "【速報】千葉県北東部で地震相次ぐ 約45分間に5回発生 最大M5．8、県内10市町で震度4 東京都や埼玉県、神奈川県、静岡県など広い範囲で揺れも（千葉日報オンライン） - Yahoo!ニュース",
+        "title": "山梨で震度６弱、訪日客ら避難所で不安な一夜…「地震初めてで何をすればいいのかわからなかった」 - 読売新聞",
+        "source": "読売新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SaDVscnl0OHU0UGJOUzFVYXIxaWF5ZDB6UkJZSmYxRWI5Mzd4UVlxZVpCaDhVLW1LRkJPX1NRSkVYOTVVWXNQYmNxRTZ3czB0eVRMam9FNnFueXdWSjZKT1paMkQtZw?oc=5",
+        "published_at": "2026-06-27T05:00:00+00:00",
+        "representative_place": "山梨県庁",
+        "geocode_query": "山梨県庁 山梨県甲府市",
+        "place_type": "affected_site",
+        "location_precision": "prefecture",
+        "place_reason": "記事タイトルに山梨県・山梨が現れるため、県を代表する自治体機関の所在地に置く（一致語: 山梨）",
+        "confidence": 0.7,
+        "rule_id": "yamanashi_prefecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.7274,
+          35.3606
+        ]
+      },
+      "properties": {
+        "title": "【地震情報まとめ】山梨県で震度6弱 “富士山の火山活動に異常なし” 県道で落石発生か - テレ朝NEWS",
+        "source": "テレ朝NEWS",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lR0hVb0NuMG5lT2xRS2RVRVBBdEc0MXB0TXg1WjBRZ3ZWM1paUVU1TVFmbVM1SnM1RlU5UGdJeEpJRXc2NHNGV1RJSkUzbXJ6RGJmRDgzY241S0M2SURnVmw5bUVuSWlpUjZIM3BlSjNrdw?oc=5",
+        "published_at": "2026-06-27T05:00:00+00:00",
+        "representative_place": "富士山",
+        "geocode_query": "富士山",
+        "place_type": "affected_site",
+        "location_precision": "landmark",
+        "place_reason": "記事タイトルに富士山が現れるため、対象となる山体の代表地点に置く（一致語: 富士山）",
+        "confidence": 0.86,
+        "rule_id": "mt_fuji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.355,
+          34.75
+        ]
+      },
+      "properties": {
+        "title": "レベル4土砂災害危険警報 東京・大島町（ABEMA TIMES） - Yahoo!ニュース",
         "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ma1ZkaDNVd2VtcjNvUlV0R19VNTJXcUJCTFhEOFhhazhHdTVXa3V4cDhONGRDRlU3TkZVVWhsVkdGajdWQ19kV05ydFAtM1JrdmlxMldqOHRsUE1ZOFFLRTRWUGZGWU1uVDhzTFdvTFVWTncyNWI0cmhlYW1JaFE?oc=5",
-        "published_at": "2026-06-26T06:43:33+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CNU4wdlVXM2hlQmE3VF9QVlVnY1A2MmF5WDFJM1lnTzdoR1RfVHQwYlU1WFo3Y05ZNl91WjlQVTJ3UmtmNXVoMUxlZHpQUE1Ia0dwc01YdW03WU52MmNneG8yX1l6VDNhTUotZUhDWXQzU3lVamZfd0FiRkFkRTA?oc=5",
+        "published_at": "2026-06-27T04:54:15+00:00",
+        "representative_place": "大島町役場",
+        "geocode_query": "大島町役場 東京都大島町元町",
         "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "台風7号・8号の接近に伴い、27日は東京都内の公園や施設を閉園（産経新聞） - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ybmYxWklyY2pTdTlEM2htYWdUWWVrSnBFbS1JalplMkhmajV6MVhwV01YUERPbUNfZEQzMkVKUFZ3dnNlVEpnSWtzcTNJVkpCal9kRlQ5MHFfd2lYU0tYSEtySFZ5NEU0cTY1d0p3NXhWRVJBYnJ6bDYxMjI1ams?oc=5",
-        "published_at": "2026-06-26T12:41:08+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "廃電子機器から貴重な金属回収へ 東京都がキャンペーンを開始（産経新聞） - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zUlJtQUlrM1ItUm5DTk9xclh2RDdlZHFFVEIwUWpTYjA2UEtobmRvRW9Oa1RydUFuZ0tuT1FFTFFQcEx0Q3JadGpNYy1FZlBlQWpCa0V0R1RrZDlMak5LeUp6THF5SFd6cXRyRzJEclYyNGk3UHhkZkdwY05OM00?oc=5",
-        "published_at": "2026-06-26T13:59:32+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "東京都、都立大塚病院で不妊治療を開始（産経新聞） - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84MjNjM3lxSUJXdHVRSTVFa0dGaFA3MjY0UGYwTFRYU1J0b3A5N3ZFeHFEWnBXMF9mXzJXdWVpOTJMUVRRYXBRUEVsQVVSV1BIUnk4WlNPUzRfcV9pZExkVGx2VTd1c0NvTDBCQWhZb0lWRWQ2OVQ3UF91a3NzYkE?oc=5",
-        "published_at": "2026-06-26T12:36:03+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "東京都江戸東京博物館がリニューアル タイムスリップ没入体験の新しい“江戸博”へ（家庭画報.com） - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VT0UyU0xnYnFNVW04QTBRWGM4QkNiMGFpNHEwbUpfWDA1a1Q4NTVNWDJLV3RaQkU3ZWhSTFQ1X1Zzblh3YlBuU0R6NHhyVW05S0RoZWxHVWhvWjktM1k3aWppNGc1VDNWX3N1RW1LWWFWTC14TlhJa1hMMjhvcms?oc=5",
-        "published_at": "2026-06-25T23:20:01+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "7月に始まる美術展・展覧会 東京で「空海展」（東博）、「大英博物館展」（東京都美）、「藝大式」（東京藝大大学美）、大阪で「水滸伝展」（大阪市美）、「大絶滅展」（大阪市立自然史博）など - 美術展ナビ",
-        "source": "美術展ナビ",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mYTNVT3FqdXRBTFVwU1lUWlkzcHZKQVh2NnBUVVJZWl9BUHdnMlV1THl4cUR1TVpmX2dZS0ZQQjYtbDJqVVRzWlpkN3Mya1RhVFJrTHVzcURwYWxDWGlNOUgzdEprOEVN?oc=5",
-        "published_at": "2026-06-24T17:32:00+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "東京都のEV補助が最大130万円に テスラModel 3は実質300万円切りも（アスキー） - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51dEZaaktTOUJXQnpNcWlWMFRQcVBFbkNJc3BpYlNROXVtMjByV0tsTDZId0VaRjl2U1RrSzI4a0RHdDJUNjVlc3VNYUNzNmVEbUNrUThJaU1XU3JhbkRZMU5hVFYwS0kxczk5NkRENDRycjJfaUhDcjdhVV9KUVU?oc=5",
-        "published_at": "2026-06-26T01:30:00+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "東京都とABCクッキングスタジオが女性活躍推進に関する協定を締結～女性活躍推進に関する知見を活かし、東京都との連携を強化～ - PR TIMES",
-        "source": "PR TIMES",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FZWg1SXVsaWJGT2RtSV9USk4zZUhOWlduZGNlSFlneFlaLWZpaXVJUVRsZnRrSmRmM2ZqVlVzUmVCd2VqR2pmSkRmc2JLcGdOWWFVbGhfYUl5MzBzSmxxNlhqYUlzY1NBZlE?oc=5",
-        "published_at": "2026-06-26T05:00:02+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "オリジン東秀／東京都「武蔵野うどん小麦晴れ イオンモール日の出店」6月30日オープン - 流通ニュース",
-        "source": "流通ニュース",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JMGlkYlJuV0R2TWVWLThaT3RyejBKZ2RjNlBEenZyQzZiUm43R2UzdjZCdzNQMmtIWnZMSmNJelFINUZMdVdZanlJSmw1aDllbjBUcA?oc=5",
-        "published_at": "2026-06-26T04:13:00+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "新型ホンダ「スーパーワン」が80万円!? 東京都のEV補助金の上限額が130万円へと30万円アップ PHEVを含め、7月1日登録および検査分から適応（ENGINE WEB） - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mZ2ptTWNLaGxvNktIdmthWDZBUm9zNTNnV0VydHUyaV9XYndDR1lxVmtJUVlpTWNoY0RPU2FqX3d1SzBUXzZ3LXdUcm10MDVFRHVWendnT1NkYmxkZTUyMXI1dm5LcTRGOS1YM0xkOUhCOWg3d1NoUTBLWjRBNzQ?oc=5",
-        "published_at": "2026-06-25T07:10:00+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "上野動物園など計15園、27日は臨時休園 東京都（毎日新聞） - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHWHVDVFoyT2FiOG9LMElXNE5NbmNnU2o1VlhOdlJGRTJHNjhQSFJreVgzNUltQ2gwNWVzNXdOUUlLWTBfcEhDVjdZZDRqZTVkLVpEM0tOa0NHb2w2RHFDT3dWR21qcnFDMFVHeEhyd0lYUEpaSV9oNk12NXBoVXM?oc=5",
-        "published_at": "2026-06-26T09:42:25+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "東京都、教職員による性暴力に関する相談実績を発表 事実が認められたものも（オリコン） - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Pa1J1VVVCb2dwd3BmdjNydVJoV0NNeGk4ZnV1Q1RScGJycTlKNllQeDNQcFk0d0FFRHcwcjVKQURSTFBqWE5vdjdqZ29YZ1VrbndPb3pwLTB5UkZWa3RzVU9LeEt2ZjdXTzBaaC0wZ1J5eG9TS0VCOFRDckZjSTQ?oc=5",
-        "published_at": "2026-06-25T08:26:52+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "「育児119」東京都認定を取得 深夜や当日も依頼できるベビーシッター、利用料補助の対象に（スポニチアネックス） - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pYXl3Zjlpd1hsZVFyNGg0RGV2OFlFMjgyclZPLTBIS01JbmdOYS0xYlFFZXJWWVFqZzJ6TWtTeWU3UE8xRnozdTJWWTQ5b3VneWVtN1hKZlVVMjNkWVliSy0tRnllZzlxLWRxN0tNcmNIM2RvaE45MmRnaDBqWTQ?oc=5",
-        "published_at": "2026-06-25T06:01:48+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "台風8号(2026年)の東京都の暴風域に入る確率 - tenki.jp",
-        "source": "tenki.jp",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Wa1UtckxlVTQ4X0pmb0VHVW53dTlDclJQdnpkNjRBMEJfT1Y1eFFkYTE0ekFMTkxINXZPZ0RzeW9jaDdGZFZCSkVuQXRldnNJVXE3UHBkNXhacVFN?oc=5",
-        "published_at": "2026-06-26T18:00:00+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "茨城県、栃木県、埼玉県、千葉県、東京都、神奈川県で最大震度1の地震 茨城県・水戸市、笠間市、土浦市 - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9keXcxajBIdHJfZEpUdkxNSGstTlZHWUxqZmJvY2Q3eURNMC00SWt1MjI4SUlLbnFGN21XTXU4ZV9Za1BFZExNTEhzUHhYc0MtY0dGT2h4VG9jZ2tBb29Fd0ZlekN2eEQtTWVMMzFqYXFrT1dsSTlwR3RQZjhmaWc?oc=5",
-        "published_at": "2026-06-26T19:05:27+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.7556,
-          35.0214
-        ]
-      },
-      "properties": {
-        "title": "東京都が「EV補助金」引き上げを発表 より安価に「新車EV」が購入可能に（くるまのニュース） - Yahoo!ニュース",
-        "source": "Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1SUlLREZUc2d3ZFM4R1VNdXF5UDJWcENOV0MzNGdfeFJ4dkJIRXVyUjRwOU81QkhmNkhmY3VSdmNkNjIwQlJud1ZkOWNyaXVkWGN6M0ppTTRnUllmTzFzQVlhbHJLUHUwRkEzNW9WS3NWTmM2V2FLOUh5aHVJLUU?oc=5",
-        "published_at": "2026-06-24T11:50:00+00:00",
-        "representative_place": "京都府庁",
-        "geocode_query": "京都府庁 京都府京都市上京区",
-        "place_type": "affected_site",
-        "location_precision": "prefecture",
-        "place_reason": "記事タイトルに京都府・京都が現れるため、地域を代表する自治体機関の所在地に置く（一致語: 京都）",
-        "confidence": 0.7,
-        "rule_id": "kyoto_prefecture"
+        "location_precision": "municipality",
+        "place_reason": "記事タイトルに大島町・伊豆大島が現れるため、その地域を代表する自治体所在地に置く（一致語: 大島町）",
+        "confidence": 0.78,
+        "rule_id": "tokyo_oshima_town"
       }
     }
   ]

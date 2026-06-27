@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "properties": {
-    "created_at": "2026-06-27T10:40:23.474545+00:00",
+    "created_at": "2026-06-27T10:45:56.075735+00:00",
     "count": 3,
     "stats": {
       "collected": 40,
@@ -22,7 +22,7 @@
         ]
       },
       "properties": {
-        "title": "藤沢の住宅街で土砂崩れ 台風８号影響、のり面が高さ１０メートル - カナロコ",
+        "title": "藤沢の住宅街で土砂崩れ のり面が高さ１０メートル - カナロコ",
         "source": "カナロコ",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mSUdfNmdYREE1bHRYS3dqUWY4OXdLTGJ2LWNXRHMtTHFYbE5DXzhUQXBpLTNPNzNNb0lOS3NPenI1Y3llZWdLeUE4bXkzU2lwZzBGRjc3T3JvTDBkRmNKV2czMDZaT0U?oc=5",
         "published_at": "2026-06-27T03:00:00+00:00",
@@ -40,22 +40,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7785,
-          35.6826
+          139.7714,
+          35.6864
         ]
       },
       "properties": {
-        "title": "今週の【早わかり株式市況】反落、最高値更新もAI・半導体に思惑錯綜し乱高下 - 株探",
-        "source": "株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zYWlUdm9zNURMaTJuZ2tzMXFQX3FmTmxHd2hqYWo1UTI5dkN6SmM3c1VITnhtWGY3ZGdmM2p3bmhILTZCNjNLbzl3b29JRVQ3UmhsQUNXeU1qN0NURWU1Tg?oc=5",
-        "published_at": "2026-06-26T21:40:00+00:00",
-        "representative_place": "東京証券取引所",
-        "geocode_query": "東京証券取引所 東京都中央区日本橋兜町",
-        "place_type": "institution_site",
+        "title": "政府「骨太方針」で日銀けん制へ",
+        "source": "Yahoo!ニュース・トピックス - 主要",
+        "link": "https://news.yahoo.co.jp/pickup/6585913?source=rss",
+        "published_at": "2026-06-27T10:37:01+00:00",
+        "representative_place": "日本銀行本店",
+        "geocode_query": "日本銀行本店 東京都中央区日本橋本石町",
+        "place_type": "decision_site",
         "location_precision": "building",
-        "place_reason": "株式市場・上場関連ニュースを代表させる市場機関の所在地",
-        "confidence": 0.74,
-        "rule_id": "tokyo_stock_exchange"
+        "place_reason": "金融政策を決定・発表する中心機関の所在地",
+        "confidence": 0.86,
+        "rule_id": "boj_policy"
       }
     },
     {

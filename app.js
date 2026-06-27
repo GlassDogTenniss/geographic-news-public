@@ -5,13 +5,18 @@ L.Icon.Default.mergeOptions({ iconRetinaUrl: 'https://cdn.jsdelivr.net/npm/leafl
 
 const statusEl = document.getElementById('status');
 const topicListEl = document.getElementById('topicList');
+const panelToggleEl = document.getElementById('panelToggle');
 const markers = [];
 
 function esc(v) { return String(v ?? '').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#039;'); }
 function popup(p) { const link = esc(p.link); return `<strong>${esc(p.title)}</strong><br><span>${esc(p.representative_place)}</span><br><small>${esc(p.place_type)}</small><br><p>${esc(p.place_reason)}</p>${link ? `<a href="${link}" target="_blank" rel="noopener noreferrer">${esc(p.source) || 'source'}</a>` : ''}`; }
-function addList(feature, marker) { const p = feature.properties || {}; const item = document.createElement('div'); item.className = 'topic-item'; item.innerHTML = `<div class="topic-title">${esc(p.title)}</div><div class="topic-meta">${esc(p.representative_place)} / ${esc(p.place_type)}</div>`; item.addEventListener('click', () => { marker.openPopup(); map.setView(marker.getLatLng(), Math.max(map.getZoom(), 12)); }); topicListEl.appendChild(item); }
+function addList(feature, marker) { const p = feature.properties || {}; const item = document.createElement('div'); item.className = 'topic-item'; item.innerHTML = `<div class="topic-title">${esc(p.title)}</div><div class="topic-meta">${esc(p.representative_place)} / ${esc(p.place_type)}</div>`; item.addEventListener('click', () => { marker.openPopup(); map.setView(marker.getLatLng(), Math.max(map.getZoom(), 12)); if (window.innerWidth <= 700) setPanelCollapsed(true); }); topicListEl.appendChild(item); }
 function addStats(stats, createdAt) { const block = document.createElement('div'); block.className = 'stats'; block.innerHTML = `<div class="stat"><span class="stat-value">${esc(stats.collected ?? '-')}</span><span class="stat-label">取得</span></div><div class="stat"><span class="stat-value">${esc(stats.topics ?? '-')}</span><span class="stat-label">表示</span></div><div class="stat"><span class="stat-value">${esc(stats.unresolved ?? '-')}</span><span class="stat-label">未解決</span></div>`; statusEl.after(block); statusEl.textContent = createdAt ? `更新: ${createdAt}` : '更新時刻不明'; }
 function addUnresolvedList(items) { if (!items.length) return; const title = document.createElement('div'); title.className = 'section-title'; title.textContent = `未解決ニュース ${items.length}件`; topicListEl.after(title); const list = document.createElement('div'); list.className = 'unresolved-list'; items.slice(0, 20).forEach(item => { const div = document.createElement('div'); div.className = 'unresolved-item'; const link = esc(item.link); div.innerHTML = `<div class="topic-title">${esc(item.title)}</div><div class="topic-meta">${esc(item.source)}${link ? ` / <a href="${link}" target="_blank" rel="noopener noreferrer">source</a>` : ''}</div>`; list.appendChild(div); }); title.after(list); }
+function setPanelCollapsed(collapsed) { document.body.classList.toggle('panel-collapsed', collapsed); panelToggleEl.textContent = collapsed ? '一覧を開く' : '一覧を閉じる'; panelToggleEl.setAttribute('aria-expanded', String(!collapsed)); setTimeout(() => map.invalidateSize(), 120); }
+
+panelToggleEl.addEventListener('click', () => setPanelCollapsed(!document.body.classList.contains('panel-collapsed')));
+if (window.innerWidth <= 700) setPanelCollapsed(true);
 
 Promise.all([
   fetch('./latest.geojson', { cache: 'no-store' }).then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),

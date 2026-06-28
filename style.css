@@ -1,11 +1,12 @@
 html, body, #map { height: 100%; margin: 0; }
 body { overflow: clip; }
 #map { width: 100%; position: relative; }
-.panel-toggle { position: absolute; z-index: 1100; top: 12px; right: 12px; border: 0; border-radius: 999px; padding: 9px 12px; background: rgba(255,255,255,.96); box-shadow: 0 2px 12px rgba(0,0,0,.20); font-weight: 700; cursor: pointer; }
+.panel-toggle { position: fixed; z-index: 1100; top: 12px; right: 12px; border: 0; border-radius: 999px; padding: 9px 12px; background: rgba(255,255,255,.96); box-shadow: 0 2px 12px rgba(0,0,0,.20); font-weight: 700; cursor: pointer; }
 .updated-at-badge { position: absolute; z-index: 1090; right: 12px; bottom: 26px; max-width: calc(100vw - 24px); border-radius: 999px; padding: 7px 10px; background: rgba(255,255,255,.94); box-shadow: 0 2px 12px rgba(0,0,0,.16); font-family: system-ui, sans-serif; font-size: 12px; color: #333; white-space: nowrap; }
 .panel { position: absolute; z-index: 1000; top: 12px; left: 12px; width: min(390px, calc(100vw - 24px)); max-height: calc(100vh - 24px); overflow: clip; display: flex; flex-direction: column; background: rgba(255,255,255,.94); border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,.18); font-family: system-ui, sans-serif; font-size: 14px; line-height: 1.5; }
 .panel-collapsed .panel { display: none; }
-.panel-header { flex: 0 0 auto; padding: 12px 14px 10px; border-bottom: 1px solid rgba(0,0,0,.12); background: rgba(255,255,255,.96); }
+.panel-header { position: relative; flex: 0 0 auto; padding: 12px 14px 10px; border-bottom: 1px solid rgba(0,0,0,.12); background: rgba(255,255,255,.96); }
+.panel-close-button { position: absolute; z-index: 2; top: 10px; right: 10px; border: 0; border-radius: 999px; padding: 7px 10px; background: rgba(17,85,204,.10); color: #111; box-shadow: 0 1px 6px rgba(0,0,0,.12); font-weight: 700; cursor: pointer; }
 .panel-scroll { flex: 1 1 auto; min-height: 0; overflow: auto; padding: 0 14px 12px; }
 .panel h1 { font-size: 16px; margin: 0 0 2px; padding-right: 96px; }
 .schedule-note { color: #444; font-size: 12px; margin-bottom: 2px; }
@@ -24,10 +25,11 @@ body { overflow: clip; }
 .topic-meta { color: #555; font-size: 12px; margin-top: 2px; }
 a { color: #1155cc; }
 @media (max-width: 700px) {
-  .panel-toggle { top: 8px; right: 8px; padding: 8px 10px; }
+  .panel-toggle { top: calc(env(safe-area-inset-top, 0px) + 8px); right: 8px; padding: 8px 10px; }
   .updated-at-badge { right: 8px; bottom: 28px; font-size: 11px; padding: 6px 9px; }
-  .panel { top: 52px; left: 8px; width: calc(100vw - 16px); max-height: calc(100vh - 68px); }
+  .panel { top: 8px; left: 8px; width: calc(100vw - 16px); max-height: calc(100vh - 24px); }
   .panel-header { padding: 12px; }
+  .panel-close-button { top: 10px; right: 10px; }
   .panel-scroll { padding: 0 12px 12px; }
-  .panel h1 { padding-right: 0; }
+  .panel h1 { padding-right: 104px; }
 }

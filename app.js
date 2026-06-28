@@ -6,6 +6,7 @@ L.Icon.Default.mergeOptions({ iconRetinaUrl: 'https://cdn.jsdelivr.net/npm/leafl
 const statusEl = document.getElementById('status');
 const topicListEl = document.getElementById('topicList');
 const panelToggleEl = document.getElementById('panelToggle');
+const panelCloseButtonEl = document.getElementById('panelCloseButton');
 const updatedAtBadgeEl = document.getElementById('updatedAtBadge');
 const markers = [];
 let activeTopicItem = null;
@@ -25,10 +26,12 @@ function formatUpdatedAt(value) { if (!value) return '更新日不明'; const da
 function setUpdatedAt(createdAt) { const label = formatUpdatedAt(createdAt); statusEl.textContent = label; updatedAtBadgeEl.textContent = label; updatedAtBadgeEl.title = createdAt || ''; }
 function addStats(stats, createdAt) { const block = document.createElement('div'); block.className = 'stats'; block.innerHTML = `<div class="stat"><span class="stat-value">${esc(stats.collected ?? '-')}</span><span class="stat-label">取得</span></div><div class="stat"><span class="stat-value">${esc(stats.topics ?? '-')}</span><span class="stat-label">表示</span></div><div class="stat"><span class="stat-value">${esc(stats.unresolved ?? '-')}</span><span class="stat-label">未解決</span></div>`; statusEl.after(block); setUpdatedAt(createdAt); }
 function addUnresolvedList(items) { if (!items.length) return; const title = document.createElement('div'); title.className = 'section-title'; title.textContent = `未解決ニュース ${items.length}件`; topicListEl.after(title); const list = document.createElement('div'); list.className = 'unresolved-list'; items.slice(0, 20).forEach(item => { const div = document.createElement('div'); div.className = 'unresolved-item'; const link = esc(item.link); const original = item.original_title ? `<div class="topic-meta">原題: ${esc(item.original_title)}</div>` : ''; div.innerHTML = `<div class="topic-title">${esc(item.title)}</div>${original}<div class="topic-meta">${esc(item.source)}${link ? ` / <a href="${link}" target="_blank" rel="noopener noreferrer">source</a>` : ''}</div>`; list.appendChild(div); }); title.after(list); }
-function setPanelCollapsed(collapsed) { document.body.classList.toggle('panel-collapsed', collapsed); panelToggleEl.textContent = collapsed ? '一覧を開く' : '一覧を閉じる'; panelToggleEl.setAttribute('aria-expanded', String(!collapsed)); setTimeout(() => { map.invalidateSize(); if (!collapsed) scrollActiveTopicItem(); }, 160); }
+function updatePanelControls(collapsed) { panelToggleEl.textContent = collapsed ? '一覧を開く' : '一覧を閉じる'; panelToggleEl.setAttribute('aria-expanded', String(!collapsed)); if (panelCloseButtonEl) panelCloseButtonEl.hidden = collapsed; }
+function setPanelCollapsed(collapsed) { document.body.classList.toggle('panel-collapsed', collapsed); updatePanelControls(collapsed); setTimeout(() => { map.invalidateSize(); if (!collapsed) scrollActiveTopicItem(); }, 160); }
 
 panelToggleEl.addEventListener('click', () => setPanelCollapsed(!document.body.classList.contains('panel-collapsed')));
-if (window.innerWidth <= 700) setPanelCollapsed(true);
+if (panelCloseButtonEl) panelCloseButtonEl.addEventListener('click', () => setPanelCollapsed(true));
+if (window.innerWidth <= 700) setPanelCollapsed(true); else updatePanelControls(false);
 
 Promise.all([
   fetch('./latest.geojson', { cache: 'no-store' }).then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),

@@ -13,6 +13,9 @@ let activeTopicItem = null;
 function esc(v) { return String(v ?? '').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#039;'); }
 function originalTitleBlock(p) { return p.original_title ? `<br><small>原題: ${esc(p.original_title)}</small>` : ''; }
 function popup(p) { const link = esc(p.link); return `<strong>${esc(p.title)}</strong>${originalTitleBlock(p)}<br><span>${esc(p.representative_place)}</span><br><small>${esc(p.place_type)}</small><br><p>${esc(p.place_reason)}</p>${link ? `<a href="${link}" target="_blank" rel="noopener noreferrer">${esc(p.source) || 'source'}</a>` : ''}`; }
+function getFeaturePlace(feature) { const p = feature.properties || {}; return p.representative_place || p.geocode_query || ''; }
+function getFeaturePublishedAt(feature) { const p = feature.properties || {}; const time = Date.parse(p.published_at || ''); return Number.isNaN(time) ? 0 : time; }
+function sortedFeaturesByPlace(features) { return [...features].sort((a, b) => { const ap = getFeaturePlace(a); const bp = getFeaturePlace(b); const placeOrder = ap.localeCompare(bp, 'ja-JP', { numeric: true, sensitivity: 'base' }); if (placeOrder !== 0) return placeOrder; const at = getFeaturePublishedAt(a); const bt = getFeaturePublishedAt(b); if (at !== bt) return bt - at; const aTitle = (a.properties && a.properties.title) || ''; const bTitle = (b.properties && b.properties.title) || ''; return aTitle.localeCompare(bTitle, 'ja-JP', { numeric: true, sensitivity: 'base' }); }); }
 function setActiveTopicItem(item) { if (activeTopicItem) activeTopicItem.classList.remove('active'); activeTopicItem = item; activeTopicItem.classList.add('active'); activeTopicItem.scrollIntoView({ block: 'nearest' }); }
 function addList(feature, marker) { const p = feature.properties || {}; const item = document.createElement('div'); item.className = 'topic-item'; const original = p.original_title ? `<div class="topic-meta">原題: ${esc(p.original_title)}</div>` : ''; item.innerHTML = `<div class="topic-title">${esc(p.title)}</div>${original}<div class="topic-meta">${esc(p.representative_place)} / ${esc(p.place_type)}</div>`; item.addEventListener('click', () => { setActiveTopicItem(item); map.panTo(marker.getLatLng()); marker.openPopup(); }); marker.on('click', () => setActiveTopicItem(item)); topicListEl.appendChild(item); }
 function formatUpdatedAt(value) { if (!value) return '更新日不明'; const date = new Date(value); if (Number.isNaN(date.getTime())) return `更新: ${value}`; return `更新: ${date.toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' })}`; }
@@ -28,7 +31,7 @@ Promise.all([
   fetch('./latest.geojson', { cache: 'no-store' }).then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
   fetch('./latest-unresolved.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : { unresolved: [] })
 ]).then(([geojson, unresolvedJson]) => {
-  const features = geojson.features || [];
+  const features = sortedFeaturesByPlace(geojson.features || []);
   features.forEach(feature => {
     const c = feature.geometry && feature.geometry.coordinates;
     if (!c || c.length < 2) return;

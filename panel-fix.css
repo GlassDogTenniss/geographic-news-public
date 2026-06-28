@@ -1,3 +1,7 @@
+body:not(.panel-collapsed) > .panel-toggle {
+  display: none;
+}
+
 @media (max-width: 700px) {
-  .panel { top: calc(env(safe-area-inset-top, 0px) + 52px); max-height: calc(100vh - 68px); }
+  .panel { top: calc(env(safe-area-inset-top, 0px) + 8px); max-height: calc(100vh - 24px); }
 }

@@ -6,6 +6,30 @@ body:not(.panel-collapsed) .panel {
   position: fixed;
 }
 
+.country-indicator {
+  margin-top: 8px;
+  border-left: 4px solid var(--country-border, #ccd6e0);
+  border-radius: 8px;
+  padding: 6px 8px;
+  background: var(--country-header-bg, rgba(0,0,0,.035));
+  color: #333;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.topic-item.country-coded {
+  border-top: 1px solid rgba(0,0,0,.08);
+  border-left: 3px solid var(--country-border, #ccd6e0);
+  border-radius: 8px;
+  padding: 8px 8px 8px 9px;
+  background: var(--country-bg, rgba(0,0,0,.025));
+}
+
+.topic-item.country-coded.active {
+  border-left-width: 5px;
+  background: linear-gradient(0deg, rgba(17,85,204,.08), rgba(17,85,204,.08)), var(--country-bg, #fff);
+}
+
 @media (max-width: 700px) {
   .panel { top: calc(env(safe-area-inset-top, 0px) + 8px); max-height: calc(100vh - 24px); }
 }

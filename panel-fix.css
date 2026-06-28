@@ -2,6 +2,10 @@ body:not(.panel-collapsed) > .panel-toggle {
   display: none;
 }
 
+body:not(.panel-collapsed) .panel {
+  position: fixed;
+}
+
 @media (max-width: 700px) {
   .panel { top: calc(env(safe-area-inset-top, 0px) + 8px); max-height: calc(100vh - 24px); }
 }

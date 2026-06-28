@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>ニュース地図</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
-  <link rel="stylesheet" href="./style.css?v=20260627-6">
+  <link rel="stylesheet" href="./style.css?v=20260628-1">
 </head>
 <body>
   <div id="map"></div>
@@ -13,6 +13,7 @@
   <div id="updatedAtBadge" class="updated-at-badge">更新日を取得中</div>
   <aside class="panel" id="sidePanel">
     <div class="panel-header">
+      <button id="panelCloseButton" class="panel-close-button" type="button">一覧を閉じる</button>
       <h1>ニュース地図</h1>
       <div class="schedule-note">毎日6時に更新です</div>
       <div id="status" class="muted">loading latest.geojson...</div>
@@ -22,6 +23,6 @@
     </div>
   </aside>
   <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="./app.js?v=20260628-3"></script>
+  <script src="./app.js?v=20260628-4"></script>
 </body>
 </html>

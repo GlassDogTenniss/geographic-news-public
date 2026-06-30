@@ -4,6 +4,21 @@ L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', { maxZoom: 17, o
 delete L.Icon.Default.prototype._getIconUrl;
 L.Icon.Default.mergeOptions({ iconRetinaUrl: 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/images/marker-icon-2x.png', iconUrl: 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/images/marker-icon.png', shadowUrl: 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/images/marker-shadow.png' });
 
+const todayMarkerStyle = document.createElement('style');
+todayMarkerStyle.textContent = '.today-marker-icon { filter: hue-rotate(150deg) saturate(1.9) brightness(1.05); }';
+document.head.appendChild(todayMarkerStyle);
+const todayIcon = new L.Icon({
+  iconRetinaUrl: 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/images/marker-icon-2x.png',
+  iconUrl: 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/images/marker-icon.png',
+  shadowUrl: 'https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/images/marker-shadow.png',
+  iconSize: [25, 41],
+  iconAnchor: [12, 41],
+  popupAnchor: [1, -34],
+  shadowSize: [41, 41],
+  className: 'today-marker-icon'
+});
+const japanDateFormatter = new Intl.DateTimeFormat('ja-JP', { timeZone: 'Asia/Tokyo', year: 'numeric', month: '2-digit', day: '2-digit' });
+
 const statusEl = document.getElementById('status');
 const topicListEl = document.getElementById('topicList');
 const panelToggleEl = document.getElementById('panelToggle');
@@ -21,6 +36,9 @@ function displayPlace(p) { return p.place_label || p.representative_place || p.g
 function originalTitleBlock(p) { return p.original_title ? `<br><small>原題: ${esc(p.original_title)}</small>` : ''; }
 function popup(p) { const link = esc(p.link); return `<strong>${esc(p.title)}</strong>${originalTitleBlock(p)}<br><span>${esc(displayPlace(p))}</span><br><small>${esc(p.place_type)}</small><br><p>${esc(p.place_reason)}</p>${link ? `<a href="${link}" target="_blank" rel="noopener noreferrer">${esc(p.source) || 'source'}</a>` : ''}`; }
 function isKunlunPlaceholder(feature) { return (feature.properties || {}).rule_id === 'unresolved_kunlun_placeholder'; }
+function japanDateKey(value) { const date = value instanceof Date ? value : new Date(value || ''); if (Number.isNaN(date.getTime())) return ''; return japanDateFormatter.format(date); }
+function isPublishedTodayInJapan(feature) { const p = feature.properties || {}; return Boolean(p.published_at) && japanDateKey(p.published_at) === japanDateKey(new Date()); }
+function markerOptionsForFeature(feature) { return !isKunlunPlaceholder(feature) && isPublishedTodayInJapan(feature) ? { icon: todayIcon } : {}; }
 function getFeaturePlace(feature) { const p = feature.properties || {}; return p.sort_place_label || p.place_label || p.representative_place || p.geocode_query || ''; }
 function getFeaturePublishedAt(feature) { const p = feature.properties || {}; const time = Date.parse(p.published_at || ''); return Number.isNaN(time) ? 0 : time; }
 function sortedFeaturesByPlace(features) { return [...features].sort((a, b) => { const ak = isKunlunPlaceholder(a); const bk = isKunlunPlaceholder(b); if (ak !== bk) return ak ? 1 : -1; const placeOrder = getFeaturePlace(a).localeCompare(getFeaturePlace(b), 'ja-JP', { numeric: true, sensitivity: 'base' }); if (placeOrder) return placeOrder; return getFeaturePublishedAt(b) - getFeaturePublishedAt(a); }); }
@@ -59,7 +77,7 @@ Promise.all([
   features.forEach(feature => {
     const c = feature.geometry && feature.geometry.coordinates;
     if (!c || c.length < 2) return;
-    const marker = L.marker([c[1], c[0]]).addTo(map);
+    const marker = L.marker([c[1], c[0]], markerOptionsForFeature(feature)).addTo(map);
     marker.bindPopup(popup(feature.properties || {}));
     markers.push(marker);
     addList(feature, marker);

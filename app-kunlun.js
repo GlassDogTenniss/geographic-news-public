@@ -34,7 +34,7 @@ function popup(p) { const link = esc(p.link); return `<strong>${esc(p.title)}</s
 function isKunlunPlaceholder(feature) { return (feature.properties || {}).rule_id === 'unresolved_kunlun_placeholder'; }
 function japanDateKey(value) { const date = value instanceof Date ? value : new Date(value || ''); if (Number.isNaN(date.getTime())) return ''; return japanDateFormatter.format(date); }
 function isPublishedTodayInJapan(feature) { const p = feature.properties || {}; return Boolean(p.published_at) && japanDateKey(p.published_at) === japanDateKey(new Date()); }
-function markerOptionsForFeature(feature) { return !isKunlunPlaceholder(feature) && isPublishedTodayInJapan(feature) ? { icon: todayIcon } : {}; }
+function markerOptionsForFeature(feature) { return !isKunlunPlaceholder(feature) && isPublishedTodayInJapan(feature) ? { icon: todayIcon, zIndexOffset: 1000 } : {}; }
 function getFeaturePlace(feature) { const p = feature.properties || {}; return p.sort_place_label || p.place_label || p.representative_place || p.geocode_query || ''; }
 function getFeaturePublishedAt(feature) { const p = feature.properties || {}; const time = Date.parse(p.published_at || ''); return Number.isNaN(time) ? 0 : time; }
 function sortedFeaturesByPlace(features) { return [...features].sort((a, b) => { const ak = isKunlunPlaceholder(a); const bk = isKunlunPlaceholder(b); if (ak !== bk) return ak ? 1 : -1; const placeOrder = getFeaturePlace(a).localeCompare(getFeaturePlace(b), 'ja-JP', { numeric: true, sensitivity: 'base' }); if (placeOrder) return placeOrder; return getFeaturePublishedAt(b) - getFeaturePublishedAt(a); }); }
